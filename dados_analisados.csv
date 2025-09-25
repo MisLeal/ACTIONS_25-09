@@ -1,0 +1,2800 @@
+tipo_contacto,agente_accion,fecha_accion,NOME,SUPERVISOR,Total
+cd,ext_aguisouz,2025-09-15,Aguida Manoela Pereira de Souza,Adriana,691
+cd,ext_aguisouz,2025-09-16,Aguida Manoela Pereira de Souza,Adriana,127
+cd,ext_aguisouz,2025-09-17,Aguida Manoela Pereira de Souza,Adriana,151
+cd,ext_aguisouz,2025-09-22,Aguida Manoela Pereira de Souza,Adriana,95
+cd,ext_aguisouz,2025-09-23,Aguida Manoela Pereira de Souza,Adriana,160
+cd,ext_aguisouz,2025-09-24,Aguida Manoela Pereira de Souza,Adriana,35
+cd,ext_alesr,2025-09-15,Alessandro Ferreira Rodrigues,Cinthya,598
+cd,ext_alesr,2025-09-16,Alessandro Ferreira Rodrigues,Cinthya,77
+cd,ext_alesr,2025-09-17,Alessandro Ferreira Rodrigues,Cinthya,80
+cd,ext_alesr,2025-09-18,Alessandro Ferreira Rodrigues,Cinthya,81
+cd,ext_alesr,2025-09-19,Alessandro Ferreira Rodrigues,Cinthya,13
+cd,ext_alesr,2025-09-22,Alessandro Ferreira Rodrigues,Cinthya,9
+cd,ext_alesr,2025-09-23,Alessandro Ferreira Rodrigues,Cinthya,57
+cd,ext_alesr,2025-09-24,Alessandro Ferreira Rodrigues,Cinthya,23
+cd,ext_almester,2025-09-19,ESTER MARTINS DE ALMEIDA,Nycolle,10
+cd,ext_almester,2025-09-20,ESTER MARTINS DE ALMEIDA,Nycolle,20
+cd,ext_almester,2025-09-22,ESTER MARTINS DE ALMEIDA,Nycolle,22
+cd,ext_almester,2025-09-23,ESTER MARTINS DE ALMEIDA,Nycolle,56
+cd,ext_almester,2025-09-24,ESTER MARTINS DE ALMEIDA,Nycolle,60
+cd,ext_alycarva,2025-09-19,ALYSSON KAUA ROCHA DE CARVALHO,Chayene,3
+cd,ext_alycarva,2025-09-20,ALYSSON KAUA ROCHA DE CARVALHO,Chayene,53
+cd,ext_alycarva,2025-09-22,ALYSSON KAUA ROCHA DE CARVALHO,Chayene,66
+cd,ext_alycarva,2025-09-23,ALYSSON KAUA ROCHA DE CARVALHO,Chayene,48
+cd,ext_alycarva,2025-09-24,ALYSSON KAUA ROCHA DE CARVALHO,Chayene,72
+cd,ext_alycarva,2025-09-25,ALYSSON KAUA ROCHA DE CARVALHO,Chayene,21
+cd,ext_anatos,2025-09-15,Ana Beatriz Araujo Dos Santos,Cinthya,3
+cd,ext_anderoc,2025-09-15,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,54
+cd,ext_anderoc,2025-09-16,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,11
+cd,ext_anderoc,2025-09-17,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,29
+cd,ext_anderoc,2025-09-18,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,29
+cd,ext_anderoc,2025-09-19,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,42
+cd,ext_anderoc,2025-09-20,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,13
+cd,ext_anderoc,2025-09-22,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,51
+cd,ext_anderoc,2025-09-23,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,27
+cd,ext_anderoc,2025-09-24,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,2
+cd,ext_anflpere,2025-09-17,Ana Flavia Peres Pereira,Cinthya,2
+cd,ext_anflpere,2025-09-18,Ana Flavia Peres Pereira,Cinthya,2
+cd,ext_anflpere,2025-09-19,Ana Flavia Peres Pereira,Cinthya,1
+cd,ext_anflpere,2025-09-22,Ana Flavia Peres Pereira,Cinthya,3
+cd,ext_anflpere,2025-09-23,Ana Flavia Peres Pereira,Cinthya,3
+cd,ext_anivo,2025-09-15,Ana Clara Dos Santos Ivo,Cinthya,390
+cd,ext_anivo,2025-09-16,Ana Clara Dos Santos Ivo,Cinthya,28
+cd,ext_anivo,2025-09-17,Ana Clara Dos Santos Ivo,Cinthya,30
+cd,ext_anivo,2025-09-18,Ana Clara Dos Santos Ivo,Cinthya,26
+cd,ext_anivo,2025-09-19,Ana Clara Dos Santos Ivo,Cinthya,8
+cd,ext_anivo,2025-09-22,Ana Clara Dos Santos Ivo,Cinthya,15
+cd,ext_anivo,2025-09-23,Ana Clara Dos Santos Ivo,Cinthya,20
+cd,ext_anivo,2025-09-24,Ana Clara Dos Santos Ivo,Cinthya,16
+cd,ext_anivo,2025-09-25,Ana Clara Dos Santos Ivo,Cinthya,4
+cd,ext_anmart,2025-09-15,Andreia Torres Rocha Martins,Klaus,660
+cd,ext_anmart,2025-09-16,Andreia Torres Rocha Martins,Klaus,114
+cd,ext_anmart,2025-09-17,Andreia Torres Rocha Martins,Klaus,58
+cd,ext_anmart,2025-09-18,Andreia Torres Rocha Martins,Klaus,54
+cd,ext_anmart,2025-09-19,Andreia Torres Rocha Martins,Klaus,17
+cd,ext_anmart,2025-09-20,Andreia Torres Rocha Martins,Klaus,23
+cd,ext_anmart,2025-09-22,Andreia Torres Rocha Martins,Klaus,46
+cd,ext_anmart,2025-09-23,Andreia Torres Rocha Martins,Klaus,58
+cd,ext_anmart,2025-09-24,Andreia Torres Rocha Martins,Klaus,24
+cd,ext_anmart,2025-09-25,Andreia Torres Rocha Martins,Klaus,5
+cd,ext_annicost,2025-09-19,ANNIARA OLGA MARINHO COSTA,Klaus,16
+cd,ext_annicost,2025-09-20,ANNIARA OLGA MARINHO COSTA,Klaus,32
+cd,ext_annicost,2025-09-22,ANNIARA OLGA MARINHO COSTA,Klaus,69
+cd,ext_annicost,2025-09-23,ANNIARA OLGA MARINHO COSTA,Klaus,65
+cd,ext_annicost,2025-09-24,ANNIARA OLGA MARINHO COSTA,Klaus,76
+cd,ext_annl,2025-09-16,ANNA LUIZA RIBEIRO COSTA ,Chayene,42
+cd,ext_annl,2025-09-17,ANNA LUIZA RIBEIRO COSTA ,Chayene,56
+cd,ext_annl,2025-09-18,ANNA LUIZA RIBEIRO COSTA ,Chayene,72
+cd,ext_annl,2025-09-19,ANNA LUIZA RIBEIRO COSTA ,Chayene,37
+cd,ext_annl,2025-09-23,ANNA LUIZA RIBEIRO COSTA ,Chayene,43
+cd,ext_anvinhal,2025-09-15,Ana Carolina Silva Vinhal,Cinthya,163
+cd,ext_anvinhal,2025-09-16,Ana Carolina Silva Vinhal,Cinthya,11
+cd,ext_anvinhal,2025-09-17,Ana Carolina Silva Vinhal,Cinthya,12
+cd,ext_asilv,2025-09-15,ANA CAROLINA DOS SANTOS SILVA,Adriana,1561
+cd,ext_asilv,2025-09-16,ANA CAROLINA DOS SANTOS SILVA,Adriana,114
+cd,ext_asilv,2025-09-17,ANA CAROLINA DOS SANTOS SILVA,Adriana,197
+cd,ext_asilv,2025-09-18,ANA CAROLINA DOS SANTOS SILVA,Adriana,190
+cd,ext_asilv,2025-09-19,ANA CAROLINA DOS SANTOS SILVA,Adriana,48
+cd,ext_asilv,2025-09-20,ANA CAROLINA DOS SANTOS SILVA,Adriana,58
+cd,ext_asilv,2025-09-22,ANA CAROLINA DOS SANTOS SILVA,Adriana,134
+cd,ext_asilv,2025-09-23,ANA CAROLINA DOS SANTOS SILVA,Adriana,213
+cd,ext_asilv,2025-09-24,ANA CAROLINA DOS SANTOS SILVA,Adriana,78
+cd,ext_ayxavier,2025-09-15,AYLA MIRANDA XAVIER,Adriana,1490
+cd,ext_ayxavier,2025-09-16,AYLA MIRANDA XAVIER,Adriana,101
+cd,ext_ayxavier,2025-09-17,AYLA MIRANDA XAVIER,Adriana,92
+cd,ext_ayxavier,2025-09-18,AYLA MIRANDA XAVIER,Adriana,165
+cd,ext_ayxavier,2025-09-19,AYLA MIRANDA XAVIER,Adriana,61
+cd,ext_ayxavier,2025-09-20,AYLA MIRANDA XAVIER,Adriana,43
+cd,ext_ayxavier,2025-09-22,AYLA MIRANDA XAVIER,Adriana,85
+cd,ext_ayxavier,2025-09-23,AYLA MIRANDA XAVIER,Adriana,102
+cd,ext_ayxavier,2025-09-24,AYLA MIRANDA XAVIER,Adriana,49
+cd,ext_ayxavier,2025-09-25,AYLA MIRANDA XAVIER,Adriana,13
+cd,ext_barvaler,2025-09-19,VALERIA DE PAULA BARBOSA,Chayene,1
+cd,ext_barvaler,2025-09-20,VALERIA DE PAULA BARBOSA,Chayene,67
+cd,ext_barvaler,2025-09-22,VALERIA DE PAULA BARBOSA,Chayene,42
+cd,ext_barvaler,2025-09-23,VALERIA DE PAULA BARBOSA,Chayene,52
+cd,ext_barvaler,2025-09-24,VALERIA DE PAULA BARBOSA,Chayene,50
+cd,ext_barvaler,2025-09-25,VALERIA DE PAULA BARBOSA,Chayene,16
+cd,ext_beatraze,2025-09-15,Beatriz Saraiva de Azevedo,Nycolle,361
+cd,ext_beatraze,2025-09-16,Beatriz Saraiva de Azevedo,Nycolle,12
+cd,ext_beatraze,2025-09-18,Beatriz Saraiva de Azevedo,Nycolle,15
+cd,ext_beatraze,2025-09-19,Beatriz Saraiva de Azevedo,Nycolle,8
+cd,ext_beatraze,2025-09-20,Beatriz Saraiva de Azevedo,Nycolle,5
+cd,ext_beatraze,2025-09-22,Beatriz Saraiva de Azevedo,Nycolle,41
+cd,ext_beatraze,2025-09-23,Beatriz Saraiva de Azevedo,Nycolle,27
+cd,ext_besilv,2025-09-15,Beatriz Soares Da Silva,Cinthya,199
+cd,ext_besilv,2025-09-16,Beatriz Soares Da Silva,Cinthya,13
+cd,ext_besilv,2025-09-17,Beatriz Soares Da Silva,Cinthya,7
+cd,ext_besilv,2025-09-18,Beatriz Soares Da Silva,Cinthya,34
+cd,ext_besilv,2025-09-19,Beatriz Soares Da Silva,Cinthya,21
+cd,ext_besilv,2025-09-20,Beatriz Soares Da Silva,Cinthya,6
+cd,ext_besilv,2025-09-22,Beatriz Soares Da Silva,Cinthya,30
+cd,ext_besilv,2025-09-23,Beatriz Soares Da Silva,Cinthya,7
+cd,ext_bev,2025-09-17,BEATRIZ NEIVA SOUZA VIEIRA ,Adriana,121
+cd,ext_bev,2025-09-18,BEATRIZ NEIVA SOUZA VIEIRA ,Adriana,118
+cd,ext_bev,2025-09-19,BEATRIZ NEIVA SOUZA VIEIRA ,Adriana,47
+cd,ext_bev,2025-09-22,BEATRIZ NEIVA SOUZA VIEIRA ,Adriana,139
+cd,ext_bev,2025-09-23,BEATRIZ NEIVA SOUZA VIEIRA ,Adriana,139
+cd,ext_bev,2025-09-24,BEATRIZ NEIVA SOUZA VIEIRA ,Adriana,140
+cd,ext_brebrito,2025-09-15,Brenda Gabrielle Lima Brito,Cinthya,100
+cd,ext_brebrito,2025-09-16,Brenda Gabrielle Lima Brito,Cinthya,56
+cd,ext_brebrito,2025-09-17,Brenda Gabrielle Lima Brito,Cinthya,55
+cd,ext_brebrito,2025-09-18,Brenda Gabrielle Lima Brito,Cinthya,45
+cd,ext_brebrito,2025-09-19,Brenda Gabrielle Lima Brito,Cinthya,13
+cd,ext_brebrito,2025-09-23,Brenda Gabrielle Lima Brito,Cinthya,44
+cd,ext_brebrito,2025-09-24,Brenda Gabrielle Lima Brito,Cinthya,16
+cd,ext_brenndna,2025-09-15,Brennda Yasmin Alves Do Nascimento,Adriana,1285
+cd,ext_brenndna,2025-09-16,Brennda Yasmin Alves Do Nascimento,Adriana,135
+cd,ext_brenndna,2025-09-17,Brennda Yasmin Alves Do Nascimento,Adriana,137
+cd,ext_brenndna,2025-09-18,Brennda Yasmin Alves Do Nascimento,Adriana,220
+cd,ext_brenndna,2025-09-19,Brennda Yasmin Alves Do Nascimento,Adriana,62
+cd,ext_brenndna,2025-09-20,Brennda Yasmin Alves Do Nascimento,Adriana,70
+cd,ext_brenndna,2025-09-23,Brennda Yasmin Alves Do Nascimento,Adriana,120
+cd,ext_brenndna,2025-09-24,Brennda Yasmin Alves Do Nascimento,Adriana,70
+cd,ext_brenndna,2025-09-25,Brennda Yasmin Alves Do Nascimento,Adriana,16
+cd,ext_cail,2025-09-15,Caio Victor Mazieiro de Lima,Cinthya,349
+cd,ext_cail,2025-09-16,Caio Victor Mazieiro de Lima,Cinthya,35
+cd,ext_cail,2025-09-17,Caio Victor Mazieiro de Lima,Cinthya,23
+cd,ext_cail,2025-09-18,Caio Victor Mazieiro de Lima,Cinthya,36
+cd,ext_cail,2025-09-19,Caio Victor Mazieiro de Lima,Cinthya,4
+cd,ext_cail,2025-09-20,Caio Victor Mazieiro de Lima,Cinthya,9
+cd,ext_cail,2025-09-22,Caio Victor Mazieiro de Lima,Cinthya,21
+cd,ext_cail,2025-09-23,Caio Victor Mazieiro de Lima,Cinthya,23
+cd,ext_cail,2025-09-24,Caio Victor Mazieiro de Lima,Cinthya,6
+cd,ext_caljulia,2025-09-15,JULIANO RIBEIRO CALDAS,Nycolle,51
+cd,ext_caljulia,2025-09-16,JULIANO RIBEIRO CALDAS,Nycolle,2
+cd,ext_cardclar,2025-09-15,CLARA DE SOUSA CARDOSO ,Klaus,100
+cd,ext_cardclar,2025-09-16,CLARA DE SOUSA CARDOSO ,Klaus,75
+cd,ext_cardclar,2025-09-17,CLARA DE SOUSA CARDOSO ,Klaus,81
+cd,ext_cardclar,2025-09-19,CLARA DE SOUSA CARDOSO ,Klaus,51
+cd,ext_cardclar,2025-09-22,CLARA DE SOUSA CARDOSO ,Klaus,69
+cd,ext_cardclar,2025-09-23,CLARA DE SOUSA CARDOSO ,Klaus,60
+cd,ext_cardclar,2025-09-24,CLARA DE SOUSA CARDOSO ,Klaus,82
+cd,ext_carvsara,2025-09-15,Sarah Ataides Carvalho,Klaus,163
+cd,ext_cealenca,2025-09-15,CESAR FELLIPE LUCENA DE ALENCAR,Nycolle,780
+cd,ext_cealenca,2025-09-16,CESAR FELLIPE LUCENA DE ALENCAR,Nycolle,153
+cd,ext_cealenca,2025-09-17,CESAR FELLIPE LUCENA DE ALENCAR,Nycolle,79
+cd,ext_cealenca,2025-09-22,CESAR FELLIPE LUCENA DE ALENCAR,Nycolle,97
+cd,ext_cealenca,2025-09-24,CESAR FELLIPE LUCENA DE ALENCAR,Nycolle,42
+cd,ext_chraiol,2025-09-15,Chayane Silveira Raiol,Cinthya,981
+cd,ext_chraiol,2025-09-16,Chayane Silveira Raiol,Cinthya,137
+cd,ext_chraiol,2025-09-17,Chayane Silveira Raiol,Cinthya,50
+cd,ext_chraiol,2025-09-18,Chayane Silveira Raiol,Cinthya,72
+cd,ext_chraiol,2025-09-19,Chayane Silveira Raiol,Cinthya,23
+cd,ext_chraiol,2025-09-20,Chayane Silveira Raiol,Cinthya,22
+cd,ext_chraiol,2025-09-22,Chayane Silveira Raiol,Cinthya,65
+cd,ext_chraiol,2025-09-23,Chayane Silveira Raiol,Cinthya,53
+cd,ext_chraiol,2025-09-24,Chayane Silveira Raiol,Cinthya,41
+cd,ext_chraiol,2025-09-25,Chayane Silveira Raiol,Cinthya,6
+cd,ext_crislaij,2025-09-15,Crislainy Serafim de Jesus,Nycolle,387
+cd,ext_crislaij,2025-09-17,Crislainy Serafim de Jesus,Nycolle,25
+cd,ext_crislaij,2025-09-18,Crislainy Serafim de Jesus,Nycolle,14
+cd,ext_crislaij,2025-09-19,Crislainy Serafim de Jesus,Nycolle,9
+cd,ext_crislaij,2025-09-20,Crislainy Serafim de Jesus,Nycolle,11
+cd,ext_crislaij,2025-09-23,Crislainy Serafim de Jesus,Nycolle,26
+cd,ext_crislaij,2025-09-24,Crislainy Serafim de Jesus,Nycolle,9
+cd,ext_crislaij,2025-09-25,Crislainy Serafim de Jesus,Nycolle,5
+cd,ext_danieb,2025-09-15,DANIEL LIMA BARBOSA,Klaus,459
+cd,ext_danieb,2025-09-16,DANIEL LIMA BARBOSA,Klaus,51
+cd,ext_danieb,2025-09-17,DANIEL LIMA BARBOSA,Klaus,91
+cd,ext_danieb,2025-09-18,DANIEL LIMA BARBOSA,Klaus,57
+cd,ext_danieb,2025-09-19,DANIEL LIMA BARBOSA,Klaus,27
+cd,ext_danieb,2025-09-22,DANIEL LIMA BARBOSA,Klaus,70
+cd,ext_danieb,2025-09-23,DANIEL LIMA BARBOSA,Klaus,74
+cd,ext_danieb,2025-09-24,DANIEL LIMA BARBOSA,Klaus,29
+cd,ext_diviguim,2025-09-23,DIVINA CRISTINA RODRIGUES GUIMARAES ,Cinthya,2
+cd,ext_dousa,2025-09-15,DOUGLAS OLIVEIRA DOS SANTOS ,Klaus,73
+cd,ext_dousa,2025-09-16,DOUGLAS OLIVEIRA DOS SANTOS ,Klaus,71
+cd,ext_dousa,2025-09-17,DOUGLAS OLIVEIRA DOS SANTOS ,Klaus,56
+cd,ext_dousa,2025-09-18,DOUGLAS OLIVEIRA DOS SANTOS ,Klaus,53
+cd,ext_dousa,2025-09-19,DOUGLAS OLIVEIRA DOS SANTOS ,Klaus,42
+cd,ext_dousa,2025-09-22,DOUGLAS OLIVEIRA DOS SANTOS ,Klaus,59
+cd,ext_dousa,2025-09-24,DOUGLAS OLIVEIRA DOS SANTOS ,Klaus,41
+cd,ext_edisjuni,2025-09-15,EDISON GALDINO JUNIOR ,Chayene,93
+cd,ext_edisjuni,2025-09-16,EDISON GALDINO JUNIOR ,Chayene,53
+cd,ext_edisjuni,2025-09-17,EDISON GALDINO JUNIOR ,Chayene,71
+cd,ext_edisjuni,2025-09-18,EDISON GALDINO JUNIOR ,Chayene,67
+cd,ext_edisjuni,2025-09-19,EDISON GALDINO JUNIOR ,Chayene,54
+cd,ext_edisjuni,2025-09-20,EDISON GALDINO JUNIOR ,Chayene,82
+cd,ext_edisjuni,2025-09-22,EDISON GALDINO JUNIOR ,Chayene,44
+cd,ext_edisjuni,2025-09-23,EDISON GALDINO JUNIOR ,Chayene,43
+cd,ext_edisjuni,2025-09-24,EDISON GALDINO JUNIOR ,Chayene,47
+cd,ext_emills,2025-09-15,Emilly Neves Da Silva,Chayene,46
+cd,ext_emo,2025-09-15,EMILLY GABRIELLY ALMEIDA DE OLIVEIRA ,Cinthya,33
+cd,ext_emo,2025-09-16,EMILLY GABRIELLY ALMEIDA DE OLIVEIRA ,Cinthya,20
+cd,ext_emo,2025-09-17,EMILLY GABRIELLY ALMEIDA DE OLIVEIRA ,Cinthya,27
+cd,ext_emo,2025-09-18,EMILLY GABRIELLY ALMEIDA DE OLIVEIRA ,Cinthya,20
+cd,ext_emo,2025-09-19,EMILLY GABRIELLY ALMEIDA DE OLIVEIRA ,Cinthya,31
+cd,ext_emo,2025-09-20,EMILLY GABRIELLY ALMEIDA DE OLIVEIRA ,Cinthya,23
+cd,ext_emo,2025-09-22,EMILLY GABRIELLY ALMEIDA DE OLIVEIRA ,Cinthya,25
+cd,ext_emo,2025-09-23,EMILLY GABRIELLY ALMEIDA DE OLIVEIRA ,Cinthya,18
+cd,ext_erickrio,2025-09-15,Erick Fernando Da Conceicao Rios,Cinthya,142
+cd,ext_erickrio,2025-09-16,Erick Fernando Da Conceicao Rios,Cinthya,11
+cd,ext_erickrio,2025-09-17,Erick Fernando Da Conceicao Rios,Cinthya,20
+cd,ext_erickrio,2025-09-18,Erick Fernando Da Conceicao Rios,Cinthya,8
+cd,ext_erickrio,2025-09-19,Erick Fernando Da Conceicao Rios,Cinthya,5
+cd,ext_erickrio,2025-09-22,Erick Fernando Da Conceicao Rios,Cinthya,4
+cd,ext_erickrio,2025-09-23,Erick Fernando Da Conceicao Rios,Cinthya,12
+cd,ext_erickrio,2025-09-24,Erick Fernando Da Conceicao Rios,Cinthya,3
+cd,ext_fekaic,2025-09-15,Kaic Miguel da Silva Ferreira,Klaus,531
+cd,ext_fekaic,2025-09-16,Kaic Miguel da Silva Ferreira,Klaus,90
+cd,ext_fekaic,2025-09-17,Kaic Miguel da Silva Ferreira,Klaus,52
+cd,ext_fekaic,2025-09-18,Kaic Miguel da Silva Ferreira,Klaus,49
+cd,ext_fekaic,2025-09-19,Kaic Miguel da Silva Ferreira,Klaus,20
+cd,ext_fekaic,2025-09-20,Kaic Miguel da Silva Ferreira,Klaus,30
+cd,ext_fekaic,2025-09-22,Kaic Miguel da Silva Ferreira,Klaus,50
+cd,ext_fekaic,2025-09-23,Kaic Miguel da Silva Ferreira,Klaus,35
+cd,ext_fekaic,2025-09-24,Kaic Miguel da Silva Ferreira,Klaus,27
+cd,ext_fekaic,2025-09-25,Kaic Miguel da Silva Ferreira,Klaus,5
+cd,ext_gabrlibe,2025-09-15,Gabriel Ferreira Liberato,Adriana,764
+cd,ext_gabrlibe,2025-09-16,Gabriel Ferreira Liberato,Adriana,70
+cd,ext_gabrlibe,2025-09-17,Gabriel Ferreira Liberato,Adriana,119
+cd,ext_gabrlibe,2025-09-18,Gabriel Ferreira Liberato,Adriana,74
+cd,ext_gabrlibe,2025-09-19,Gabriel Ferreira Liberato,Adriana,14
+cd,ext_gabrlibe,2025-09-22,Gabriel Ferreira Liberato,Adriana,17
+cd,ext_gabrlibe,2025-09-23,Gabriel Ferreira Liberato,Adriana,47
+cd,ext_gabrlibe,2025-09-24,Gabriel Ferreira Liberato,Adriana,3
+cd,ext_gbilpere,2025-09-15,Gabriel Rodrigues Pereira ,Klaus,165
+cd,ext_gbilpere,2025-09-16,Gabriel Rodrigues Pereira ,Klaus,65
+cd,ext_gbilpere,2025-09-17,Gabriel Rodrigues Pereira ,Klaus,29
+cd,ext_gbilpere,2025-09-18,Gabriel Rodrigues Pereira ,Klaus,27
+cd,ext_gbilpere,2025-09-19,Gabriel Rodrigues Pereira ,Klaus,10
+cd,ext_gbilpere,2025-09-20,Gabriel Rodrigues Pereira ,Klaus,14
+cd,ext_gbilpere,2025-09-22,Gabriel Rodrigues Pereira ,Klaus,30
+cd,ext_gbilpere,2025-09-23,Gabriel Rodrigues Pereira ,Klaus,41
+cd,ext_gbilpere,2025-09-24,Gabriel Rodrigues Pereira ,Klaus,19
+cd,ext_gbilpere,2025-09-25,Gabriel Rodrigues Pereira ,Klaus,5
+cd,ext_gianmend,2025-09-15,Giana Gisely de Sousa Mendes,Nycolle,514
+cd,ext_gianmend,2025-09-16,Giana Gisely de Sousa Mendes,Nycolle,40
+cd,ext_gianmend,2025-09-17,Giana Gisely de Sousa Mendes,Nycolle,60
+cd,ext_gianmend,2025-09-18,Giana Gisely de Sousa Mendes,Nycolle,26
+cd,ext_gianmend,2025-09-19,Giana Gisely de Sousa Mendes,Nycolle,5
+cd,ext_gianmend,2025-09-22,Giana Gisely de Sousa Mendes,Nycolle,16
+cd,ext_gianmend,2025-09-23,Giana Gisely de Sousa Mendes,Nycolle,37
+cd,ext_gianmend,2025-09-24,Giana Gisely de Sousa Mendes,Nycolle,18
+cd,ext_gianmend,2025-09-25,Giana Gisely de Sousa Mendes,Nycolle,3
+cd,ext_giog,2025-09-15,Giovanna Soares Araújo Gonçalves,Klaus,879
+cd,ext_giog,2025-09-16,Giovanna Soares Araújo Gonçalves,Klaus,81
+cd,ext_giog,2025-09-17,Giovanna Soares Araújo Gonçalves,Klaus,95
+cd,ext_giog,2025-09-18,Giovanna Soares Araújo Gonçalves,Klaus,80
+cd,ext_giog,2025-09-19,Giovanna Soares Araújo Gonçalves,Klaus,17
+cd,ext_giog,2025-09-20,Giovanna Soares Araújo Gonçalves,Klaus,25
+cd,ext_giog,2025-09-22,Giovanna Soares Araújo Gonçalves,Klaus,12
+cd,ext_giog,2025-09-23,Giovanna Soares Araújo Gonçalves,Klaus,58
+cd,ext_giog,2025-09-24,Giovanna Soares Araújo Gonçalves,Klaus,15
+cd,ext_giso,2025-09-15,Geovani Lucio Soares,Klaus,149
+cd,ext_giso,2025-09-16,Geovani Lucio Soares,Klaus,22
+cd,ext_giso,2025-09-17,Geovani Lucio Soares,Klaus,42
+cd,ext_giso,2025-09-18,Geovani Lucio Soares,Klaus,28
+cd,ext_giso,2025-09-19,Geovani Lucio Soares,Klaus,9
+cd,ext_giso,2025-09-20,Geovani Lucio Soares,Klaus,2
+cd,ext_giso,2025-09-22,Geovani Lucio Soares,Klaus,2
+cd,ext_giso,2025-09-23,Geovani Lucio Soares,Klaus,5
+cd,ext_gomesj,2025-09-15,JOÃO VITOR DOS SANTOS GOMES,Nycolle,134
+cd,ext_grazielg,2025-09-15,Maria Graziella Oliveira Gomes,Nycolle,821
+cd,ext_grazielg,2025-09-16,Maria Graziella Oliveira Gomes,Nycolle,79
+cd,ext_grazielg,2025-09-17,Maria Graziella Oliveira Gomes,Nycolle,112
+cd,ext_grazielg,2025-09-18,Maria Graziella Oliveira Gomes,Nycolle,123
+cd,ext_grazielg,2025-09-19,Maria Graziella Oliveira Gomes,Nycolle,56
+cd,ext_grazielg,2025-09-23,Maria Graziella Oliveira Gomes,Nycolle,86
+cd,ext_grazielg,2025-09-24,Maria Graziella Oliveira Gomes,Nycolle,50
+cd,ext_guilhec,2025-09-15,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,524
+cd,ext_guilhec,2025-09-17,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,123
+cd,ext_guilhec,2025-09-18,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,45
+cd,ext_guilhec,2025-09-19,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,8
+cd,ext_guilhec,2025-09-20,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,36
+cd,ext_guilhec,2025-09-22,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,53
+cd,ext_guilhec,2025-09-23,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,73
+cd,ext_guilhec,2025-09-24,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,23
+cd,ext_guilhec,2025-09-25,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,7
+cd,ext_hajunior,2025-09-15,HASENCLEVER GUIMARAES DE FREITAS LIMA JUNIOR ,Nycolle,217
+cd,ext_hajunior,2025-09-16,HASENCLEVER GUIMARAES DE FREITAS LIMA JUNIOR ,Nycolle,21
+cd,ext_hajunior,2025-09-18,HASENCLEVER GUIMARAES DE FREITAS LIMA JUNIOR ,Nycolle,17
+cd,ext_hajunior,2025-09-19,HASENCLEVER GUIMARAES DE FREITAS LIMA JUNIOR ,Nycolle,11
+cd,ext_hajunior,2025-09-22,HASENCLEVER GUIMARAES DE FREITAS LIMA JUNIOR ,Nycolle,28
+cd,ext_hajunior,2025-09-23,HASENCLEVER GUIMARAES DE FREITAS LIMA JUNIOR ,Nycolle,15
+cd,ext_hajunior,2025-09-24,HASENCLEVER GUIMARAES DE FREITAS LIMA JUNIOR ,Nycolle,11
+cd,ext_hajunior,2025-09-25,HASENCLEVER GUIMARAES DE FREITAS LIMA JUNIOR ,Nycolle,4
+cd,ext_hiavieir,2025-09-15,Hiago Victor De Souza Vieira,Chayene,75
+cd,ext_hiavieir,2025-09-16,Hiago Victor De Souza Vieira,Chayene,77
+cd,ext_hiavieir,2025-09-17,Hiago Victor De Souza Vieira,Chayene,85
+cd,ext_hiavieir,2025-09-18,Hiago Victor De Souza Vieira,Chayene,26
+cd,ext_hiavieir,2025-09-24,Hiago Victor De Souza Vieira,Chayene,52
+cd,ext_hubotelh,2025-09-19,HUGO ALMEIDA BOTELHO,Chayene,14
+cd,ext_hubotelh,2025-09-20,HUGO ALMEIDA BOTELHO,Chayene,72
+cd,ext_hubotelh,2025-09-22,HUGO ALMEIDA BOTELHO,Chayene,66
+cd,ext_hubotelh,2025-09-23,HUGO ALMEIDA BOTELHO,Chayene,69
+cd,ext_hubotelh,2025-09-24,HUGO ALMEIDA BOTELHO,Chayene,57
+cd,ext_ialiocad,2025-09-15,Iago Kauan Pereira Liocadio,Chayene,4
+cd,ext_igso,2025-09-15,IGOR DE ARAUJO SOUSA,Nycolle,1433
+cd,ext_igso,2025-09-16,IGOR DE ARAUJO SOUSA,Nycolle,179
+cd,ext_igso,2025-09-17,IGOR DE ARAUJO SOUSA,Nycolle,177
+cd,ext_igso,2025-09-20,IGOR DE ARAUJO SOUSA,Nycolle,105
+cd,ext_igso,2025-09-22,IGOR DE ARAUJO SOUSA,Nycolle,166
+cd,ext_igso,2025-09-23,IGOR DE ARAUJO SOUSA,Nycolle,172
+cd,ext_igso,2025-09-24,IGOR DE ARAUJO SOUSA,Nycolle,79
+cd,ext_igso,2025-09-25,IGOR DE ARAUJO SOUSA,Nycolle,14
+cd,ext_incardoz,2025-09-15,INGRID SIQUEIRA CARDOZO,Nycolle,1049
+cd,ext_incardoz,2025-09-16,INGRID SIQUEIRA CARDOZO,Nycolle,81
+cd,ext_incardoz,2025-09-17,INGRID SIQUEIRA CARDOZO,Nycolle,86
+cd,ext_incardoz,2025-09-18,INGRID SIQUEIRA CARDOZO,Nycolle,117
+cd,ext_incardoz,2025-09-19,INGRID SIQUEIRA CARDOZO,Nycolle,14
+cd,ext_incardoz,2025-09-20,INGRID SIQUEIRA CARDOZO,Nycolle,6
+cd,ext_incardoz,2025-09-22,INGRID SIQUEIRA CARDOZO,Nycolle,85
+cd,ext_incardoz,2025-09-23,INGRID SIQUEIRA CARDOZO,Nycolle,85
+cd,ext_incardoz,2025-09-24,INGRID SIQUEIRA CARDOZO,Nycolle,14
+cd,ext_iosousa,2025-09-15,Ione Daina De Sousa,Cinthya,183
+cd,ext_iosousa,2025-09-16,Ione Daina De Sousa,Cinthya,19
+cd,ext_iosousa,2025-09-19,Ione Daina De Sousa,Cinthya,26
+cd,ext_iosousa,2025-09-22,Ione Daina De Sousa,Cinthya,39
+cd,ext_iosousa,2025-09-23,Ione Daina De Sousa,Cinthya,10
+cd,ext_isabesa,2025-09-15,Isabella Eyshila Vitoriano Dos Santos,Adriana,585
+cd,ext_isabesa,2025-09-16,Isabella Eyshila Vitoriano Dos Santos,Adriana,43
+cd,ext_isabesa,2025-09-18,Isabella Eyshila Vitoriano Dos Santos,Adriana,59
+cd,ext_isabesa,2025-09-22,Isabella Eyshila Vitoriano Dos Santos,Adriana,39
+cd,ext_isabesa,2025-09-23,Isabella Eyshila Vitoriano Dos Santos,Adriana,33
+cd,ext_isabesa,2025-09-25,Isabella Eyshila Vitoriano Dos Santos,Adriana,5
+cd,ext_issanto,2025-09-15,ISABELA MENEZES DOS SANTOS,Nycolle,1434
+cd,ext_issanto,2025-09-16,ISABELA MENEZES DOS SANTOS,Nycolle,169
+cd,ext_issanto,2025-09-17,ISABELA MENEZES DOS SANTOS,Nycolle,183
+cd,ext_issanto,2025-09-18,ISABELA MENEZES DOS SANTOS,Nycolle,155
+cd,ext_issanto,2025-09-19,ISABELA MENEZES DOS SANTOS,Nycolle,58
+cd,ext_issanto,2025-09-20,ISABELA MENEZES DOS SANTOS,Nycolle,79
+cd,ext_issanto,2025-09-22,ISABELA MENEZES DOS SANTOS,Nycolle,192
+cd,ext_issanto,2025-09-23,ISABELA MENEZES DOS SANTOS,Nycolle,106
+cd,ext_issanto,2025-09-24,ISABELA MENEZES DOS SANTOS,Nycolle,72
+cd,ext_italconc,2025-09-15,Italo Carvalho Da Conceição,Chayene,14
+cd,ext_italconc,2025-09-16,Italo Carvalho Da Conceição,Chayene,12
+cd,ext_italconc,2025-09-17,Italo Carvalho Da Conceição,Chayene,10
+cd,ext_italconc,2025-09-19,Italo Carvalho Da Conceição,Chayene,46
+cd,ext_italconc,2025-09-22,Italo Carvalho Da Conceição,Chayene,11
+cd,ext_italconc,2025-09-23,Italo Carvalho Da Conceição,Chayene,22
+cd,ext_italconc,2025-09-24,Italo Carvalho Da Conceição,Chayene,17
+cd,ext_its,2025-09-15,Italo Rian Alves da Silva,Cinthya,771
+cd,ext_its,2025-09-16,Italo Rian Alves da Silva,Cinthya,83
+cd,ext_its,2025-09-18,Italo Rian Alves da Silva,Cinthya,110
+cd,ext_its,2025-09-19,Italo Rian Alves da Silva,Cinthya,44
+cd,ext_its,2025-09-20,Italo Rian Alves da Silva,Cinthya,26
+cd,ext_its,2025-09-22,Italo Rian Alves da Silva,Cinthya,64
+cd,ext_its,2025-09-24,Italo Rian Alves da Silva,Cinthya,45
+cd,ext_janaguia,2025-09-19,JANAINA DA SILVA AGUIAR,Klaus,5
+cd,ext_janaguia,2025-09-20,JANAINA DA SILVA AGUIAR,Klaus,7
+cd,ext_janaguia,2025-09-22,JANAINA DA SILVA AGUIAR,Klaus,57
+cd,ext_janaguia,2025-09-23,JANAINA DA SILVA AGUIAR,Klaus,45
+cd,ext_janaguia,2025-09-24,JANAINA DA SILVA AGUIAR,Klaus,53
+cd,ext_jeff,2025-09-15,Jefferson Rodrigues Fernandes,Klaus,640
+cd,ext_jeff,2025-09-16,Jefferson Rodrigues Fernandes,Klaus,91
+cd,ext_jeff,2025-09-17,Jefferson Rodrigues Fernandes,Klaus,81
+cd,ext_jeff,2025-09-18,Jefferson Rodrigues Fernandes,Klaus,94
+cd,ext_jeff,2025-09-22,Jefferson Rodrigues Fernandes,Klaus,75
+cd,ext_jeff,2025-09-23,Jefferson Rodrigues Fernandes,Klaus,70
+cd,ext_jhenifso,2025-09-15,JHENIFFER ALVES DE SOUSA,Adriana,424
+cd,ext_jhenifso,2025-09-17,JHENIFFER ALVES DE SOUSA,Adriana,65
+cd,ext_jhenifso,2025-09-18,JHENIFFER ALVES DE SOUSA,Adriana,64
+cd,ext_jhenifso,2025-09-19,JHENIFFER ALVES DE SOUSA,Adriana,16
+cd,ext_jhenifso,2025-09-23,JHENIFFER ALVES DE SOUSA,Adriana,77
+cd,ext_jhenifso,2025-09-24,JHENIFFER ALVES DE SOUSA,Adriana,31
+cd,ext_jhenifso,2025-09-25,JHENIFFER ALVES DE SOUSA,Adriana,7
+cd,ext_jhonngom,2025-09-15,Jhonnys Junior Gomes De Sousa,Adriana,855
+cd,ext_jhonngom,2025-09-16,Jhonnys Junior Gomes De Sousa,Adriana,81
+cd,ext_jhonngom,2025-09-17,Jhonnys Junior Gomes De Sousa,Adriana,78
+cd,ext_jhonngom,2025-09-18,Jhonnys Junior Gomes De Sousa,Adriana,104
+cd,ext_jhonngom,2025-09-19,Jhonnys Junior Gomes De Sousa,Adriana,27
+cd,ext_jhonngom,2025-09-22,Jhonnys Junior Gomes De Sousa,Adriana,101
+cd,ext_jhonngom,2025-09-23,Jhonnys Junior Gomes De Sousa,Adriana,92
+cd,ext_jhonngom,2025-09-24,Jhonnys Junior Gomes De Sousa,Adriana,55
+cd,ext_joafe,2025-09-15,JOAO PAULO RODRIGUES FERNANDES,Nycolle,615
+cd,ext_joafe,2025-09-16,JOAO PAULO RODRIGUES FERNANDES,Nycolle,171
+cd,ext_joafe,2025-09-20,JOAO PAULO RODRIGUES FERNANDES,Nycolle,62
+cd,ext_joafe,2025-09-24,JOAO PAULO RODRIGUES FERNANDES,Nycolle,59
+cd,ext_joigoula,2025-09-15,JOICE COSTA GOULART,Adriana,82
+cd,ext_joigoula,2025-09-16,JOICE COSTA GOULART,Adriana,49
+cd,ext_joigoula,2025-09-17,JOICE COSTA GOULART,Adriana,73
+cd,ext_joigoula,2025-09-18,JOICE COSTA GOULART,Adriana,109
+cd,ext_joigoula,2025-09-19,JOICE COSTA GOULART,Adriana,57
+cd,ext_joigoula,2025-09-20,JOICE COSTA GOULART,Adriana,69
+cd,ext_joigoula,2025-09-22,JOICE COSTA GOULART,Adriana,58
+cd,ext_joigoula,2025-09-23,JOICE COSTA GOULART,Adriana,71
+cd,ext_joigoula,2025-09-24,JOICE COSTA GOULART,Adriana,73
+cd,ext_joigoula,2025-09-25,JOICE COSTA GOULART,Adriana,10
+cd,ext_josiaand,2025-09-15,Joseane de Andrade Rego,Adriana,1360
+cd,ext_josiaand,2025-09-16,Joseane de Andrade Rego,Adriana,128
+cd,ext_josiaand,2025-09-17,Joseane de Andrade Rego,Adriana,164
+cd,ext_josiaand,2025-09-18,Joseane de Andrade Rego,Adriana,190
+cd,ext_josiaand,2025-09-19,Joseane de Andrade Rego,Adriana,61
+cd,ext_josiaand,2025-09-20,Joseane de Andrade Rego,Adriana,61
+cd,ext_josiaand,2025-09-22,Joseane de Andrade Rego,Adriana,124
+cd,ext_josiaand,2025-09-23,Joseane de Andrade Rego,Adriana,151
+cd,ext_josiaand,2025-09-24,Joseane de Andrade Rego,Adriana,69
+cd,ext_josiaand,2025-09-25,Joseane de Andrade Rego,Adriana,15
+cd,ext_julgraca,2025-09-15,Julia Oliveira da Graça,Adriana,1536
+cd,ext_julgraca,2025-09-16,Julia Oliveira da Graça,Adriana,87
+cd,ext_julgraca,2025-09-17,Julia Oliveira da Graça,Adriana,79
+cd,ext_julgraca,2025-09-18,Julia Oliveira da Graça,Adriana,104
+cd,ext_julgraca,2025-09-19,Julia Oliveira da Graça,Adriana,20
+cd,ext_julgraca,2025-09-22,Julia Oliveira da Graça,Adriana,73
+cd,ext_julgraca,2025-09-23,Julia Oliveira da Graça,Adriana,85
+cd,ext_julgraca,2025-09-25,Julia Oliveira da Graça,Adriana,4
+cd,ext_juligoul,2025-09-23,JULIA COSTA GOULART ,Chayene,9
+cd,ext_jullyssa,2025-09-22,JHULLY RAMOS DOS SANTOS ,Chayene,3
+cd,ext_jullyssa,2025-09-24,JHULLY RAMOS DOS SANTOS ,Chayene,4
+cd,ext_karicsil,2025-09-15,Karoline Rodrigues da Silva,Klaus,370
+cd,ext_karicsil,2025-09-16,Karoline Rodrigues da Silva,Klaus,57
+cd,ext_karicsil,2025-09-17,Karoline Rodrigues da Silva,Klaus,31
+cd,ext_karicsil,2025-09-18,Karoline Rodrigues da Silva,Klaus,57
+cd,ext_karicsil,2025-09-19,Karoline Rodrigues da Silva,Klaus,18
+cd,ext_karicsil,2025-09-20,Karoline Rodrigues da Silva,Klaus,23
+cd,ext_karicsil,2025-09-23,Karoline Rodrigues da Silva,Klaus,61
+cd,ext_karicsil,2025-09-24,Karoline Rodrigues da Silva,Klaus,16
+cd,ext_kasmarqu,2025-09-15,Kassia Nathalia Marques De Matos,Adriana,953
+cd,ext_kasmarqu,2025-09-16,Kassia Nathalia Marques De Matos,Adriana,68
+cd,ext_kasmarqu,2025-09-17,Kassia Nathalia Marques De Matos,Adriana,47
+cd,ext_kasmarqu,2025-09-18,Kassia Nathalia Marques De Matos,Adriana,154
+cd,ext_kasmarqu,2025-09-22,Kassia Nathalia Marques De Matos,Adriana,162
+cd,ext_kasmarqu,2025-09-23,Kassia Nathalia Marques De Matos,Adriana,154
+cd,ext_kasmarqu,2025-09-24,Kassia Nathalia Marques De Matos,Adriana,29
+cd,ext_kasmarqu,2025-09-25,Kassia Nathalia Marques De Matos,Adriana,6
+cd,ext_kevebarb,2025-09-15,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,18
+cd,ext_kevebarb,2025-09-16,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,33
+cd,ext_kevebarb,2025-09-17,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,48
+cd,ext_kevebarb,2025-09-18,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,124
+cd,ext_kevebarb,2025-09-19,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,62
+cd,ext_kevebarb,2025-09-20,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,85
+cd,ext_kevebarb,2025-09-22,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,60
+cd,ext_kevebarb,2025-09-23,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,118
+cd,ext_kevebarb,2025-09-24,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,86
+cd,ext_kevebarb,2025-09-25,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,15
+cd,ext_klaferna,2025-09-22,Klaus Ferreira Fernandes,-,1
+cd,ext_lauramac,2025-09-15,LAURA VICENTE MACIEL,Klaus,904
+cd,ext_lauramac,2025-09-16,LAURA VICENTE MACIEL,Klaus,117
+cd,ext_lauramac,2025-09-17,LAURA VICENTE MACIEL,Klaus,65
+cd,ext_lauramac,2025-09-18,LAURA VICENTE MACIEL,Klaus,70
+cd,ext_lauramac,2025-09-19,LAURA VICENTE MACIEL,Klaus,38
+cd,ext_lauramac,2025-09-20,LAURA VICENTE MACIEL,Klaus,36
+cd,ext_lauramac,2025-09-22,LAURA VICENTE MACIEL,Klaus,81
+cd,ext_lauramac,2025-09-24,LAURA VICENTE MACIEL,Klaus,29
+cd,ext_lauramac,2025-09-25,LAURA VICENTE MACIEL,Klaus,5
+cd,ext_leroc,2025-09-15,LEONARDO DOS SANTOS ROCHA ,Chayene,100
+cd,ext_leroc,2025-09-16,LEONARDO DOS SANTOS ROCHA ,Chayene,99
+cd,ext_leroc,2025-09-17,LEONARDO DOS SANTOS ROCHA ,Chayene,108
+cd,ext_leroc,2025-09-18,LEONARDO DOS SANTOS ROCHA ,Chayene,83
+cd,ext_leroc,2025-09-19,LEONARDO DOS SANTOS ROCHA ,Chayene,61
+cd,ext_leroc,2025-09-22,LEONARDO DOS SANTOS ROCHA ,Chayene,85
+cd,ext_leroc,2025-09-23,LEONARDO DOS SANTOS ROCHA ,Chayene,96
+cd,ext_leroc,2025-09-24,LEONARDO DOS SANTOS ROCHA ,Chayene,30
+cd,ext_letico,2025-09-15,Leticia Mirella Carvalho De Oliveira,Klaus,1123
+cd,ext_letico,2025-09-16,Leticia Mirella Carvalho De Oliveira,Klaus,135
+cd,ext_letico,2025-09-17,Leticia Mirella Carvalho De Oliveira,Klaus,85
+cd,ext_letico,2025-09-18,Leticia Mirella Carvalho De Oliveira,Klaus,104
+cd,ext_letico,2025-09-19,Leticia Mirella Carvalho De Oliveira,Klaus,55
+cd,ext_letico,2025-09-22,Leticia Mirella Carvalho De Oliveira,Klaus,108
+cd,ext_letico,2025-09-23,Leticia Mirella Carvalho De Oliveira,Klaus,101
+cd,ext_letico,2025-09-24,Leticia Mirella Carvalho De Oliveira,Klaus,44
+cd,ext_letico,2025-09-25,Leticia Mirella Carvalho De Oliveira,Klaus,11
+cd,ext_lig,2025-09-15,Gabrielly Brito Lima,Cinthya,17
+cd,ext_lig,2025-09-19,Gabrielly Brito Lima,Cinthya,10
+cd,ext_lilaisa,2025-09-15,LAISA VIANA LIMA ,Klaus,87
+cd,ext_lilaisa,2025-09-16,LAISA VIANA LIMA ,Klaus,65
+cd,ext_lilaisa,2025-09-17,LAISA VIANA LIMA ,Klaus,46
+cd,ext_lilaisa,2025-09-18,LAISA VIANA LIMA ,Klaus,52
+cd,ext_lilaisa,2025-09-19,LAISA VIANA LIMA ,Klaus,78
+cd,ext_lilaisa,2025-09-20,LAISA VIANA LIMA ,Klaus,73
+cd,ext_lilaisa,2025-09-22,LAISA VIANA LIMA ,Klaus,61
+cd,ext_lilaisa,2025-09-23,LAISA VIANA LIMA ,Klaus,57
+cd,ext_lilaisa,2025-09-24,LAISA VIANA LIMA ,Klaus,60
+cd,ext_lofreire,2025-09-15,Lorenne Araujo Freire ,Nycolle,844
+cd,ext_lofreire,2025-09-16,Lorenne Araujo Freire ,Nycolle,91
+cd,ext_lofreire,2025-09-17,Lorenne Araujo Freire ,Nycolle,129
+cd,ext_lofreire,2025-09-18,Lorenne Araujo Freire ,Nycolle,234
+cd,ext_lofreire,2025-09-19,Lorenne Araujo Freire ,Nycolle,54
+cd,ext_lofreire,2025-09-22,Lorenne Araujo Freire ,Nycolle,143
+cd,ext_lofreire,2025-09-23,Lorenne Araujo Freire ,Nycolle,107
+cd,ext_lofreire,2025-09-24,Lorenne Araujo Freire ,Nycolle,46
+cd,ext_lofreire,2025-09-25,Lorenne Araujo Freire ,Nycolle,11
+cd,ext_luavaran,2025-09-19,LUANA DE OLIVEIRA VARANDA,Nycolle,4
+cd,ext_luavaran,2025-09-20,LUANA DE OLIVEIRA VARANDA,Nycolle,12
+cd,ext_luavaran,2025-09-22,LUANA DE OLIVEIRA VARANDA,Nycolle,16
+cd,ext_luavaran,2025-09-23,LUANA DE OLIVEIRA VARANDA,Nycolle,72
+cd,ext_luavaran,2025-09-24,LUANA DE OLIVEIRA VARANDA,Nycolle,45
+cd,ext_lucmat,2025-09-15,Lucas Oliveira Matos,Cinthya,58
+cd,ext_lucmat,2025-09-16,Lucas Oliveira Matos,Cinthya,2
+cd,ext_lucmat,2025-09-17,Lucas Oliveira Matos,Cinthya,3
+cd,ext_lucmat,2025-09-19,Lucas Oliveira Matos,Cinthya,4
+cd,ext_lucmat,2025-09-20,Lucas Oliveira Matos,Cinthya,1
+cd,ext_lucmat,2025-09-22,Lucas Oliveira Matos,Cinthya,1
+cd,ext_lucmat,2025-09-23,Lucas Oliveira Matos,Cinthya,2
+cd,ext_lucmor,2025-09-15,Lucas Pires Moreira,Adriana,313
+cd,ext_lucmor,2025-09-16,Lucas Pires Moreira,Adriana,25
+cd,ext_lucmor,2025-09-17,Lucas Pires Moreira,Adriana,30
+cd,ext_lucmor,2025-09-19,Lucas Pires Moreira,Adriana,6
+cd,ext_lucmor,2025-09-20,Lucas Pires Moreira,Adriana,16
+cd,ext_lucmor,2025-09-22,Lucas Pires Moreira,Adriana,2
+cd,ext_luin,2025-09-15,Luiz Gustavo Nascimento,Cinthya,2
+cd,ext_luin,2025-09-22,Luiz Gustavo Nascimento,Cinthya,2
+cd,ext_luin,2025-09-23,Luiz Gustavo Nascimento,Cinthya,1
+cd,ext_luizn,2025-09-15,Luiz Eduardo de Souza Nascimento,Klaus,660
+cd,ext_luizn,2025-09-16,Luiz Eduardo de Souza Nascimento,Klaus,64
+cd,ext_luizn,2025-09-17,Luiz Eduardo de Souza Nascimento,Klaus,91
+cd,ext_luizn,2025-09-18,Luiz Eduardo de Souza Nascimento,Klaus,72
+cd,ext_luizn,2025-09-20,Luiz Eduardo de Souza Nascimento,Klaus,18
+cd,ext_luizn,2025-09-22,Luiz Eduardo de Souza Nascimento,Klaus,79
+cd,ext_luizn,2025-09-23,Luiz Eduardo de Souza Nascimento,Klaus,48
+cd,ext_luizn,2025-09-24,Luiz Eduardo de Souza Nascimento,Klaus,19
+cd,ext_machavei,2025-09-15,MANUELLE LUIZA GOVEIA CHAVEIRO ,Chayene,138
+cd,ext_machavei,2025-09-18,MANUELLE LUIZA GOVEIA CHAVEIRO ,Chayene,106
+cd,ext_machavei,2025-09-22,MANUELLE LUIZA GOVEIA CHAVEIRO ,Chayene,81
+cd,ext_machavei,2025-09-24,MANUELLE LUIZA GOVEIA CHAVEIRO ,Chayene,48
+cd,ext_malodani,2025-09-15,Daniel Martins Lopes,Klaus,125
+cd,ext_malodani,2025-09-16,Daniel Martins Lopes,Klaus,18
+cd,ext_malodani,2025-09-22,Daniel Martins Lopes,Klaus,1
+cd,ext_malodani,2025-09-25,Daniel Martins Lopes,Klaus,1
+cd,ext_mapi,2025-09-15,Maria Clara Da Silva Pinheiro,Cinthya,84
+cd,ext_mapi,2025-09-16,Maria Clara Da Silva Pinheiro,Cinthya,6
+cd,ext_mapi,2025-09-17,Maria Clara Da Silva Pinheiro,Cinthya,11
+cd,ext_mapi,2025-09-18,Maria Clara Da Silva Pinheiro,Cinthya,19
+cd,ext_mapi,2025-09-19,Maria Clara Da Silva Pinheiro,Cinthya,6
+cd,ext_mapi,2025-09-20,Maria Clara Da Silva Pinheiro,Cinthya,8
+cd,ext_mapi,2025-09-22,Maria Clara Da Silva Pinheiro,Cinthya,15
+cd,ext_mapi,2025-09-23,Maria Clara Da Silva Pinheiro,Cinthya,6
+cd,ext_maranna,2025-09-15,Anna Carolina Dantas Martins,Cinthya,594
+cd,ext_maranna,2025-09-17,Anna Carolina Dantas Martins,Cinthya,48
+cd,ext_maranna,2025-09-18,Anna Carolina Dantas Martins,Cinthya,64
+cd,ext_maranna,2025-09-19,Anna Carolina Dantas Martins,Cinthya,14
+cd,ext_maranna,2025-09-22,Anna Carolina Dantas Martins,Cinthya,48
+cd,ext_maranna,2025-09-23,Anna Carolina Dantas Martins,Cinthya,47
+cd,ext_maranna,2025-09-24,Anna Carolina Dantas Martins,Cinthya,7
+cd,ext_maranna,2025-09-25,Anna Carolina Dantas Martins,Cinthya,1
+cd,ext_marcuama,2025-09-15,MARCUS HYAN DE JESUS AMADO,Klaus,1312
+cd,ext_marcuama,2025-09-16,MARCUS HYAN DE JESUS AMADO,Klaus,147
+cd,ext_marcuama,2025-09-17,MARCUS HYAN DE JESUS AMADO,Klaus,147
+cd,ext_marcuama,2025-09-18,MARCUS HYAN DE JESUS AMADO,Klaus,137
+cd,ext_marcuama,2025-09-19,MARCUS HYAN DE JESUS AMADO,Klaus,50
+cd,ext_marcuama,2025-09-22,MARCUS HYAN DE JESUS AMADO,Klaus,113
+cd,ext_marcuama,2025-09-23,MARCUS HYAN DE JESUS AMADO,Klaus,119
+cd,ext_marcuama,2025-09-24,MARCUS HYAN DE JESUS AMADO,Klaus,48
+cd,ext_mardeus,2025-09-15,MARIA RITA MEDEIROS DE DEUS ,Chayene,38
+cd,ext_mardeus,2025-09-16,MARIA RITA MEDEIROS DE DEUS ,Chayene,25
+cd,ext_mardeus,2025-09-17,MARIA RITA MEDEIROS DE DEUS ,Chayene,71
+cd,ext_mardeus,2025-09-18,MARIA RITA MEDEIROS DE DEUS ,Chayene,93
+cd,ext_mardeus,2025-09-19,MARIA RITA MEDEIROS DE DEUS ,Chayene,61
+cd,ext_mardeus,2025-09-22,MARIA RITA MEDEIROS DE DEUS ,Chayene,42
+cd,ext_mardeus,2025-09-23,MARIA RITA MEDEIROS DE DEUS ,Chayene,65
+cd,ext_mardeus,2025-09-24,MARIA RITA MEDEIROS DE DEUS ,Chayene,57
+cd,ext_maridi,2025-09-19,MARIA EDUARDA SANTOS DIAS,Nycolle,15
+cd,ext_maridi,2025-09-20,MARIA EDUARDA SANTOS DIAS,Nycolle,21
+cd,ext_maridi,2025-09-22,MARIA EDUARDA SANTOS DIAS,Nycolle,86
+cd,ext_maridi,2025-09-23,MARIA EDUARDA SANTOS DIAS,Nycolle,99
+cd,ext_maridi,2025-09-24,MARIA EDUARDA SANTOS DIAS,Nycolle,64
+cd,ext_maridi,2025-09-25,MARIA EDUARDA SANTOS DIAS,Nycolle,19
+cd,ext_marienro,2025-09-15,Mariene Vitoria Rodrigues Do O,Cinthya,117
+cd,ext_marienro,2025-09-16,Mariene Vitoria Rodrigues Do O,Cinthya,13
+cd,ext_marienro,2025-09-17,Mariene Vitoria Rodrigues Do O,Cinthya,24
+cd,ext_marienro,2025-09-18,Mariene Vitoria Rodrigues Do O,Cinthya,16
+cd,ext_marienro,2025-09-19,Mariene Vitoria Rodrigues Do O,Cinthya,14
+cd,ext_marienro,2025-09-20,Mariene Vitoria Rodrigues Do O,Cinthya,7
+cd,ext_marienro,2025-09-23,Mariene Vitoria Rodrigues Do O,Cinthya,13
+cd,ext_marifr,2025-09-15,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,1468
+cd,ext_marifr,2025-09-16,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,145
+cd,ext_marifr,2025-09-17,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,132
+cd,ext_marifr,2025-09-18,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,133
+cd,ext_marifr,2025-09-19,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,40
+cd,ext_marifr,2025-09-20,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,41
+cd,ext_marifr,2025-09-22,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,142
+cd,ext_marifr,2025-09-23,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,94
+cd,ext_marifr,2025-09-24,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,45
+cd,ext_marisnaa,2025-09-15,MARIA ISABELA PEREIRA SANTANA,Nycolle,38
+cd,ext_marisnaa,2025-09-16,MARIA ISABELA PEREIRA SANTANA,Nycolle,30
+cd,ext_marisnaa,2025-09-17,MARIA ISABELA PEREIRA SANTANA,Nycolle,23
+cd,ext_marisnaa,2025-09-18,MARIA ISABELA PEREIRA SANTANA,Nycolle,21
+cd,ext_marisnaa,2025-09-19,MARIA ISABELA PEREIRA SANTANA,Nycolle,31
+cd,ext_marisnaa,2025-09-22,MARIA ISABELA PEREIRA SANTANA,Nycolle,25
+cd,ext_marisnaa,2025-09-23,MARIA ISABELA PEREIRA SANTANA,Nycolle,34
+cd,ext_marisnaa,2025-09-25,MARIA ISABELA PEREIRA SANTANA,Nycolle,6
+cd,ext_marqj,2025-09-15,Joao Pedro Reis Marques de Oliveira,Adriana,1704
+cd,ext_marqj,2025-09-16,Joao Pedro Reis Marques de Oliveira,Adriana,138
+cd,ext_marqj,2025-09-17,Joao Pedro Reis Marques de Oliveira,Adriana,70
+cd,ext_marqj,2025-09-18,Joao Pedro Reis Marques de Oliveira,Adriana,143
+cd,ext_marqj,2025-09-19,Joao Pedro Reis Marques de Oliveira,Adriana,11
+cd,ext_marqj,2025-09-22,Joao Pedro Reis Marques de Oliveira,Adriana,114
+cd,ext_marqj,2025-09-23,Joao Pedro Reis Marques de Oliveira,Adriana,109
+cd,ext_marqj,2025-09-24,Joao Pedro Reis Marques de Oliveira,Adriana,17
+cd,ext_marqj,2025-09-25,Joao Pedro Reis Marques de Oliveira,Adriana,6
+cd,ext_matosfra,2025-09-17,Francisco Leonardo Vieira Matos,Cinthya,5
+cd,ext_matosfra,2025-09-18,Francisco Leonardo Vieira Matos,Cinthya,6
+cd,ext_matosfra,2025-09-19,Francisco Leonardo Vieira Matos,Cinthya,3
+cd,ext_matosfra,2025-09-20,Francisco Leonardo Vieira Matos,Cinthya,7
+cd,ext_matosfra,2025-09-22,Francisco Leonardo Vieira Matos,Cinthya,8
+cd,ext_matosfra,2025-09-23,Francisco Leonardo Vieira Matos,Cinthya,5
+cd,ext_mattimot,2025-09-15,Matheus Henrique Souza Timoteo,Nycolle,466
+cd,ext_mattimot,2025-09-16,Matheus Henrique Souza Timoteo,Nycolle,39
+cd,ext_mattimot,2025-09-18,Matheus Henrique Souza Timoteo,Nycolle,49
+cd,ext_mattimot,2025-09-19,Matheus Henrique Souza Timoteo,Nycolle,33
+cd,ext_mattimot,2025-09-22,Matheus Henrique Souza Timoteo,Nycolle,37
+cd,ext_mattimot,2025-09-23,Matheus Henrique Souza Timoteo,Nycolle,60
+cd,ext_mattimot,2025-09-24,Matheus Henrique Souza Timoteo,Nycolle,24
+cd,ext_mattimot,2025-09-25,Matheus Henrique Souza Timoteo,Nycolle,4
+cd,ext_maylrodr,2025-09-15,MAYLA SILVA RODRIGUES ,Cinthya,180
+cd,ext_maylrodr,2025-09-16,MAYLA SILVA RODRIGUES ,Cinthya,11
+cd,ext_maylrodr,2025-09-17,MAYLA SILVA RODRIGUES ,Cinthya,9
+cd,ext_maylrodr,2025-09-18,MAYLA SILVA RODRIGUES ,Cinthya,3
+cd,ext_maylrodr,2025-09-19,MAYLA SILVA RODRIGUES ,Cinthya,2
+cd,ext_maylrodr,2025-09-20,MAYLA SILVA RODRIGUES ,Cinthya,1
+cd,ext_maylrodr,2025-09-22,MAYLA SILVA RODRIGUES ,Cinthya,1
+cd,ext_maylrodr,2025-09-23,MAYLA SILVA RODRIGUES ,Cinthya,1
+cd,ext_melqalve,2025-09-15,Melquiana Alves De Deus Lisboa,Cinthya,60
+cd,ext_melqalve,2025-09-16,Melquiana Alves De Deus Lisboa,Cinthya,15
+cd,ext_melqalve,2025-09-17,Melquiana Alves De Deus Lisboa,Cinthya,10
+cd,ext_melqalve,2025-09-18,Melquiana Alves De Deus Lisboa,Cinthya,12
+cd,ext_melqalve,2025-09-19,Melquiana Alves De Deus Lisboa,Cinthya,10
+cd,ext_melqalve,2025-09-20,Melquiana Alves De Deus Lisboa,Cinthya,8
+cd,ext_melqalve,2025-09-22,Melquiana Alves De Deus Lisboa,Cinthya,27
+cd,ext_melqalve,2025-09-23,Melquiana Alves De Deus Lisboa,Cinthya,8
+cd,ext_miguearc,2025-09-15,Miguel Arcanjo Pereira Da Silva,Nycolle,165
+cd,ext_miguearc,2025-09-16,Miguel Arcanjo Pereira Da Silva,Nycolle,14
+cd,ext_miguearc,2025-09-17,Miguel Arcanjo Pereira Da Silva,Nycolle,24
+cd,ext_miguearc,2025-09-18,Miguel Arcanjo Pereira Da Silva,Nycolle,13
+cd,ext_miguearc,2025-09-19,Miguel Arcanjo Pereira Da Silva,Nycolle,3
+cd,ext_miguearc,2025-09-22,Miguel Arcanjo Pereira Da Silva,Nycolle,13
+cd,ext_miguearc,2025-09-23,Miguel Arcanjo Pereira Da Silva,Nycolle,59
+cd,ext_miguearc,2025-09-24,Miguel Arcanjo Pereira Da Silva,Nycolle,9
+cd,ext_miguearc,2025-09-25,Miguel Arcanjo Pereira Da Silva,Nycolle,10
+cd,ext_moa,2025-09-15,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,1265
+cd,ext_moa,2025-09-16,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,130
+cd,ext_moa,2025-09-17,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,104
+cd,ext_moa,2025-09-18,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,111
+cd,ext_moa,2025-09-19,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,39
+cd,ext_moa,2025-09-22,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,85
+cd,ext_moa,2025-09-23,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,110
+cd,ext_moa,2025-09-24,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,42
+cd,ext_moa,2025-09-25,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,8
+cd,ext_mroso,2025-09-15,MARCO ANTONIO GOMES DE SOUZA,Chayene,2
+cd,ext_mroso,2025-09-17,MARCO ANTONIO GOMES DE SOUZA,Chayene,9
+cd,ext_mroso,2025-09-18,MARCO ANTONIO GOMES DE SOUZA,Chayene,8
+cd,ext_mroso,2025-09-19,MARCO ANTONIO GOMES DE SOUZA,Chayene,10
+cd,ext_mroso,2025-09-22,MARCO ANTONIO GOMES DE SOUZA,Chayene,4
+cd,ext_mroso,2025-09-23,MARCO ANTONIO GOMES DE SOUZA,Chayene,7
+cd,ext_mroso,2025-09-24,MARCO ANTONIO GOMES DE SOUZA,Chayene,10
+cd,ext_mycbezer,2025-09-15,Myckaelly Eduarda Da Silva Bezerra,Nycolle,779
+cd,ext_mycbezer,2025-09-16,Myckaelly Eduarda Da Silva Bezerra,Nycolle,96
+cd,ext_mycbezer,2025-09-17,Myckaelly Eduarda Da Silva Bezerra,Nycolle,91
+cd,ext_mycbezer,2025-09-18,Myckaelly Eduarda Da Silva Bezerra,Nycolle,112
+cd,ext_mycbezer,2025-09-19,Myckaelly Eduarda Da Silva Bezerra,Nycolle,4
+cd,ext_mycbezer,2025-09-22,Myckaelly Eduarda Da Silva Bezerra,Nycolle,82
+cd,ext_mycbezer,2025-09-23,Myckaelly Eduarda Da Silva Bezerra,Nycolle,49
+cd,ext_mycbezer,2025-09-24,Myckaelly Eduarda Da Silva Bezerra,Nycolle,10
+cd,ext_naslaura,2025-09-15,Laura Nicole Ferreira Do Nascimento,Cinthya,106
+cd,ext_naslaura,2025-09-16,Laura Nicole Ferreira Do Nascimento,Cinthya,20
+cd,ext_naslaura,2025-09-17,Laura Nicole Ferreira Do Nascimento,Cinthya,1
+cd,ext_naslaura,2025-09-18,Laura Nicole Ferreira Do Nascimento,Cinthya,2
+cd,ext_naslaura,2025-09-19,Laura Nicole Ferreira Do Nascimento,Cinthya,4
+cd,ext_naslaura,2025-09-22,Laura Nicole Ferreira Do Nascimento,Cinthya,12
+cd,ext_naslaura,2025-09-23,Laura Nicole Ferreira Do Nascimento,Cinthya,7
+cd,ext_naudias,2025-09-15,Nauany Dias Da Silva,Cinthya,103
+cd,ext_naudias,2025-09-16,Nauany Dias Da Silva,Cinthya,12
+cd,ext_naudias,2025-09-17,Nauany Dias Da Silva,Cinthya,18
+cd,ext_naudias,2025-09-22,Nauany Dias Da Silva,Cinthya,5
+cd,ext_nawribei,2025-09-15,Nawhan da Silva Ribeiro,Cinthya,144
+cd,ext_nevitor,2025-09-15,Vitor Gabriel Batista Neves,Cinthya,127
+cd,ext_nevitor,2025-09-16,Vitor Gabriel Batista Neves,Cinthya,9
+cd,ext_nevitor,2025-09-17,Vitor Gabriel Batista Neves,Cinthya,8
+cd,ext_nevitor,2025-09-18,Vitor Gabriel Batista Neves,Cinthya,23
+cd,ext_nevitor,2025-09-19,Vitor Gabriel Batista Neves,Cinthya,10
+cd,ext_nevitor,2025-09-22,Vitor Gabriel Batista Neves,Cinthya,17
+cd,ext_nevitor,2025-09-23,Vitor Gabriel Batista Neves,Cinthya,13
+cd,ext_nevitor,2025-09-24,Vitor Gabriel Batista Neves,Cinthya,1
+cd,ext_nimeira,2025-09-15,NICKOLAS MENDES MEIRA,Klaus,717
+cd,ext_nimeira,2025-09-16,NICKOLAS MENDES MEIRA,Klaus,66
+cd,ext_nimeira,2025-09-17,NICKOLAS MENDES MEIRA,Klaus,44
+cd,ext_nimeira,2025-09-18,NICKOLAS MENDES MEIRA,Klaus,97
+cd,ext_nimeira,2025-09-19,NICKOLAS MENDES MEIRA,Klaus,26
+cd,ext_nimeira,2025-09-20,NICKOLAS MENDES MEIRA,Klaus,42
+cd,ext_nimeira,2025-09-22,NICKOLAS MENDES MEIRA,Klaus,93
+cd,ext_nimeira,2025-09-23,NICKOLAS MENDES MEIRA,Klaus,77
+cd,ext_nimeira,2025-09-24,NICKOLAS MENDES MEIRA,Klaus,21
+cd,ext_nimeira,2025-09-25,NICKOLAS MENDES MEIRA,Klaus,1
+cd,ext_nubiansi,2025-09-15,NUBIANE PEREIRA DA SILVA,Nycolle,1308
+cd,ext_nubiansi,2025-09-16,NUBIANE PEREIRA DA SILVA,Nycolle,103
+cd,ext_nubiansi,2025-09-17,NUBIANE PEREIRA DA SILVA,Nycolle,109
+cd,ext_nubiansi,2025-09-18,NUBIANE PEREIRA DA SILVA,Nycolle,107
+cd,ext_nubiansi,2025-09-22,NUBIANE PEREIRA DA SILVA,Nycolle,65
+cd,ext_nubiansi,2025-09-23,NUBIANE PEREIRA DA SILVA,Nycolle,67
+cd,ext_oliveray,2025-09-15,RAYSSA FALCAO DE MACEDO ,Adriana,1176
+cd,ext_oliveray,2025-09-16,RAYSSA FALCAO DE MACEDO ,Adriana,112
+cd,ext_oliveray,2025-09-17,RAYSSA FALCAO DE MACEDO ,Adriana,96
+cd,ext_oliveray,2025-09-18,RAYSSA FALCAO DE MACEDO ,Adriana,154
+cd,ext_oliveray,2025-09-22,RAYSSA FALCAO DE MACEDO ,Adriana,117
+cd,ext_oliveray,2025-09-23,RAYSSA FALCAO DE MACEDO ,Adriana,136
+cd,ext_oliveray,2025-09-24,RAYSSA FALCAO DE MACEDO ,Adriana,79
+cd,ext_oliveray,2025-09-25,RAYSSA FALCAO DE MACEDO ,Adriana,14
+cd,ext_pabgama,2025-09-15,Pablo Henrique Torres Gama,Klaus,377
+cd,ext_pabgama,2025-09-16,Pablo Henrique Torres Gama,Klaus,63
+cd,ext_pabgama,2025-09-17,Pablo Henrique Torres Gama,Klaus,39
+cd,ext_pabgama,2025-09-18,Pablo Henrique Torres Gama,Klaus,29
+cd,ext_pabgama,2025-09-19,Pablo Henrique Torres Gama,Klaus,14
+cd,ext_pabgama,2025-09-20,Pablo Henrique Torres Gama,Klaus,19
+cd,ext_pabgama,2025-09-22,Pablo Henrique Torres Gama,Klaus,19
+cd,ext_pabgama,2025-09-23,Pablo Henrique Torres Gama,Klaus,38
+cd,ext_pabgama,2025-09-24,Pablo Henrique Torres Gama,Klaus,22
+cd,ext_pabgama,2025-09-25,Pablo Henrique Torres Gama,Klaus,2
+cd,ext_paulassu,2025-09-15,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,177
+cd,ext_paulassu,2025-09-16,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,29
+cd,ext_paulassu,2025-09-17,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,23
+cd,ext_paulassu,2025-09-18,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,17
+cd,ext_paulassu,2025-09-19,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,13
+cd,ext_paulassu,2025-09-20,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,11
+cd,ext_paulassu,2025-09-22,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,19
+cd,ext_paulassu,2025-09-23,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,17
+cd,ext_paulassu,2025-09-24,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,7
+cd,ext_paulassu,2025-09-25,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,2
+cd,ext_pedb,2025-09-19,PEDRO HENRIQUE ALBUQUERQUE BARBOSA,Adriana,7
+cd,ext_pedb,2025-09-20,PEDRO HENRIQUE ALBUQUERQUE BARBOSA,Adriana,22
+cd,ext_pedb,2025-09-22,PEDRO HENRIQUE ALBUQUERQUE BARBOSA,Adriana,84
+cd,ext_pedb,2025-09-23,PEDRO HENRIQUE ALBUQUERQUE BARBOSA,Adriana,99
+cd,ext_pedb,2025-09-24,PEDRO HENRIQUE ALBUQUERQUE BARBOSA,Adriana,129
+cd,ext_pedro,2025-09-15,PEDRO HENRIQUE SILVA DE OLIVEIRA ,Klaus,2
+cd,ext_pedro,2025-09-16,PEDRO HENRIQUE SILVA DE OLIVEIRA ,Klaus,6
+cd,ext_pedro,2025-09-17,PEDRO HENRIQUE SILVA DE OLIVEIRA ,Klaus,14
+cd,ext_pedro,2025-09-18,PEDRO HENRIQUE SILVA DE OLIVEIRA ,Klaus,22
+cd,ext_pedro,2025-09-19,PEDRO HENRIQUE SILVA DE OLIVEIRA ,Klaus,37
+cd,ext_pedro,2025-09-20,PEDRO HENRIQUE SILVA DE OLIVEIRA ,Klaus,12
+cd,ext_pedro,2025-09-24,PEDRO HENRIQUE SILVA DE OLIVEIRA ,Klaus,28
+cd,ext_pedro,2025-09-25,PEDRO HENRIQUE SILVA DE OLIVEIRA ,Klaus,6
+cd,ext_peemeric,2025-09-15,Pedro Augusto Costa Emerick,Klaus,205
+cd,ext_peemeric,2025-09-16,Pedro Augusto Costa Emerick,Klaus,53
+cd,ext_peemeric,2025-09-18,Pedro Augusto Costa Emerick,Klaus,23
+cd,ext_peemeric,2025-09-19,Pedro Augusto Costa Emerick,Klaus,7
+cd,ext_peemeric,2025-09-23,Pedro Augusto Costa Emerick,Klaus,94
+cd,ext_peemeric,2025-09-24,Pedro Augusto Costa Emerick,Klaus,39
+cd,ext_peresuel,2025-09-15,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,11
+cd,ext_peresuel,2025-09-16,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,24
+cd,ext_peresuel,2025-09-17,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,26
+cd,ext_peresuel,2025-09-18,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,35
+cd,ext_peresuel,2025-09-19,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,45
+cd,ext_peresuel,2025-09-20,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,51
+cd,ext_peresuel,2025-09-22,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,32
+cd,ext_peresuel,2025-09-23,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,47
+cd,ext_peresuel,2025-09-24,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,38
+cd,ext_peresuel,2025-09-25,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,2
+cd,ext_qua,2025-09-15,Ana Carolina Batista De Queiroz,Cinthya,4
+cd,ext_qua,2025-09-16,Ana Carolina Batista De Queiroz,Cinthya,1
+cd,ext_qua,2025-09-22,Ana Carolina Batista De Queiroz,Cinthya,2
+cd,ext_quelmart,2025-09-15,Quele Alves Martins,Klaus,498
+cd,ext_quelmart,2025-09-16,Quele Alves Martins,Klaus,71
+cd,ext_quelmart,2025-09-17,Quele Alves Martins,Klaus,55
+cd,ext_quelmart,2025-09-18,Quele Alves Martins,Klaus,61
+cd,ext_quelmart,2025-09-19,Quele Alves Martins,Klaus,28
+cd,ext_quelmart,2025-09-20,Quele Alves Martins,Klaus,26
+cd,ext_quelmart,2025-09-22,Quele Alves Martins,Klaus,97
+cd,ext_quelmart,2025-09-23,Quele Alves Martins,Klaus,65
+cd,ext_quelmart,2025-09-24,Quele Alves Martins,Klaus,43
+cd,ext_quereis,2025-09-15,QUEZIA EMANUELA SILVA REIS ,Adriana,18
+cd,ext_quereis,2025-09-17,QUEZIA EMANUELA SILVA REIS ,Adriana,8
+cd,ext_raitavar,2025-09-15,Raissa Regina Da Silva Tavares,Cinthya,156
+cd,ext_raitavar,2025-09-19,Raissa Regina Da Silva Tavares,Cinthya,5
+cd,ext_raitavar,2025-09-23,Raissa Regina Da Silva Tavares,Cinthya,12
+cd,ext_raqusil,2025-09-15,Raquel Meneses Fernandes da Silva,Nycolle,1228
+cd,ext_raqusil,2025-09-16,Raquel Meneses Fernandes da Silva,Nycolle,135
+cd,ext_raqusil,2025-09-17,Raquel Meneses Fernandes da Silva,Nycolle,174
+cd,ext_raqusil,2025-09-18,Raquel Meneses Fernandes da Silva,Nycolle,139
+cd,ext_raqusil,2025-09-19,Raquel Meneses Fernandes da Silva,Nycolle,53
+cd,ext_raqusil,2025-09-20,Raquel Meneses Fernandes da Silva,Nycolle,87
+cd,ext_raqusil,2025-09-22,Raquel Meneses Fernandes da Silva,Nycolle,163
+cd,ext_raqusil,2025-09-23,Raquel Meneses Fernandes da Silva,Nycolle,140
+cd,ext_raqusil,2025-09-24,Raquel Meneses Fernandes da Silva,Nycolle,65
+cd,ext_raqusil,2025-09-25,Raquel Meneses Fernandes da Silva,Nycolle,14
+cd,ext_riasilv,2025-09-15,MARIA CLARA PEREIRA DA SILVA ,Klaus,1164
+cd,ext_riasilv,2025-09-16,MARIA CLARA PEREIRA DA SILVA ,Klaus,124
+cd,ext_riasilv,2025-09-17,MARIA CLARA PEREIRA DA SILVA ,Klaus,112
+cd,ext_riasilv,2025-09-18,MARIA CLARA PEREIRA DA SILVA ,Klaus,86
+cd,ext_riasilv,2025-09-19,MARIA CLARA PEREIRA DA SILVA ,Klaus,45
+cd,ext_riasilv,2025-09-20,MARIA CLARA PEREIRA DA SILVA ,Klaus,41
+cd,ext_riasilv,2025-09-22,MARIA CLARA PEREIRA DA SILVA ,Klaus,103
+cd,ext_riasilv,2025-09-23,MARIA CLARA PEREIRA DA SILVA ,Klaus,128
+cd,ext_riasilv,2025-09-24,MARIA CLARA PEREIRA DA SILVA ,Klaus,40
+cd,ext_riasilv,2025-09-25,MARIA CLARA PEREIRA DA SILVA ,Klaus,10
+cd,ext_rosoluan,2025-09-15,Luan Rodrigues De Sousa,Nycolle,658
+cd,ext_rosoluan,2025-09-16,Luan Rodrigues De Sousa,Nycolle,87
+cd,ext_rosoluan,2025-09-17,Luan Rodrigues De Sousa,Nycolle,66
+cd,ext_rosoluan,2025-09-18,Luan Rodrigues De Sousa,Nycolle,102
+cd,ext_rosoluan,2025-09-19,Luan Rodrigues De Sousa,Nycolle,10
+cd,ext_rosoluan,2025-09-20,Luan Rodrigues De Sousa,Nycolle,19
+cd,ext_rosoluan,2025-09-22,Luan Rodrigues De Sousa,Nycolle,79
+cd,ext_rosoluan,2025-09-23,Luan Rodrigues De Sousa,Nycolle,80
+cd,ext_rosoluan,2025-09-24,Luan Rodrigues De Sousa,Nycolle,16
+cd,ext_ruticarv,2025-09-17,Rutiele Sousa Carvalho,Cinthya,4
+cd,ext_ruticarv,2025-09-18,Rutiele Sousa Carvalho,Cinthya,10
+cd,ext_ruticarv,2025-09-19,Rutiele Sousa Carvalho,Cinthya,6
+cd,ext_ruticarv,2025-09-23,Rutiele Sousa Carvalho,Cinthya,10
+cd,ext_sanrubia,2025-09-15,Rubia Andreia Dos Santos,Cinthya,278
+cd,ext_sanrubia,2025-09-16,Rubia Andreia Dos Santos,Cinthya,53
+cd,ext_sanrubia,2025-09-17,Rubia Andreia Dos Santos,Cinthya,22
+cd,ext_sanrubia,2025-09-18,Rubia Andreia Dos Santos,Cinthya,66
+cd,ext_sanrubia,2025-09-19,Rubia Andreia Dos Santos,Cinthya,2
+cd,ext_sanrubia,2025-09-20,Rubia Andreia Dos Santos,Cinthya,23
+cd,ext_sanrubia,2025-09-22,Rubia Andreia Dos Santos,Cinthya,34
+cd,ext_sanrubia,2025-09-23,Rubia Andreia Dos Santos,Cinthya,48
+cd,ext_sanrubia,2025-09-24,Rubia Andreia Dos Santos,Cinthya,22
+cd,ext_santdi,2025-09-15,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,2171
+cd,ext_santdi,2025-09-16,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,128
+cd,ext_santdi,2025-09-17,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,144
+cd,ext_santdi,2025-09-18,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,169
+cd,ext_santdi,2025-09-19,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,40
+cd,ext_santdi,2025-09-20,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,43
+cd,ext_santdi,2025-09-22,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,138
+cd,ext_santdi,2025-09-23,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,130
+cd,ext_santdi,2025-09-24,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,72
+cd,ext_santdi,2025-09-25,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,9
+cd,ext_santle,2025-09-15,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,1715
+cd,ext_santle,2025-09-16,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,164
+cd,ext_santle,2025-09-17,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,121
+cd,ext_santle,2025-09-18,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,113
+cd,ext_santle,2025-09-19,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,57
+cd,ext_santle,2025-09-20,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,83
+cd,ext_santle,2025-09-22,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,217
+cd,ext_santle,2025-09-23,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,149
+cd,ext_santle,2025-09-24,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,35
+cd,ext_santle,2025-09-25,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,12
+cd,ext_sarao,2025-09-15,Sarah Cristina Costa de Oliveira,Klaus,369
+cd,ext_sarao,2025-09-17,Sarah Cristina Costa de Oliveira,Klaus,65
+cd,ext_sarao,2025-09-18,Sarah Cristina Costa de Oliveira,Klaus,59
+cd,ext_sarao,2025-09-19,Sarah Cristina Costa de Oliveira,Klaus,27
+cd,ext_sarao,2025-09-22,Sarah Cristina Costa de Oliveira,Klaus,68
+cd,ext_sarao,2025-09-23,Sarah Cristina Costa de Oliveira,Klaus,78
+cd,ext_sathi,2025-09-15,Thiago Oliveira Santos,Chayene,122
+cd,ext_sathi,2025-09-16,Thiago Oliveira Santos,Chayene,63
+cd,ext_sathi,2025-09-17,Thiago Oliveira Santos,Chayene,64
+cd,ext_sathi,2025-09-18,Thiago Oliveira Santos,Chayene,84
+cd,ext_sathi,2025-09-19,Thiago Oliveira Santos,Chayene,39
+cd,ext_sathi,2025-09-22,Thiago Oliveira Santos,Chayene,53
+cd,ext_sathi,2025-09-23,Thiago Oliveira Santos,Chayene,72
+cd,ext_sathi,2025-09-24,Thiago Oliveira Santos,Chayene,39
+cd,ext_sidavyd,2025-09-15,DAVYD LUKAS DA CONCEIÇÃO SILVA,Nycolle,1545
+cd,ext_sidavyd,2025-09-16,DAVYD LUKAS DA CONCEIÇÃO SILVA,Nycolle,132
+cd,ext_sidavyd,2025-09-17,DAVYD LUKAS DA CONCEIÇÃO SILVA,Nycolle,118
+cd,ext_sidavyd,2025-09-18,DAVYD LUKAS DA CONCEIÇÃO SILVA,Nycolle,152
+cd,ext_sidavyd,2025-09-19,DAVYD LUKAS DA CONCEIÇÃO SILVA,Nycolle,12
+cd,ext_sidavyd,2025-09-22,DAVYD LUKAS DA CONCEIÇÃO SILVA,Nycolle,136
+cd,ext_sidavyd,2025-09-23,DAVYD LUKAS DA CONCEIÇÃO SILVA,Nycolle,141
+cd,ext_sidavyd,2025-09-24,DAVYD LUKAS DA CONCEIÇÃO SILVA,Nycolle,5
+cd,ext_silelien,2025-09-15,Eliene Souza Da Silva,Cinthya,336
+cd,ext_silelien,2025-09-16,Eliene Souza Da Silva,Cinthya,11
+cd,ext_silelien,2025-09-17,Eliene Souza Da Silva,Cinthya,17
+cd,ext_silelien,2025-09-18,Eliene Souza Da Silva,Cinthya,28
+cd,ext_silelien,2025-09-19,Eliene Souza Da Silva,Cinthya,22
+cd,ext_silelien,2025-09-20,Eliene Souza Da Silva,Cinthya,1
+cd,ext_silelien,2025-09-22,Eliene Souza Da Silva,Cinthya,19
+cd,ext_silelien,2025-09-23,Eliene Souza Da Silva,Cinthya,16
+cd,ext_silet,2025-09-15,LETICIA SANTANA DA SILVA ,Chayene,19
+cd,ext_silet,2025-09-18,LETICIA SANTANA DA SILVA ,Chayene,19
+cd,ext_silet,2025-09-22,LETICIA SANTANA DA SILVA ,Chayene,21
+cd,ext_silet,2025-09-23,LETICIA SANTANA DA SILVA ,Chayene,3
+cd,ext_silpinto,2025-09-15,Silvana Fernandes Pinto ,Chayene,9
+cd,ext_silpinto,2025-09-22,Silvana Fernandes Pinto ,Chayene,1
+cd,ext_silpinto,2025-09-23,Silvana Fernandes Pinto ,Chayene,1
+cd,ext_silsilv,2025-09-15,Maria Eduarda Campos da Silva,Klaus,927
+cd,ext_silsilv,2025-09-16,Maria Eduarda Campos da Silva,Klaus,80
+cd,ext_silsilv,2025-09-17,Maria Eduarda Campos da Silva,Klaus,60
+cd,ext_silsilv,2025-09-18,Maria Eduarda Campos da Silva,Klaus,53
+cd,ext_silsilv,2025-09-19,Maria Eduarda Campos da Silva,Klaus,18
+cd,ext_silsilv,2025-09-22,Maria Eduarda Campos da Silva,Klaus,61
+cd,ext_silsilv,2025-09-23,Maria Eduarda Campos da Silva,Klaus,70
+cd,ext_silsilv,2025-09-24,Maria Eduarda Campos da Silva,Klaus,15
+cd,ext_silvizab,2025-09-15,Izabella Pereira Da Silva,Cinthya,253
+cd,ext_silvizab,2025-09-16,Izabella Pereira Da Silva,Cinthya,106
+cd,ext_silvizab,2025-09-17,Izabella Pereira Da Silva,Cinthya,92
+cd,ext_silvizab,2025-09-18,Izabella Pereira Da Silva,Cinthya,54
+cd,ext_silvizab,2025-09-22,Izabella Pereira Da Silva,Cinthya,81
+cd,ext_silvizab,2025-09-23,Izabella Pereira Da Silva,Cinthya,89
+cd,ext_silvizab,2025-09-24,Izabella Pereira Da Silva,Cinthya,29
+cd,ext_soaguiar,2025-09-15,LUCAS SOUSA AGUIAR ,Adriana,277
+cd,ext_soaraiss,2025-09-15,Raissa Vitoria Rodrigues Feitosa,Nycolle,313
+cd,ext_soaraiss,2025-09-16,Raissa Vitoria Rodrigues Feitosa,Nycolle,60
+cd,ext_soaraiss,2025-09-18,Raissa Vitoria Rodrigues Feitosa,Nycolle,38
+cd,ext_soaraiss,2025-09-22,Raissa Vitoria Rodrigues Feitosa,Nycolle,44
+cd,ext_soaraiss,2025-09-24,Raissa Vitoria Rodrigues Feitosa,Nycolle,40
+cd,ext_sothalyt,2025-09-15,THALYTA GABRIELA FERNANDES DE SOUZA ,Chayene,28
+cd,ext_sothalyt,2025-09-16,THALYTA GABRIELA FERNANDES DE SOUZA ,Chayene,35
+cd,ext_sothalyt,2025-09-17,THALYTA GABRIELA FERNANDES DE SOUZA ,Chayene,64
+cd,ext_sothalyt,2025-09-18,THALYTA GABRIELA FERNANDES DE SOUZA ,Chayene,71
+cd,ext_sothalyt,2025-09-19,THALYTA GABRIELA FERNANDES DE SOUZA ,Chayene,50
+cd,ext_sothalyt,2025-09-22,THALYTA GABRIELA FERNANDES DE SOUZA ,Chayene,48
+cd,ext_sothalyt,2025-09-23,THALYTA GABRIELA FERNANDES DE SOUZA ,Chayene,68
+cd,ext_sothalyt,2025-09-24,THALYTA GABRIELA FERNANDES DE SOUZA ,Chayene,67
+cd,ext_sousbarb,2025-09-15,BARBARA RIBEIRO DOS SANTOS SOUSA ,Cinthya,33
+cd,ext_sousbarb,2025-09-16,BARBARA RIBEIRO DOS SANTOS SOUSA ,Cinthya,3
+cd,ext_sousbarb,2025-09-17,BARBARA RIBEIRO DOS SANTOS SOUSA ,Cinthya,13
+cd,ext_sousbarb,2025-09-18,BARBARA RIBEIRO DOS SANTOS SOUSA ,Cinthya,27
+cd,ext_sousbarb,2025-09-19,BARBARA RIBEIRO DOS SANTOS SOUSA ,Cinthya,27
+cd,ext_sousbarb,2025-09-20,BARBARA RIBEIRO DOS SANTOS SOUSA ,Cinthya,26
+cd,ext_sousbarb,2025-09-22,BARBARA RIBEIRO DOS SANTOS SOUSA ,Cinthya,46
+cd,ext_sousbarb,2025-09-23,BARBARA RIBEIRO DOS SANTOS SOUSA ,Cinthya,26
+cd,ext_stelasou,2025-09-16,Stela Bezerra De Souza,Chayene,21
+cd,ext_stelasou,2025-09-17,Stela Bezerra De Souza,Chayene,9
+cd,ext_stelasou,2025-09-18,Stela Bezerra De Souza,Chayene,21
+cd,ext_stelasou,2025-09-19,Stela Bezerra De Souza,Chayene,34
+cd,ext_stelasou,2025-09-22,Stela Bezerra De Souza,Chayene,33
+cd,ext_stelasou,2025-09-23,Stela Bezerra De Souza,Chayene,36
+cd,ext_stelasou,2025-09-24,Stela Bezerra De Souza,Chayene,46
+cd,ext_stelasou,2025-09-25,Stela Bezerra De Souza,Chayene,12
+cd,ext_stephas,2025-09-15,STEPHANE SOPHIA GONZAGA DA SILVA,Cinthya,70
+cd,ext_stephas,2025-09-18,STEPHANE SOPHIA GONZAGA DA SILVA,Cinthya,8
+cd,ext_stephas,2025-09-19,STEPHANE SOPHIA GONZAGA DA SILVA,Cinthya,4
+cd,ext_stephas,2025-09-23,STEPHANE SOPHIA GONZAGA DA SILVA,Cinthya,5
+cd,ext_talits,2025-09-15,TALITA GABRIELA CORDEIRO SANTANA,Adriana,1223
+cd,ext_talits,2025-09-16,TALITA GABRIELA CORDEIRO SANTANA,Adriana,81
+cd,ext_talits,2025-09-17,TALITA GABRIELA CORDEIRO SANTANA,Adriana,234
+cd,ext_talits,2025-09-18,TALITA GABRIELA CORDEIRO SANTANA,Adriana,149
+cd,ext_talits,2025-09-19,TALITA GABRIELA CORDEIRO SANTANA,Adriana,52
+cd,ext_talits,2025-09-20,TALITA GABRIELA CORDEIRO SANTANA,Adriana,57
+cd,ext_talits,2025-09-22,TALITA GABRIELA CORDEIRO SANTANA,Adriana,104
+cd,ext_talits,2025-09-23,TALITA GABRIELA CORDEIRO SANTANA,Adriana,154
+cd,ext_talits,2025-09-24,TALITA GABRIELA CORDEIRO SANTANA,Adriana,72
+cd,ext_talits,2025-09-25,TALITA GABRIELA CORDEIRO SANTANA,Adriana,12
+cd,ext_tava,2025-09-15,ANA LUISA GUEDES TAVARES ,Cinthya,10
+cd,ext_tava,2025-09-16,ANA LUISA GUEDES TAVARES ,Cinthya,1
+cd,ext_tava,2025-09-17,ANA LUISA GUEDES TAVARES ,Cinthya,2
+cd,ext_tava,2025-09-18,ANA LUISA GUEDES TAVARES ,Cinthya,5
+cd,ext_tava,2025-09-19,ANA LUISA GUEDES TAVARES ,Cinthya,15
+cd,ext_tava,2025-09-20,ANA LUISA GUEDES TAVARES ,Cinthya,6
+cd,ext_tava,2025-09-22,ANA LUISA GUEDES TAVARES ,Cinthya,4
+cd,ext_theferre,2025-09-15,Therlys Alencar Ferreira,Klaus,770
+cd,ext_theferre,2025-09-16,Therlys Alencar Ferreira,Klaus,80
+cd,ext_theferre,2025-09-17,Therlys Alencar Ferreira,Klaus,62
+cd,ext_theferre,2025-09-18,Therlys Alencar Ferreira,Klaus,77
+cd,ext_theferre,2025-09-19,Therlys Alencar Ferreira,Klaus,24
+cd,ext_theferre,2025-09-20,Therlys Alencar Ferreira,Klaus,22
+cd,ext_theferre,2025-09-22,Therlys Alencar Ferreira,Klaus,43
+cd,ext_theferre,2025-09-23,Therlys Alencar Ferreira,Klaus,85
+cd,ext_theferre,2025-09-24,Therlys Alencar Ferreira,Klaus,30
+cd,ext_theferre,2025-09-25,Therlys Alencar Ferreira,Klaus,7
+cd,ext_thimaia,2025-09-19,THIAGO ALEXANDRE MAIA,Adriana,4
+cd,ext_thimaia,2025-09-20,THIAGO ALEXANDRE MAIA,Adriana,19
+cd,ext_thimaia,2025-09-22,THIAGO ALEXANDRE MAIA,Adriana,37
+cd,ext_thimaia,2025-09-23,THIAGO ALEXANDRE MAIA,Adriana,19
+cd,ext_thimaia,2025-09-24,THIAGO ALEXANDRE MAIA,Adriana,33
+cd,ext_valqucar,2025-09-15,Valquiria Alves Ferreira de Carvalho,Klaus,1173
+cd,ext_valqucar,2025-09-16,Valquiria Alves Ferreira de Carvalho,Klaus,169
+cd,ext_valqucar,2025-09-17,Valquiria Alves Ferreira de Carvalho,Klaus,125
+cd,ext_valqucar,2025-09-18,Valquiria Alves Ferreira de Carvalho,Klaus,102
+cd,ext_valqucar,2025-09-19,Valquiria Alves Ferreira de Carvalho,Klaus,60
+cd,ext_valqucar,2025-09-20,Valquiria Alves Ferreira de Carvalho,Klaus,74
+cd,ext_valqucar,2025-09-22,Valquiria Alves Ferreira de Carvalho,Klaus,130
+cd,ext_valqucar,2025-09-23,Valquiria Alves Ferreira de Carvalho,Klaus,131
+cd,ext_valqucar,2025-09-24,Valquiria Alves Ferreira de Carvalho,Klaus,68
+cd,ext_valqucar,2025-09-25,Valquiria Alves Ferreira de Carvalho,Klaus,13
+cd,ext_vanec,2025-09-15,Vanessa da Silva Costa,Klaus,1334
+cd,ext_vanec,2025-09-16,Vanessa da Silva Costa,Klaus,92
+cd,ext_vanec,2025-09-22,Vanessa da Silva Costa,Klaus,106
+cd,ext_vanec,2025-09-23,Vanessa da Silva Costa,Klaus,89
+cd,ext_vanec,2025-09-24,Vanessa da Silva Costa,Klaus,8
+cd,ext_vigmarco,2025-09-17,Marcos Vinicius Goncalves Da Silva,Chayene,6
+cd,ext_vitomati,2025-09-15,VITOR MORAES MATIAS ,Nycolle,80
+cd,ext_vitomati,2025-09-16,VITOR MORAES MATIAS ,Nycolle,75
+cd,ext_vitomati,2025-09-17,VITOR MORAES MATIAS ,Nycolle,76
+cd,ext_vitomati,2025-09-18,VITOR MORAES MATIAS ,Nycolle,64
+cd,ext_vitomati,2025-09-19,VITOR MORAES MATIAS ,Nycolle,43
+cd,ext_vitomati,2025-09-22,VITOR MORAES MATIAS ,Nycolle,64
+cd,ext_vitomati,2025-09-23,VITOR MORAES MATIAS ,Nycolle,32
+cd,ext_vitomati,2025-09-24,VITOR MORAES MATIAS ,Nycolle,31
+cd,ext_yasdamas,2025-09-19,YASMIN PEREIRA DAMASIO,Adriana,67
+cd,ext_yasdamas,2025-09-20,YASMIN PEREIRA DAMASIO,Adriana,66
+cd,ext_yasdamas,2025-09-22,YASMIN PEREIRA DAMASIO,Adriana,80
+cd,ext_yasdamas,2025-09-23,YASMIN PEREIRA DAMASIO,Adriana,54
+cd,ext_yasms,2025-09-15,YASMIN ALVES DE SOUSA,Cinthya,494
+cd,ext_yasms,2025-09-16,YASMIN ALVES DE SOUSA,Cinthya,98
+cd,ext_yasms,2025-09-17,YASMIN ALVES DE SOUSA,Cinthya,78
+cd,ext_yasms,2025-09-18,YASMIN ALVES DE SOUSA,Cinthya,97
+cd,ext_yasms,2025-09-19,YASMIN ALVES DE SOUSA,Cinthya,54
+cd,ext_yasms,2025-09-20,YASMIN ALVES DE SOUSA,Cinthya,30
+cd,ext_yasms,2025-09-22,YASMIN ALVES DE SOUSA,Cinthya,72
+cd,ext_yasms,2025-09-23,YASMIN ALVES DE SOUSA,Cinthya,84
+cd,ext_yasms,2025-09-24,YASMIN ALVES DE SOUSA,Cinthya,34
+cd,ext_yasms,2025-09-25,YASMIN ALVES DE SOUSA,Cinthya,4
+ci,ext_aguisouz,2025-09-15,Aguida Manoela Pereira de Souza,Adriana,154
+ci,ext_aguisouz,2025-09-16,Aguida Manoela Pereira de Souza,Adriana,21
+ci,ext_aguisouz,2025-09-17,Aguida Manoela Pereira de Souza,Adriana,25
+ci,ext_aguisouz,2025-09-22,Aguida Manoela Pereira de Souza,Adriana,36
+ci,ext_aguisouz,2025-09-23,Aguida Manoela Pereira de Souza,Adriana,5
+ci,ext_aguisouz,2025-09-24,Aguida Manoela Pereira de Souza,Adriana,7
+ci,ext_alesr,2025-09-15,Alessandro Ferreira Rodrigues,Cinthya,217
+ci,ext_alesr,2025-09-16,Alessandro Ferreira Rodrigues,Cinthya,10
+ci,ext_alesr,2025-09-17,Alessandro Ferreira Rodrigues,Cinthya,17
+ci,ext_alesr,2025-09-18,Alessandro Ferreira Rodrigues,Cinthya,7
+ci,ext_alesr,2025-09-19,Alessandro Ferreira Rodrigues,Cinthya,2
+ci,ext_alesr,2025-09-22,Alessandro Ferreira Rodrigues,Cinthya,6
+ci,ext_alesr,2025-09-23,Alessandro Ferreira Rodrigues,Cinthya,3
+ci,ext_alesr,2025-09-24,Alessandro Ferreira Rodrigues,Cinthya,1
+ci,ext_almester,2025-09-22,ESTER MARTINS DE ALMEIDA,Nycolle,2
+ci,ext_almester,2025-09-23,ESTER MARTINS DE ALMEIDA,Nycolle,2
+ci,ext_almester,2025-09-24,ESTER MARTINS DE ALMEIDA,Nycolle,2
+ci,ext_alycarva,2025-09-22,ALYSSON KAUA ROCHA DE CARVALHO,Chayene,2
+ci,ext_alycarva,2025-09-23,ALYSSON KAUA ROCHA DE CARVALHO,Chayene,1
+ci,ext_alycarva,2025-09-24,ALYSSON KAUA ROCHA DE CARVALHO,Chayene,1
+ci,ext_amaca,2025-09-15,Amanda Soares Cardoso,Chayene,1
+ci,ext_amaca,2025-09-22,Amanda Soares Cardoso,Chayene,1
+ci,ext_anderoc,2025-09-15,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,2
+ci,ext_anderoc,2025-09-16,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,7
+ci,ext_anderoc,2025-09-17,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,8
+ci,ext_anderoc,2025-09-18,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,7
+ci,ext_anderoc,2025-09-19,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,3
+ci,ext_anderoc,2025-09-20,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,6
+ci,ext_anderoc,2025-09-22,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,1
+ci,ext_anderoc,2025-09-23,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,4
+ci,ext_anivo,2025-09-15,Ana Clara Dos Santos Ivo,Cinthya,430
+ci,ext_anivo,2025-09-16,Ana Clara Dos Santos Ivo,Cinthya,90
+ci,ext_anivo,2025-09-17,Ana Clara Dos Santos Ivo,Cinthya,51
+ci,ext_anivo,2025-09-18,Ana Clara Dos Santos Ivo,Cinthya,39
+ci,ext_anivo,2025-09-22,Ana Clara Dos Santos Ivo,Cinthya,96
+ci,ext_anivo,2025-09-23,Ana Clara Dos Santos Ivo,Cinthya,2
+ci,ext_anivo,2025-09-24,Ana Clara Dos Santos Ivo,Cinthya,1
+ci,ext_anivo,2025-09-25,Ana Clara Dos Santos Ivo,Cinthya,1
+ci,ext_anmart,2025-09-15,Andreia Torres Rocha Martins,Klaus,410
+ci,ext_anmart,2025-09-16,Andreia Torres Rocha Martins,Klaus,31
+ci,ext_anmart,2025-09-17,Andreia Torres Rocha Martins,Klaus,31
+ci,ext_anmart,2025-09-18,Andreia Torres Rocha Martins,Klaus,30
+ci,ext_anmart,2025-09-19,Andreia Torres Rocha Martins,Klaus,2
+ci,ext_anmart,2025-09-20,Andreia Torres Rocha Martins,Klaus,1
+ci,ext_anmart,2025-09-22,Andreia Torres Rocha Martins,Klaus,58
+ci,ext_anmart,2025-09-23,Andreia Torres Rocha Martins,Klaus,3
+ci,ext_anmart,2025-09-24,Andreia Torres Rocha Martins,Klaus,1
+ci,ext_annicost,2025-09-19,ANNIARA OLGA MARINHO COSTA,Klaus,2
+ci,ext_annicost,2025-09-22,ANNIARA OLGA MARINHO COSTA,Klaus,3
+ci,ext_annicost,2025-09-23,ANNIARA OLGA MARINHO COSTA,Klaus,1
+ci,ext_annicost,2025-09-24,ANNIARA OLGA MARINHO COSTA,Klaus,2
+ci,ext_annl,2025-09-17,ANNA LUIZA RIBEIRO COSTA ,Chayene,1
+ci,ext_annl,2025-09-18,ANNA LUIZA RIBEIRO COSTA ,Chayene,1
+ci,ext_annl,2025-09-19,ANNA LUIZA RIBEIRO COSTA ,Chayene,2
+ci,ext_annl,2025-09-23,ANNA LUIZA RIBEIRO COSTA ,Chayene,3
+ci,ext_anvinhal,2025-09-15,Ana Carolina Silva Vinhal,Cinthya,185
+ci,ext_anvinhal,2025-09-16,Ana Carolina Silva Vinhal,Cinthya,9
+ci,ext_anvinhal,2025-09-17,Ana Carolina Silva Vinhal,Cinthya,5
+ci,ext_asilv,2025-09-15,ANA CAROLINA DOS SANTOS SILVA,Adriana,633
+ci,ext_asilv,2025-09-16,ANA CAROLINA DOS SANTOS SILVA,Adriana,45
+ci,ext_asilv,2025-09-17,ANA CAROLINA DOS SANTOS SILVA,Adriana,32
+ci,ext_asilv,2025-09-18,ANA CAROLINA DOS SANTOS SILVA,Adriana,28
+ci,ext_asilv,2025-09-19,ANA CAROLINA DOS SANTOS SILVA,Adriana,1
+ci,ext_asilv,2025-09-20,ANA CAROLINA DOS SANTOS SILVA,Adriana,2
+ci,ext_asilv,2025-09-22,ANA CAROLINA DOS SANTOS SILVA,Adriana,69
+ci,ext_asilv,2025-09-23,ANA CAROLINA DOS SANTOS SILVA,Adriana,8
+ci,ext_asilv,2025-09-24,ANA CAROLINA DOS SANTOS SILVA,Adriana,5
+ci,ext_ayxavier,2025-09-15,AYLA MIRANDA XAVIER,Adriana,137
+ci,ext_ayxavier,2025-09-16,AYLA MIRANDA XAVIER,Adriana,12
+ci,ext_ayxavier,2025-09-17,AYLA MIRANDA XAVIER,Adriana,11
+ci,ext_ayxavier,2025-09-18,AYLA MIRANDA XAVIER,Adriana,9
+ci,ext_ayxavier,2025-09-19,AYLA MIRANDA XAVIER,Adriana,1
+ci,ext_ayxavier,2025-09-22,AYLA MIRANDA XAVIER,Adriana,6
+ci,ext_barvaler,2025-09-20,VALERIA DE PAULA BARBOSA,Chayene,9
+ci,ext_barvaler,2025-09-22,VALERIA DE PAULA BARBOSA,Chayene,2
+ci,ext_barvaler,2025-09-23,VALERIA DE PAULA BARBOSA,Chayene,3
+ci,ext_barvaler,2025-09-24,VALERIA DE PAULA BARBOSA,Chayene,1
+ci,ext_beatraze,2025-09-15,Beatriz Saraiva de Azevedo,Nycolle,39
+ci,ext_beatraze,2025-09-16,Beatriz Saraiva de Azevedo,Nycolle,6
+ci,ext_beatraze,2025-09-18,Beatriz Saraiva de Azevedo,Nycolle,10
+ci,ext_beatraze,2025-09-19,Beatriz Saraiva de Azevedo,Nycolle,1
+ci,ext_beatraze,2025-09-22,Beatriz Saraiva de Azevedo,Nycolle,3
+ci,ext_besilv,2025-09-15,Beatriz Soares Da Silva,Cinthya,197
+ci,ext_besilv,2025-09-16,Beatriz Soares Da Silva,Cinthya,11
+ci,ext_besilv,2025-09-17,Beatriz Soares Da Silva,Cinthya,5
+ci,ext_besilv,2025-09-18,Beatriz Soares Da Silva,Cinthya,9
+ci,ext_besilv,2025-09-19,Beatriz Soares Da Silva,Cinthya,1
+ci,ext_besilv,2025-09-22,Beatriz Soares Da Silva,Cinthya,3
+ci,ext_bev,2025-09-17,BEATRIZ NEIVA SOUZA VIEIRA ,Adriana,4
+ci,ext_bev,2025-09-18,BEATRIZ NEIVA SOUZA VIEIRA ,Adriana,5
+ci,ext_bev,2025-09-19,BEATRIZ NEIVA SOUZA VIEIRA ,Adriana,4
+ci,ext_bev,2025-09-22,BEATRIZ NEIVA SOUZA VIEIRA ,Adriana,16
+ci,ext_bev,2025-09-23,BEATRIZ NEIVA SOUZA VIEIRA ,Adriana,5
+ci,ext_bev,2025-09-24,BEATRIZ NEIVA SOUZA VIEIRA ,Adriana,13
+ci,ext_brebrito,2025-09-15,Brenda Gabrielle Lima Brito,Cinthya,127
+ci,ext_brebrito,2025-09-16,Brenda Gabrielle Lima Brito,Cinthya,18
+ci,ext_brebrito,2025-09-17,Brenda Gabrielle Lima Brito,Cinthya,36
+ci,ext_brebrito,2025-09-18,Brenda Gabrielle Lima Brito,Cinthya,30
+ci,ext_brebrito,2025-09-19,Brenda Gabrielle Lima Brito,Cinthya,1
+ci,ext_brebrito,2025-09-23,Brenda Gabrielle Lima Brito,Cinthya,3
+ci,ext_brebrito,2025-09-24,Brenda Gabrielle Lima Brito,Cinthya,6
+ci,ext_brenndna,2025-09-15,Brennda Yasmin Alves Do Nascimento,Adriana,548
+ci,ext_brenndna,2025-09-16,Brennda Yasmin Alves Do Nascimento,Adriana,41
+ci,ext_brenndna,2025-09-17,Brennda Yasmin Alves Do Nascimento,Adriana,43
+ci,ext_brenndna,2025-09-18,Brennda Yasmin Alves Do Nascimento,Adriana,38
+ci,ext_brenndna,2025-09-19,Brennda Yasmin Alves Do Nascimento,Adriana,3
+ci,ext_brenndna,2025-09-20,Brennda Yasmin Alves Do Nascimento,Adriana,1
+ci,ext_brenndna,2025-09-23,Brennda Yasmin Alves Do Nascimento,Adriana,9
+ci,ext_brenndna,2025-09-24,Brennda Yasmin Alves Do Nascimento,Adriana,4
+ci,ext_brenndna,2025-09-25,Brennda Yasmin Alves Do Nascimento,Adriana,2
+ci,ext_cail,2025-09-15,Caio Victor Mazieiro de Lima,Cinthya,136
+ci,ext_cail,2025-09-16,Caio Victor Mazieiro de Lima,Cinthya,22
+ci,ext_cail,2025-09-17,Caio Victor Mazieiro de Lima,Cinthya,29
+ci,ext_cail,2025-09-18,Caio Victor Mazieiro de Lima,Cinthya,14
+ci,ext_cail,2025-09-19,Caio Victor Mazieiro de Lima,Cinthya,2
+ci,ext_cail,2025-09-22,Caio Victor Mazieiro de Lima,Cinthya,22
+ci,ext_cail,2025-09-24,Caio Victor Mazieiro de Lima,Cinthya,1
+ci,ext_caljulia,2025-09-15,JULIANO RIBEIRO CALDAS,Nycolle,383
+ci,ext_caljulia,2025-09-17,JULIANO RIBEIRO CALDAS,Nycolle,72
+ci,ext_caljulia,2025-09-18,JULIANO RIBEIRO CALDAS,Nycolle,10
+ci,ext_caljulia,2025-09-22,JULIANO RIBEIRO CALDAS,Nycolle,92
+ci,ext_cardclar,2025-09-15,CLARA DE SOUSA CARDOSO ,Klaus,11
+ci,ext_cardclar,2025-09-16,CLARA DE SOUSA CARDOSO ,Klaus,11
+ci,ext_cardclar,2025-09-17,CLARA DE SOUSA CARDOSO ,Klaus,6
+ci,ext_cardclar,2025-09-19,CLARA DE SOUSA CARDOSO ,Klaus,3
+ci,ext_cardclar,2025-09-22,CLARA DE SOUSA CARDOSO ,Klaus,6
+ci,ext_cardclar,2025-09-23,CLARA DE SOUSA CARDOSO ,Klaus,12
+ci,ext_cardclar,2025-09-24,CLARA DE SOUSA CARDOSO ,Klaus,12
+ci,ext_carvsara,2025-09-15,Sarah Ataides Carvalho,Klaus,39
+ci,ext_cealenca,2025-09-15,CESAR FELLIPE LUCENA DE ALENCAR,Nycolle,70
+ci,ext_cealenca,2025-09-16,CESAR FELLIPE LUCENA DE ALENCAR,Nycolle,7
+ci,ext_cealenca,2025-09-17,CESAR FELLIPE LUCENA DE ALENCAR,Nycolle,1
+ci,ext_cealenca,2025-09-22,CESAR FELLIPE LUCENA DE ALENCAR,Nycolle,24
+ci,ext_cealenca,2025-09-24,CESAR FELLIPE LUCENA DE ALENCAR,Nycolle,6
+ci,ext_chraiol,2025-09-15,Chayane Silveira Raiol,Cinthya,421
+ci,ext_chraiol,2025-09-16,Chayane Silveira Raiol,Cinthya,48
+ci,ext_chraiol,2025-09-17,Chayane Silveira Raiol,Cinthya,67
+ci,ext_chraiol,2025-09-18,Chayane Silveira Raiol,Cinthya,42
+ci,ext_chraiol,2025-09-19,Chayane Silveira Raiol,Cinthya,3
+ci,ext_chraiol,2025-09-20,Chayane Silveira Raiol,Cinthya,3
+ci,ext_chraiol,2025-09-22,Chayane Silveira Raiol,Cinthya,42
+ci,ext_chraiol,2025-09-23,Chayane Silveira Raiol,Cinthya,2
+ci,ext_chraiol,2025-09-24,Chayane Silveira Raiol,Cinthya,6
+ci,ext_chraiol,2025-09-25,Chayane Silveira Raiol,Cinthya,1
+ci,ext_correhen,2025-09-15,Henrique Oliveira Correa,Cinthya,6
+ci,ext_correhen,2025-09-22,Henrique Oliveira Correa,Cinthya,1
+ci,ext_crislaij,2025-09-15,Crislainy Serafim de Jesus,Nycolle,144
+ci,ext_crislaij,2025-09-17,Crislainy Serafim de Jesus,Nycolle,65
+ci,ext_crislaij,2025-09-18,Crislainy Serafim de Jesus,Nycolle,34
+ci,ext_crislaij,2025-09-19,Crislainy Serafim de Jesus,Nycolle,1
+ci,ext_crislaij,2025-09-20,Crislainy Serafim de Jesus,Nycolle,2
+ci,ext_crislaij,2025-09-23,Crislainy Serafim de Jesus,Nycolle,1
+ci,ext_crislaij,2025-09-24,Crislainy Serafim de Jesus,Nycolle,1
+ci,ext_danieb,2025-09-15,DANIEL LIMA BARBOSA,Klaus,52
+ci,ext_danieb,2025-09-16,DANIEL LIMA BARBOSA,Klaus,8
+ci,ext_danieb,2025-09-17,DANIEL LIMA BARBOSA,Klaus,6
+ci,ext_danieb,2025-09-18,DANIEL LIMA BARBOSA,Klaus,2
+ci,ext_danieb,2025-09-19,DANIEL LIMA BARBOSA,Klaus,2
+ci,ext_danieb,2025-09-22,DANIEL LIMA BARBOSA,Klaus,6
+ci,ext_danieb,2025-09-24,DANIEL LIMA BARBOSA,Klaus,1
+ci,ext_dousa,2025-09-15,DOUGLAS OLIVEIRA DOS SANTOS ,Klaus,5
+ci,ext_dousa,2025-09-16,DOUGLAS OLIVEIRA DOS SANTOS ,Klaus,4
+ci,ext_dousa,2025-09-17,DOUGLAS OLIVEIRA DOS SANTOS ,Klaus,3
+ci,ext_dousa,2025-09-18,DOUGLAS OLIVEIRA DOS SANTOS ,Klaus,6
+ci,ext_dousa,2025-09-19,DOUGLAS OLIVEIRA DOS SANTOS ,Klaus,6
+ci,ext_dousa,2025-09-22,DOUGLAS OLIVEIRA DOS SANTOS ,Klaus,7
+ci,ext_dousa,2025-09-24,DOUGLAS OLIVEIRA DOS SANTOS ,Klaus,4
+ci,ext_edisjuni,2025-09-15,EDISON GALDINO JUNIOR ,Chayene,3
+ci,ext_edisjuni,2025-09-17,EDISON GALDINO JUNIOR ,Chayene,3
+ci,ext_edisjuni,2025-09-18,EDISON GALDINO JUNIOR ,Chayene,4
+ci,ext_edisjuni,2025-09-19,EDISON GALDINO JUNIOR ,Chayene,2
+ci,ext_edisjuni,2025-09-20,EDISON GALDINO JUNIOR ,Chayene,1
+ci,ext_edisjuni,2025-09-22,EDISON GALDINO JUNIOR ,Chayene,3
+ci,ext_edisjuni,2025-09-23,EDISON GALDINO JUNIOR ,Chayene,2
+ci,ext_edisjuni,2025-09-24,EDISON GALDINO JUNIOR ,Chayene,1
+ci,ext_emills,2025-09-15,Emilly Neves Da Silva,Chayene,2
+ci,ext_emo,2025-09-15,EMILLY GABRIELLY ALMEIDA DE OLIVEIRA ,Cinthya,2
+ci,ext_emo,2025-09-17,EMILLY GABRIELLY ALMEIDA DE OLIVEIRA ,Cinthya,4
+ci,ext_emo,2025-09-18,EMILLY GABRIELLY ALMEIDA DE OLIVEIRA ,Cinthya,5
+ci,ext_emo,2025-09-19,EMILLY GABRIELLY ALMEIDA DE OLIVEIRA ,Cinthya,4
+ci,ext_emo,2025-09-20,EMILLY GABRIELLY ALMEIDA DE OLIVEIRA ,Cinthya,4
+ci,ext_emo,2025-09-23,EMILLY GABRIELLY ALMEIDA DE OLIVEIRA ,Cinthya,1
+ci,ext_erickrio,2025-09-15,Erick Fernando Da Conceicao Rios,Cinthya,475
+ci,ext_erickrio,2025-09-16,Erick Fernando Da Conceicao Rios,Cinthya,55
+ci,ext_erickrio,2025-09-17,Erick Fernando Da Conceicao Rios,Cinthya,45
+ci,ext_erickrio,2025-09-18,Erick Fernando Da Conceicao Rios,Cinthya,37
+ci,ext_erickrio,2025-09-22,Erick Fernando Da Conceicao Rios,Cinthya,46
+ci,ext_erickrio,2025-09-23,Erick Fernando Da Conceicao Rios,Cinthya,1
+ci,ext_erickrio,2025-09-24,Erick Fernando Da Conceicao Rios,Cinthya,1
+ci,ext_fekaic,2025-09-15,Kaic Miguel da Silva Ferreira,Klaus,359
+ci,ext_fekaic,2025-09-16,Kaic Miguel da Silva Ferreira,Klaus,40
+ci,ext_fekaic,2025-09-17,Kaic Miguel da Silva Ferreira,Klaus,23
+ci,ext_fekaic,2025-09-18,Kaic Miguel da Silva Ferreira,Klaus,25
+ci,ext_fekaic,2025-09-19,Kaic Miguel da Silva Ferreira,Klaus,1
+ci,ext_fekaic,2025-09-20,Kaic Miguel da Silva Ferreira,Klaus,1
+ci,ext_fekaic,2025-09-22,Kaic Miguel da Silva Ferreira,Klaus,63
+ci,ext_fekaic,2025-09-23,Kaic Miguel da Silva Ferreira,Klaus,6
+ci,ext_fekaic,2025-09-24,Kaic Miguel da Silva Ferreira,Klaus,7
+ci,ext_gabrlibe,2025-09-15,Gabriel Ferreira Liberato,Adriana,472
+ci,ext_gabrlibe,2025-09-16,Gabriel Ferreira Liberato,Adriana,58
+ci,ext_gabrlibe,2025-09-17,Gabriel Ferreira Liberato,Adriana,29
+ci,ext_gabrlibe,2025-09-18,Gabriel Ferreira Liberato,Adriana,23
+ci,ext_gabrlibe,2025-09-19,Gabriel Ferreira Liberato,Adriana,1
+ci,ext_gabrlibe,2025-09-22,Gabriel Ferreira Liberato,Adriana,35
+ci,ext_gabrlibe,2025-09-23,Gabriel Ferreira Liberato,Adriana,7
+ci,ext_gabrlibe,2025-09-24,Gabriel Ferreira Liberato,Adriana,2
+ci,ext_gbilpere,2025-09-15,Gabriel Rodrigues Pereira ,Klaus,118
+ci,ext_gbilpere,2025-09-16,Gabriel Rodrigues Pereira ,Klaus,29
+ci,ext_gbilpere,2025-09-17,Gabriel Rodrigues Pereira ,Klaus,21
+ci,ext_gbilpere,2025-09-18,Gabriel Rodrigues Pereira ,Klaus,11
+ci,ext_gbilpere,2025-09-20,Gabriel Rodrigues Pereira ,Klaus,1
+ci,ext_gbilpere,2025-09-22,Gabriel Rodrigues Pereira ,Klaus,38
+ci,ext_gbilpere,2025-09-24,Gabriel Rodrigues Pereira ,Klaus,1
+ci,ext_gbilpere,2025-09-25,Gabriel Rodrigues Pereira ,Klaus,3
+ci,ext_gianmend,2025-09-15,Giana Gisely de Sousa Mendes,Nycolle,115
+ci,ext_gianmend,2025-09-16,Giana Gisely de Sousa Mendes,Nycolle,1
+ci,ext_gianmend,2025-09-17,Giana Gisely de Sousa Mendes,Nycolle,11
+ci,ext_gianmend,2025-09-18,Giana Gisely de Sousa Mendes,Nycolle,31
+ci,ext_gianmend,2025-09-22,Giana Gisely de Sousa Mendes,Nycolle,8
+ci,ext_gianmend,2025-09-23,Giana Gisely de Sousa Mendes,Nycolle,1
+ci,ext_gianmend,2025-09-24,Giana Gisely de Sousa Mendes,Nycolle,1
+ci,ext_giog,2025-09-15,Giovanna Soares Araújo Gonçalves,Klaus,236
+ci,ext_giog,2025-09-16,Giovanna Soares Araújo Gonçalves,Klaus,22
+ci,ext_giog,2025-09-17,Giovanna Soares Araújo Gonçalves,Klaus,27
+ci,ext_giog,2025-09-18,Giovanna Soares Araújo Gonçalves,Klaus,13
+ci,ext_giog,2025-09-20,Giovanna Soares Araújo Gonçalves,Klaus,2
+ci,ext_giog,2025-09-23,Giovanna Soares Araújo Gonçalves,Klaus,13
+ci,ext_giog,2025-09-24,Giovanna Soares Araújo Gonçalves,Klaus,2
+ci,ext_giso,2025-09-15,Geovani Lucio Soares,Klaus,89
+ci,ext_giso,2025-09-16,Geovani Lucio Soares,Klaus,18
+ci,ext_giso,2025-09-17,Geovani Lucio Soares,Klaus,5
+ci,ext_giso,2025-09-18,Geovani Lucio Soares,Klaus,14
+ci,ext_giso,2025-09-22,Geovani Lucio Soares,Klaus,15
+ci,ext_gomesj,2025-09-15,JOÃO VITOR DOS SANTOS GOMES,Nycolle,11
+ci,ext_grazielg,2025-09-15,Maria Graziella Oliveira Gomes,Nycolle,219
+ci,ext_grazielg,2025-09-16,Maria Graziella Oliveira Gomes,Nycolle,7
+ci,ext_grazielg,2025-09-17,Maria Graziella Oliveira Gomes,Nycolle,19
+ci,ext_grazielg,2025-09-18,Maria Graziella Oliveira Gomes,Nycolle,19
+ci,ext_grazielg,2025-09-19,Maria Graziella Oliveira Gomes,Nycolle,4
+ci,ext_grazielg,2025-09-23,Maria Graziella Oliveira Gomes,Nycolle,4
+ci,ext_grazielg,2025-09-24,Maria Graziella Oliveira Gomes,Nycolle,3
+ci,ext_guilhec,2025-09-15,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,398
+ci,ext_guilhec,2025-09-17,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,60
+ci,ext_guilhec,2025-09-18,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,68
+ci,ext_guilhec,2025-09-20,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,2
+ci,ext_guilhec,2025-09-22,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,60
+ci,ext_guilhec,2025-09-23,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,4
+ci,ext_guilhec,2025-09-24,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,1
+ci,ext_hajunior,2025-09-15,HASENCLEVER GUIMARAES DE FREITAS LIMA JUNIOR ,Nycolle,302
+ci,ext_hajunior,2025-09-16,HASENCLEVER GUIMARAES DE FREITAS LIMA JUNIOR ,Nycolle,28
+ci,ext_hajunior,2025-09-18,HASENCLEVER GUIMARAES DE FREITAS LIMA JUNIOR ,Nycolle,53
+ci,ext_hajunior,2025-09-19,HASENCLEVER GUIMARAES DE FREITAS LIMA JUNIOR ,Nycolle,1
+ci,ext_hajunior,2025-09-22,HASENCLEVER GUIMARAES DE FREITAS LIMA JUNIOR ,Nycolle,28
+ci,ext_hajunior,2025-09-23,HASENCLEVER GUIMARAES DE FREITAS LIMA JUNIOR ,Nycolle,3
+ci,ext_hajunior,2025-09-24,HASENCLEVER GUIMARAES DE FREITAS LIMA JUNIOR ,Nycolle,4
+ci,ext_hiavieir,2025-09-15,Hiago Victor De Souza Vieira,Chayene,2
+ci,ext_hiavieir,2025-09-16,Hiago Victor De Souza Vieira,Chayene,3
+ci,ext_hiavieir,2025-09-17,Hiago Victor De Souza Vieira,Chayene,7
+ci,ext_hiavieir,2025-09-18,Hiago Victor De Souza Vieira,Chayene,1
+ci,ext_hiavieir,2025-09-24,Hiago Victor De Souza Vieira,Chayene,8
+ci,ext_hubotelh,2025-09-19,HUGO ALMEIDA BOTELHO,Chayene,1
+ci,ext_hubotelh,2025-09-20,HUGO ALMEIDA BOTELHO,Chayene,3
+ci,ext_hubotelh,2025-09-22,HUGO ALMEIDA BOTELHO,Chayene,5
+ci,ext_hubotelh,2025-09-23,HUGO ALMEIDA BOTELHO,Chayene,2
+ci,ext_hubotelh,2025-09-24,HUGO ALMEIDA BOTELHO,Chayene,5
+ci,ext_igso,2025-09-15,IGOR DE ARAUJO SOUSA,Nycolle,182
+ci,ext_igso,2025-09-16,IGOR DE ARAUJO SOUSA,Nycolle,10
+ci,ext_igso,2025-09-17,IGOR DE ARAUJO SOUSA,Nycolle,15
+ci,ext_igso,2025-09-20,IGOR DE ARAUJO SOUSA,Nycolle,6
+ci,ext_igso,2025-09-22,IGOR DE ARAUJO SOUSA,Nycolle,35
+ci,ext_igso,2025-09-23,IGOR DE ARAUJO SOUSA,Nycolle,7
+ci,ext_igso,2025-09-24,IGOR DE ARAUJO SOUSA,Nycolle,1
+ci,ext_igso,2025-09-25,IGOR DE ARAUJO SOUSA,Nycolle,1
+ci,ext_incardoz,2025-09-15,INGRID SIQUEIRA CARDOZO,Nycolle,270
+ci,ext_incardoz,2025-09-16,INGRID SIQUEIRA CARDOZO,Nycolle,25
+ci,ext_incardoz,2025-09-17,INGRID SIQUEIRA CARDOZO,Nycolle,16
+ci,ext_incardoz,2025-09-18,INGRID SIQUEIRA CARDOZO,Nycolle,38
+ci,ext_incardoz,2025-09-22,INGRID SIQUEIRA CARDOZO,Nycolle,49
+ci,ext_incardoz,2025-09-23,INGRID SIQUEIRA CARDOZO,Nycolle,4
+ci,ext_incardoz,2025-09-24,INGRID SIQUEIRA CARDOZO,Nycolle,3
+ci,ext_iosousa,2025-09-15,Ione Daina De Sousa,Cinthya,66
+ci,ext_iosousa,2025-09-16,Ione Daina De Sousa,Cinthya,8
+ci,ext_iosousa,2025-09-19,Ione Daina De Sousa,Cinthya,1
+ci,ext_iosousa,2025-09-22,Ione Daina De Sousa,Cinthya,6
+ci,ext_iosousa,2025-09-23,Ione Daina De Sousa,Cinthya,4
+ci,ext_isabesa,2025-09-15,Isabella Eyshila Vitoriano Dos Santos,Adriana,15
+ci,ext_isabesa,2025-09-18,Isabella Eyshila Vitoriano Dos Santos,Adriana,4
+ci,ext_isabesa,2025-09-22,Isabella Eyshila Vitoriano Dos Santos,Adriana,3
+ci,ext_issanto,2025-09-15,ISABELA MENEZES DOS SANTOS,Nycolle,160
+ci,ext_issanto,2025-09-16,ISABELA MENEZES DOS SANTOS,Nycolle,11
+ci,ext_issanto,2025-09-17,ISABELA MENEZES DOS SANTOS,Nycolle,11
+ci,ext_issanto,2025-09-18,ISABELA MENEZES DOS SANTOS,Nycolle,14
+ci,ext_issanto,2025-09-19,ISABELA MENEZES DOS SANTOS,Nycolle,5
+ci,ext_issanto,2025-09-20,ISABELA MENEZES DOS SANTOS,Nycolle,3
+ci,ext_issanto,2025-09-22,ISABELA MENEZES DOS SANTOS,Nycolle,22
+ci,ext_issanto,2025-09-23,ISABELA MENEZES DOS SANTOS,Nycolle,3
+ci,ext_issanto,2025-09-24,ISABELA MENEZES DOS SANTOS,Nycolle,3
+ci,ext_italconc,2025-09-19,Italo Carvalho Da Conceição,Chayene,3
+ci,ext_its,2025-09-15,Italo Rian Alves da Silva,Cinthya,86
+ci,ext_its,2025-09-16,Italo Rian Alves da Silva,Cinthya,5
+ci,ext_its,2025-09-18,Italo Rian Alves da Silva,Cinthya,4
+ci,ext_its,2025-09-19,Italo Rian Alves da Silva,Cinthya,1
+ci,ext_its,2025-09-20,Italo Rian Alves da Silva,Cinthya,3
+ci,ext_its,2025-09-22,Italo Rian Alves da Silva,Cinthya,18
+ci,ext_its,2025-09-24,Italo Rian Alves da Silva,Cinthya,3
+ci,ext_janaguia,2025-09-20,JANAINA DA SILVA AGUIAR,Klaus,1
+ci,ext_janaguia,2025-09-22,JANAINA DA SILVA AGUIAR,Klaus,5
+ci,ext_janaguia,2025-09-23,JANAINA DA SILVA AGUIAR,Klaus,3
+ci,ext_janaguia,2025-09-24,JANAINA DA SILVA AGUIAR,Klaus,7
+ci,ext_jeff,2025-09-15,Jefferson Rodrigues Fernandes,Klaus,160
+ci,ext_jeff,2025-09-16,Jefferson Rodrigues Fernandes,Klaus,13
+ci,ext_jeff,2025-09-17,Jefferson Rodrigues Fernandes,Klaus,18
+ci,ext_jeff,2025-09-18,Jefferson Rodrigues Fernandes,Klaus,7
+ci,ext_jeff,2025-09-22,Jefferson Rodrigues Fernandes,Klaus,18
+ci,ext_jeff,2025-09-23,Jefferson Rodrigues Fernandes,Klaus,10
+ci,ext_jhenifso,2025-09-15,JHENIFFER ALVES DE SOUSA,Adriana,77
+ci,ext_jhenifso,2025-09-17,JHENIFFER ALVES DE SOUSA,Adriana,22
+ci,ext_jhenifso,2025-09-18,JHENIFFER ALVES DE SOUSA,Adriana,25
+ci,ext_jhenifso,2025-09-19,JHENIFFER ALVES DE SOUSA,Adriana,6
+ci,ext_jhenifso,2025-09-23,JHENIFFER ALVES DE SOUSA,Adriana,10
+ci,ext_jhenifso,2025-09-24,JHENIFFER ALVES DE SOUSA,Adriana,4
+ci,ext_jhonngom,2025-09-15,Jhonnys Junior Gomes De Sousa,Adriana,305
+ci,ext_jhonngom,2025-09-16,Jhonnys Junior Gomes De Sousa,Adriana,16
+ci,ext_jhonngom,2025-09-17,Jhonnys Junior Gomes De Sousa,Adriana,44
+ci,ext_jhonngom,2025-09-18,Jhonnys Junior Gomes De Sousa,Adriana,30
+ci,ext_jhonngom,2025-09-19,Jhonnys Junior Gomes De Sousa,Adriana,5
+ci,ext_jhonngom,2025-09-22,Jhonnys Junior Gomes De Sousa,Adriana,53
+ci,ext_jhonngom,2025-09-23,Jhonnys Junior Gomes De Sousa,Adriana,6
+ci,ext_jhonngom,2025-09-24,Jhonnys Junior Gomes De Sousa,Adriana,4
+ci,ext_joafe,2025-09-15,JOAO PAULO RODRIGUES FERNANDES,Nycolle,113
+ci,ext_joafe,2025-09-16,JOAO PAULO RODRIGUES FERNANDES,Nycolle,22
+ci,ext_joafe,2025-09-20,JOAO PAULO RODRIGUES FERNANDES,Nycolle,2
+ci,ext_joafe,2025-09-24,JOAO PAULO RODRIGUES FERNANDES,Nycolle,5
+ci,ext_joigoula,2025-09-15,JOICE COSTA GOULART,Adriana,9
+ci,ext_joigoula,2025-09-16,JOICE COSTA GOULART,Adriana,4
+ci,ext_joigoula,2025-09-18,JOICE COSTA GOULART,Adriana,3
+ci,ext_joigoula,2025-09-19,JOICE COSTA GOULART,Adriana,2
+ci,ext_joigoula,2025-09-20,JOICE COSTA GOULART,Adriana,4
+ci,ext_joigoula,2025-09-22,JOICE COSTA GOULART,Adriana,3
+ci,ext_joigoula,2025-09-23,JOICE COSTA GOULART,Adriana,2
+ci,ext_joigoula,2025-09-24,JOICE COSTA GOULART,Adriana,5
+ci,ext_joigoula,2025-09-25,JOICE COSTA GOULART,Adriana,1
+ci,ext_josiaand,2025-09-15,Joseane de Andrade Rego,Adriana,460
+ci,ext_josiaand,2025-09-16,Joseane de Andrade Rego,Adriana,35
+ci,ext_josiaand,2025-09-17,Joseane de Andrade Rego,Adriana,33
+ci,ext_josiaand,2025-09-18,Joseane de Andrade Rego,Adriana,31
+ci,ext_josiaand,2025-09-19,Joseane de Andrade Rego,Adriana,11
+ci,ext_josiaand,2025-09-20,Joseane de Andrade Rego,Adriana,4
+ci,ext_josiaand,2025-09-22,Joseane de Andrade Rego,Adriana,50
+ci,ext_josiaand,2025-09-23,Joseane de Andrade Rego,Adriana,13
+ci,ext_josiaand,2025-09-24,Joseane de Andrade Rego,Adriana,3
+ci,ext_josiaand,2025-09-25,Joseane de Andrade Rego,Adriana,1
+ci,ext_julgraca,2025-09-15,Julia Oliveira da Graça,Adriana,283
+ci,ext_julgraca,2025-09-16,Julia Oliveira da Graça,Adriana,33
+ci,ext_julgraca,2025-09-17,Julia Oliveira da Graça,Adriana,38
+ci,ext_julgraca,2025-09-18,Julia Oliveira da Graça,Adriana,22
+ci,ext_julgraca,2025-09-19,Julia Oliveira da Graça,Adriana,5
+ci,ext_julgraca,2025-09-22,Julia Oliveira da Graça,Adriana,16
+ci,ext_julgraca,2025-09-23,Julia Oliveira da Graça,Adriana,3
+ci,ext_julgraca,2025-09-25,Julia Oliveira da Graça,Adriana,2
+ci,ext_juligoul,2025-09-23,JULIA COSTA GOULART ,Chayene,2
+ci,ext_karicsil,2025-09-15,Karoline Rodrigues da Silva,Klaus,271
+ci,ext_karicsil,2025-09-16,Karoline Rodrigues da Silva,Klaus,7
+ci,ext_karicsil,2025-09-17,Karoline Rodrigues da Silva,Klaus,24
+ci,ext_karicsil,2025-09-18,Karoline Rodrigues da Silva,Klaus,29
+ci,ext_karicsil,2025-09-23,Karoline Rodrigues da Silva,Klaus,5
+ci,ext_karicsil,2025-09-24,Karoline Rodrigues da Silva,Klaus,1
+ci,ext_kasmarqu,2025-09-15,Kassia Nathalia Marques De Matos,Adriana,10
+ci,ext_kasmarqu,2025-09-16,Kassia Nathalia Marques De Matos,Adriana,1
+ci,ext_kasmarqu,2025-09-18,Kassia Nathalia Marques De Matos,Adriana,4
+ci,ext_kasmarqu,2025-09-24,Kassia Nathalia Marques De Matos,Adriana,2
+ci,ext_kaymateu,2025-09-17,Kayro Mateus Mendes Ribeiro,Cinthya,1
+ci,ext_kevebarb,2025-09-16,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,1
+ci,ext_kevebarb,2025-09-17,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,1
+ci,ext_kevebarb,2025-09-18,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,3
+ci,ext_kevebarb,2025-09-19,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,4
+ci,ext_kevebarb,2025-09-20,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,2
+ci,ext_kevebarb,2025-09-23,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,3
+ci,ext_kevebarb,2025-09-24,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,2
+ci,ext_lauramac,2025-09-15,LAURA VICENTE MACIEL,Klaus,77
+ci,ext_lauramac,2025-09-16,LAURA VICENTE MACIEL,Klaus,3
+ci,ext_lauramac,2025-09-17,LAURA VICENTE MACIEL,Klaus,11
+ci,ext_lauramac,2025-09-18,LAURA VICENTE MACIEL,Klaus,4
+ci,ext_lauramac,2025-09-19,LAURA VICENTE MACIEL,Klaus,3
+ci,ext_lauramac,2025-09-20,LAURA VICENTE MACIEL,Klaus,8
+ci,ext_lauramac,2025-09-22,LAURA VICENTE MACIEL,Klaus,22
+ci,ext_lauramac,2025-09-24,LAURA VICENTE MACIEL,Klaus,4
+ci,ext_leroc,2025-09-15,LEONARDO DOS SANTOS ROCHA ,Chayene,5
+ci,ext_leroc,2025-09-16,LEONARDO DOS SANTOS ROCHA ,Chayene,6
+ci,ext_leroc,2025-09-17,LEONARDO DOS SANTOS ROCHA ,Chayene,2
+ci,ext_leroc,2025-09-18,LEONARDO DOS SANTOS ROCHA ,Chayene,7
+ci,ext_leroc,2025-09-19,LEONARDO DOS SANTOS ROCHA ,Chayene,1
+ci,ext_leroc,2025-09-22,LEONARDO DOS SANTOS ROCHA ,Chayene,4
+ci,ext_leroc,2025-09-23,LEONARDO DOS SANTOS ROCHA ,Chayene,3
+ci,ext_letico,2025-09-15,Leticia Mirella Carvalho De Oliveira,Klaus,287
+ci,ext_letico,2025-09-16,Leticia Mirella Carvalho De Oliveira,Klaus,19
+ci,ext_letico,2025-09-17,Leticia Mirella Carvalho De Oliveira,Klaus,10
+ci,ext_letico,2025-09-18,Leticia Mirella Carvalho De Oliveira,Klaus,18
+ci,ext_letico,2025-09-19,Leticia Mirella Carvalho De Oliveira,Klaus,2
+ci,ext_letico,2025-09-22,Leticia Mirella Carvalho De Oliveira,Klaus,24
+ci,ext_letico,2025-09-23,Leticia Mirella Carvalho De Oliveira,Klaus,4
+ci,ext_letico,2025-09-24,Leticia Mirella Carvalho De Oliveira,Klaus,6
+ci,ext_lig,2025-09-15,Gabrielly Brito Lima,Cinthya,14
+ci,ext_lig,2025-09-22,Gabrielly Brito Lima,Cinthya,1
+ci,ext_lilaisa,2025-09-15,LAISA VIANA LIMA ,Klaus,6
+ci,ext_lilaisa,2025-09-16,LAISA VIANA LIMA ,Klaus,4
+ci,ext_lilaisa,2025-09-17,LAISA VIANA LIMA ,Klaus,4
+ci,ext_lilaisa,2025-09-18,LAISA VIANA LIMA ,Klaus,2
+ci,ext_lilaisa,2025-09-19,LAISA VIANA LIMA ,Klaus,1
+ci,ext_lilaisa,2025-09-20,LAISA VIANA LIMA ,Klaus,5
+ci,ext_lilaisa,2025-09-22,LAISA VIANA LIMA ,Klaus,8
+ci,ext_lilaisa,2025-09-23,LAISA VIANA LIMA ,Klaus,1
+ci,ext_lilaisa,2025-09-24,LAISA VIANA LIMA ,Klaus,3
+ci,ext_lofreire,2025-09-15,Lorenne Araujo Freire ,Nycolle,176
+ci,ext_lofreire,2025-09-16,Lorenne Araujo Freire ,Nycolle,2
+ci,ext_lofreire,2025-09-17,Lorenne Araujo Freire ,Nycolle,2
+ci,ext_lofreire,2025-09-18,Lorenne Araujo Freire ,Nycolle,20
+ci,ext_lofreire,2025-09-19,Lorenne Araujo Freire ,Nycolle,1
+ci,ext_lofreire,2025-09-22,Lorenne Araujo Freire ,Nycolle,7
+ci,ext_lofreire,2025-09-23,Lorenne Araujo Freire ,Nycolle,2
+ci,ext_lofreire,2025-09-24,Lorenne Araujo Freire ,Nycolle,1
+ci,ext_luavaran,2025-09-20,LUANA DE OLIVEIRA VARANDA,Nycolle,2
+ci,ext_luavaran,2025-09-22,LUANA DE OLIVEIRA VARANDA,Nycolle,1
+ci,ext_luavaran,2025-09-23,LUANA DE OLIVEIRA VARANDA,Nycolle,5
+ci,ext_luavaran,2025-09-24,LUANA DE OLIVEIRA VARANDA,Nycolle,2
+ci,ext_lucmat,2025-09-15,Lucas Oliveira Matos,Cinthya,135
+ci,ext_lucmat,2025-09-16,Lucas Oliveira Matos,Cinthya,10
+ci,ext_lucmat,2025-09-17,Lucas Oliveira Matos,Cinthya,7
+ci,ext_lucmat,2025-09-22,Lucas Oliveira Matos,Cinthya,1
+ci,ext_lucmor,2025-09-15,Lucas Pires Moreira,Adriana,258
+ci,ext_lucmor,2025-09-16,Lucas Pires Moreira,Adriana,16
+ci,ext_lucmor,2025-09-17,Lucas Pires Moreira,Adriana,23
+ci,ext_lucmor,2025-09-19,Lucas Pires Moreira,Adriana,1
+ci,ext_lucmor,2025-09-22,Lucas Pires Moreira,Adriana,4
+ci,ext_luin,2025-09-15,Luiz Gustavo Nascimento,Cinthya,1
+ci,ext_luin,2025-09-22,Luiz Gustavo Nascimento,Cinthya,1
+ci,ext_luizn,2025-09-15,Luiz Eduardo de Souza Nascimento,Klaus,108
+ci,ext_luizn,2025-09-16,Luiz Eduardo de Souza Nascimento,Klaus,5
+ci,ext_luizn,2025-09-17,Luiz Eduardo de Souza Nascimento,Klaus,8
+ci,ext_luizn,2025-09-18,Luiz Eduardo de Souza Nascimento,Klaus,7
+ci,ext_luizn,2025-09-20,Luiz Eduardo de Souza Nascimento,Klaus,4
+ci,ext_luizn,2025-09-22,Luiz Eduardo de Souza Nascimento,Klaus,9
+ci,ext_luizn,2025-09-23,Luiz Eduardo de Souza Nascimento,Klaus,7
+ci,ext_luizn,2025-09-24,Luiz Eduardo de Souza Nascimento,Klaus,3
+ci,ext_machavei,2025-09-15,MANUELLE LUIZA GOVEIA CHAVEIRO ,Chayene,7
+ci,ext_machavei,2025-09-18,MANUELLE LUIZA GOVEIA CHAVEIRO ,Chayene,12
+ci,ext_machavei,2025-09-22,MANUELLE LUIZA GOVEIA CHAVEIRO ,Chayene,6
+ci,ext_machavei,2025-09-24,MANUELLE LUIZA GOVEIA CHAVEIRO ,Chayene,3
+ci,ext_malodani,2025-09-15,Daniel Martins Lopes,Klaus,108
+ci,ext_malodani,2025-09-16,Daniel Martins Lopes,Klaus,1
+ci,ext_malodani,2025-09-22,Daniel Martins Lopes,Klaus,34
+ci,ext_mapi,2025-09-15,Maria Clara Da Silva Pinheiro,Cinthya,83
+ci,ext_mapi,2025-09-16,Maria Clara Da Silva Pinheiro,Cinthya,20
+ci,ext_mapi,2025-09-17,Maria Clara Da Silva Pinheiro,Cinthya,14
+ci,ext_mapi,2025-09-18,Maria Clara Da Silva Pinheiro,Cinthya,3
+ci,ext_mapi,2025-09-19,Maria Clara Da Silva Pinheiro,Cinthya,1
+ci,ext_mapi,2025-09-20,Maria Clara Da Silva Pinheiro,Cinthya,2
+ci,ext_mapi,2025-09-22,Maria Clara Da Silva Pinheiro,Cinthya,3
+ci,ext_mapi,2025-09-23,Maria Clara Da Silva Pinheiro,Cinthya,1
+ci,ext_maranna,2025-09-15,Anna Carolina Dantas Martins,Cinthya,341
+ci,ext_maranna,2025-09-17,Anna Carolina Dantas Martins,Cinthya,26
+ci,ext_maranna,2025-09-18,Anna Carolina Dantas Martins,Cinthya,35
+ci,ext_maranna,2025-09-19,Anna Carolina Dantas Martins,Cinthya,3
+ci,ext_maranna,2025-09-22,Anna Carolina Dantas Martins,Cinthya,66
+ci,ext_maranna,2025-09-23,Anna Carolina Dantas Martins,Cinthya,4
+ci,ext_maranna,2025-09-24,Anna Carolina Dantas Martins,Cinthya,8
+ci,ext_maranna,2025-09-25,Anna Carolina Dantas Martins,Cinthya,1
+ci,ext_marcuama,2025-09-15,MARCUS HYAN DE JESUS AMADO,Klaus,246
+ci,ext_marcuama,2025-09-16,MARCUS HYAN DE JESUS AMADO,Klaus,21
+ci,ext_marcuama,2025-09-17,MARCUS HYAN DE JESUS AMADO,Klaus,19
+ci,ext_marcuama,2025-09-18,MARCUS HYAN DE JESUS AMADO,Klaus,14
+ci,ext_marcuama,2025-09-19,MARCUS HYAN DE JESUS AMADO,Klaus,4
+ci,ext_marcuama,2025-09-22,MARCUS HYAN DE JESUS AMADO,Klaus,25
+ci,ext_marcuama,2025-09-23,MARCUS HYAN DE JESUS AMADO,Klaus,4
+ci,ext_marcuama,2025-09-24,MARCUS HYAN DE JESUS AMADO,Klaus,2
+ci,ext_mardeus,2025-09-17,MARIA RITA MEDEIROS DE DEUS ,Chayene,3
+ci,ext_mardeus,2025-09-18,MARIA RITA MEDEIROS DE DEUS ,Chayene,1
+ci,ext_mardeus,2025-09-19,MARIA RITA MEDEIROS DE DEUS ,Chayene,2
+ci,ext_mardeus,2025-09-22,MARIA RITA MEDEIROS DE DEUS ,Chayene,3
+ci,ext_mardeus,2025-09-23,MARIA RITA MEDEIROS DE DEUS ,Chayene,1
+ci,ext_maridi,2025-09-19,MARIA EDUARDA SANTOS DIAS,Nycolle,1
+ci,ext_maridi,2025-09-20,MARIA EDUARDA SANTOS DIAS,Nycolle,2
+ci,ext_maridi,2025-09-22,MARIA EDUARDA SANTOS DIAS,Nycolle,4
+ci,ext_maridi,2025-09-23,MARIA EDUARDA SANTOS DIAS,Nycolle,5
+ci,ext_maridi,2025-09-24,MARIA EDUARDA SANTOS DIAS,Nycolle,8
+ci,ext_maridi,2025-09-25,MARIA EDUARDA SANTOS DIAS,Nycolle,1
+ci,ext_marienro,2025-09-15,Mariene Vitoria Rodrigues Do O,Cinthya,34
+ci,ext_marienro,2025-09-16,Mariene Vitoria Rodrigues Do O,Cinthya,5
+ci,ext_marienro,2025-09-17,Mariene Vitoria Rodrigues Do O,Cinthya,10
+ci,ext_marienro,2025-09-18,Mariene Vitoria Rodrigues Do O,Cinthya,1
+ci,ext_marifr,2025-09-15,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,296
+ci,ext_marifr,2025-09-16,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,15
+ci,ext_marifr,2025-09-17,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,31
+ci,ext_marifr,2025-09-18,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,41
+ci,ext_marifr,2025-09-19,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,2
+ci,ext_marifr,2025-09-20,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,6
+ci,ext_marifr,2025-09-22,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,40
+ci,ext_marifr,2025-09-23,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,6
+ci,ext_marifr,2025-09-24,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,2
+ci,ext_marisnaa,2025-09-15,MARIA ISABELA PEREIRA SANTANA,Nycolle,3
+ci,ext_marisnaa,2025-09-16,MARIA ISABELA PEREIRA SANTANA,Nycolle,1
+ci,ext_marisnaa,2025-09-17,MARIA ISABELA PEREIRA SANTANA,Nycolle,1
+ci,ext_marisnaa,2025-09-18,MARIA ISABELA PEREIRA SANTANA,Nycolle,2
+ci,ext_marisnaa,2025-09-22,MARIA ISABELA PEREIRA SANTANA,Nycolle,2
+ci,ext_marisnaa,2025-09-23,MARIA ISABELA PEREIRA SANTANA,Nycolle,1
+ci,ext_marqj,2025-09-15,Joao Pedro Reis Marques de Oliveira,Adriana,28
+ci,ext_marqj,2025-09-16,Joao Pedro Reis Marques de Oliveira,Adriana,6
+ci,ext_marqj,2025-09-17,Joao Pedro Reis Marques de Oliveira,Adriana,2
+ci,ext_marqj,2025-09-18,Joao Pedro Reis Marques de Oliveira,Adriana,3
+ci,ext_marqj,2025-09-22,Joao Pedro Reis Marques de Oliveira,Adriana,8
+ci,ext_mattimot,2025-09-15,Matheus Henrique Souza Timoteo,Nycolle,89
+ci,ext_mattimot,2025-09-16,Matheus Henrique Souza Timoteo,Nycolle,3
+ci,ext_mattimot,2025-09-18,Matheus Henrique Souza Timoteo,Nycolle,23
+ci,ext_mattimot,2025-09-19,Matheus Henrique Souza Timoteo,Nycolle,1
+ci,ext_mattimot,2025-09-22,Matheus Henrique Souza Timoteo,Nycolle,25
+ci,ext_mattimot,2025-09-23,Matheus Henrique Souza Timoteo,Nycolle,4
+ci,ext_mattimot,2025-09-24,Matheus Henrique Souza Timoteo,Nycolle,1
+ci,ext_maylrodr,2025-09-15,MAYLA SILVA RODRIGUES ,Cinthya,294
+ci,ext_maylrodr,2025-09-16,MAYLA SILVA RODRIGUES ,Cinthya,19
+ci,ext_maylrodr,2025-09-17,MAYLA SILVA RODRIGUES ,Cinthya,19
+ci,ext_maylrodr,2025-09-18,MAYLA SILVA RODRIGUES ,Cinthya,22
+ci,ext_maylrodr,2025-09-20,MAYLA SILVA RODRIGUES ,Cinthya,1
+ci,ext_maylrodr,2025-09-22,MAYLA SILVA RODRIGUES ,Cinthya,7
+ci,ext_melqalve,2025-09-15,Melquiana Alves De Deus Lisboa,Cinthya,5
+ci,ext_melqalve,2025-09-16,Melquiana Alves De Deus Lisboa,Cinthya,2
+ci,ext_melqalve,2025-09-18,Melquiana Alves De Deus Lisboa,Cinthya,3
+ci,ext_melqalve,2025-09-19,Melquiana Alves De Deus Lisboa,Cinthya,2
+ci,ext_melqalve,2025-09-20,Melquiana Alves De Deus Lisboa,Cinthya,1
+ci,ext_melqalve,2025-09-22,Melquiana Alves De Deus Lisboa,Cinthya,4
+ci,ext_melqalve,2025-09-23,Melquiana Alves De Deus Lisboa,Cinthya,2
+ci,ext_miguearc,2025-09-15,Miguel Arcanjo Pereira Da Silva,Nycolle,21
+ci,ext_miguearc,2025-09-17,Miguel Arcanjo Pereira Da Silva,Nycolle,2
+ci,ext_miguearc,2025-09-18,Miguel Arcanjo Pereira Da Silva,Nycolle,2
+ci,ext_miguearc,2025-09-23,Miguel Arcanjo Pereira Da Silva,Nycolle,3
+ci,ext_miguearc,2025-09-25,Miguel Arcanjo Pereira Da Silva,Nycolle,1
+ci,ext_moa,2025-09-15,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,318
+ci,ext_moa,2025-09-16,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,48
+ci,ext_moa,2025-09-17,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,29
+ci,ext_moa,2025-09-18,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,28
+ci,ext_moa,2025-09-19,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,1
+ci,ext_moa,2025-09-22,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,33
+ci,ext_moa,2025-09-23,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,8
+ci,ext_moa,2025-09-24,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,2
+ci,ext_moa,2025-09-25,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,1
+ci,ext_mroso,2025-09-15,MARCO ANTONIO GOMES DE SOUZA,Chayene,4
+ci,ext_mroso,2025-09-17,MARCO ANTONIO GOMES DE SOUZA,Chayene,5
+ci,ext_mroso,2025-09-18,MARCO ANTONIO GOMES DE SOUZA,Chayene,1
+ci,ext_mroso,2025-09-19,MARCO ANTONIO GOMES DE SOUZA,Chayene,3
+ci,ext_mroso,2025-09-22,MARCO ANTONIO GOMES DE SOUZA,Chayene,8
+ci,ext_mroso,2025-09-23,MARCO ANTONIO GOMES DE SOUZA,Chayene,7
+ci,ext_mroso,2025-09-24,MARCO ANTONIO GOMES DE SOUZA,Chayene,5
+ci,ext_mycbezer,2025-09-15,Myckaelly Eduarda Da Silva Bezerra,Nycolle,118
+ci,ext_mycbezer,2025-09-16,Myckaelly Eduarda Da Silva Bezerra,Nycolle,6
+ci,ext_mycbezer,2025-09-17,Myckaelly Eduarda Da Silva Bezerra,Nycolle,8
+ci,ext_mycbezer,2025-09-18,Myckaelly Eduarda Da Silva Bezerra,Nycolle,22
+ci,ext_mycbezer,2025-09-19,Myckaelly Eduarda Da Silva Bezerra,Nycolle,2
+ci,ext_mycbezer,2025-09-22,Myckaelly Eduarda Da Silva Bezerra,Nycolle,20
+ci,ext_mycbezer,2025-09-24,Myckaelly Eduarda Da Silva Bezerra,Nycolle,2
+ci,ext_naslaura,2025-09-15,Laura Nicole Ferreira Do Nascimento,Cinthya,175
+ci,ext_naslaura,2025-09-16,Laura Nicole Ferreira Do Nascimento,Cinthya,15
+ci,ext_naslaura,2025-09-17,Laura Nicole Ferreira Do Nascimento,Cinthya,22
+ci,ext_naslaura,2025-09-18,Laura Nicole Ferreira Do Nascimento,Cinthya,9
+ci,ext_naslaura,2025-09-22,Laura Nicole Ferreira Do Nascimento,Cinthya,5
+ci,ext_naudias,2025-09-15,Nauany Dias Da Silva,Cinthya,147
+ci,ext_naudias,2025-09-16,Nauany Dias Da Silva,Cinthya,12
+ci,ext_naudias,2025-09-17,Nauany Dias Da Silva,Cinthya,1
+ci,ext_nawribei,2025-09-15,Nawhan da Silva Ribeiro,Cinthya,43
+ci,ext_nevitor,2025-09-15,Vitor Gabriel Batista Neves,Cinthya,128
+ci,ext_nevitor,2025-09-16,Vitor Gabriel Batista Neves,Cinthya,20
+ci,ext_nevitor,2025-09-17,Vitor Gabriel Batista Neves,Cinthya,22
+ci,ext_nevitor,2025-09-18,Vitor Gabriel Batista Neves,Cinthya,20
+ci,ext_nevitor,2025-09-19,Vitor Gabriel Batista Neves,Cinthya,1
+ci,ext_nevitor,2025-09-22,Vitor Gabriel Batista Neves,Cinthya,3
+ci,ext_nevitor,2025-09-23,Vitor Gabriel Batista Neves,Cinthya,4
+ci,ext_nimeira,2025-09-15,NICKOLAS MENDES MEIRA,Klaus,262
+ci,ext_nimeira,2025-09-16,NICKOLAS MENDES MEIRA,Klaus,6
+ci,ext_nimeira,2025-09-17,NICKOLAS MENDES MEIRA,Klaus,23
+ci,ext_nimeira,2025-09-18,NICKOLAS MENDES MEIRA,Klaus,51
+ci,ext_nimeira,2025-09-20,NICKOLAS MENDES MEIRA,Klaus,5
+ci,ext_nimeira,2025-09-22,NICKOLAS MENDES MEIRA,Klaus,33
+ci,ext_nimeira,2025-09-23,NICKOLAS MENDES MEIRA,Klaus,5
+ci,ext_nimeira,2025-09-24,NICKOLAS MENDES MEIRA,Klaus,1
+ci,ext_nubiansi,2025-09-15,NUBIANE PEREIRA DA SILVA,Nycolle,260
+ci,ext_nubiansi,2025-09-16,NUBIANE PEREIRA DA SILVA,Nycolle,18
+ci,ext_nubiansi,2025-09-17,NUBIANE PEREIRA DA SILVA,Nycolle,13
+ci,ext_nubiansi,2025-09-18,NUBIANE PEREIRA DA SILVA,Nycolle,16
+ci,ext_nubiansi,2025-09-22,NUBIANE PEREIRA DA SILVA,Nycolle,44
+ci,ext_nubiansi,2025-09-23,NUBIANE PEREIRA DA SILVA,Nycolle,3
+ci,ext_oliveray,2025-09-15,RAYSSA FALCAO DE MACEDO ,Adriana,223
+ci,ext_oliveray,2025-09-16,RAYSSA FALCAO DE MACEDO ,Adriana,21
+ci,ext_oliveray,2025-09-17,RAYSSA FALCAO DE MACEDO ,Adriana,39
+ci,ext_oliveray,2025-09-18,RAYSSA FALCAO DE MACEDO ,Adriana,18
+ci,ext_oliveray,2025-09-22,RAYSSA FALCAO DE MACEDO ,Adriana,22
+ci,ext_oliveray,2025-09-23,RAYSSA FALCAO DE MACEDO ,Adriana,2
+ci,ext_oliveray,2025-09-24,RAYSSA FALCAO DE MACEDO ,Adriana,2
+ci,ext_pabgama,2025-09-15,Pablo Henrique Torres Gama,Klaus,89
+ci,ext_pabgama,2025-09-16,Pablo Henrique Torres Gama,Klaus,3
+ci,ext_pabgama,2025-09-17,Pablo Henrique Torres Gama,Klaus,4
+ci,ext_pabgama,2025-09-18,Pablo Henrique Torres Gama,Klaus,13
+ci,ext_pabgama,2025-09-19,Pablo Henrique Torres Gama,Klaus,2
+ci,ext_pabgama,2025-09-20,Pablo Henrique Torres Gama,Klaus,1
+ci,ext_pabgama,2025-09-22,Pablo Henrique Torres Gama,Klaus,7
+ci,ext_pabgama,2025-09-24,Pablo Henrique Torres Gama,Klaus,1
+ci,ext_pabgama,2025-09-25,Pablo Henrique Torres Gama,Klaus,1
+ci,ext_paulassu,2025-09-15,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,124
+ci,ext_paulassu,2025-09-16,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,2
+ci,ext_paulassu,2025-09-17,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,17
+ci,ext_paulassu,2025-09-18,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,14
+ci,ext_paulassu,2025-09-20,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,1
+ci,ext_paulassu,2025-09-22,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,19
+ci,ext_paulassu,2025-09-23,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,2
+ci,ext_pedb,2025-09-19,PEDRO HENRIQUE ALBUQUERQUE BARBOSA,Adriana,1
+ci,ext_pedb,2025-09-20,PEDRO HENRIQUE ALBUQUERQUE BARBOSA,Adriana,3
+ci,ext_pedb,2025-09-23,PEDRO HENRIQUE ALBUQUERQUE BARBOSA,Adriana,5
+ci,ext_pedb,2025-09-24,PEDRO HENRIQUE ALBUQUERQUE BARBOSA,Adriana,3
+ci,ext_pedro,2025-09-24,PEDRO HENRIQUE SILVA DE OLIVEIRA ,Klaus,3
+ci,ext_peemeric,2025-09-15,Pedro Augusto Costa Emerick,Klaus,185
+ci,ext_peemeric,2025-09-16,Pedro Augusto Costa Emerick,Klaus,14
+ci,ext_peemeric,2025-09-18,Pedro Augusto Costa Emerick,Klaus,8
+ci,ext_peemeric,2025-09-23,Pedro Augusto Costa Emerick,Klaus,1
+ci,ext_peemeric,2025-09-24,Pedro Augusto Costa Emerick,Klaus,1
+ci,ext_peresuel,2025-09-17,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,1
+ci,ext_peresuel,2025-09-19,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,1
+ci,ext_peresuel,2025-09-20,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,2
+ci,ext_peresuel,2025-09-22,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,1
+ci,ext_peresuel,2025-09-23,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,3
+ci,ext_peresuel,2025-09-24,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,2
+ci,ext_qua,2025-09-15,Ana Carolina Batista De Queiroz,Cinthya,32
+ci,ext_qua,2025-09-17,Ana Carolina Batista De Queiroz,Cinthya,4
+ci,ext_qua,2025-09-22,Ana Carolina Batista De Queiroz,Cinthya,3
+ci,ext_quelmart,2025-09-15,Quele Alves Martins,Klaus,206
+ci,ext_quelmart,2025-09-16,Quele Alves Martins,Klaus,22
+ci,ext_quelmart,2025-09-17,Quele Alves Martins,Klaus,31
+ci,ext_quelmart,2025-09-18,Quele Alves Martins,Klaus,13
+ci,ext_quelmart,2025-09-20,Quele Alves Martins,Klaus,7
+ci,ext_quelmart,2025-09-22,Quele Alves Martins,Klaus,33
+ci,ext_quelmart,2025-09-23,Quele Alves Martins,Klaus,7
+ci,ext_quelmart,2025-09-24,Quele Alves Martins,Klaus,3
+ci,ext_raitavar,2025-09-15,Raissa Regina Da Silva Tavares,Cinthya,32
+ci,ext_raitavar,2025-09-19,Raissa Regina Da Silva Tavares,Cinthya,3
+ci,ext_raitavar,2025-09-23,Raissa Regina Da Silva Tavares,Cinthya,7
+ci,ext_raqusil,2025-09-15,Raquel Meneses Fernandes da Silva,Nycolle,423
+ci,ext_raqusil,2025-09-16,Raquel Meneses Fernandes da Silva,Nycolle,37
+ci,ext_raqusil,2025-09-17,Raquel Meneses Fernandes da Silva,Nycolle,23
+ci,ext_raqusil,2025-09-18,Raquel Meneses Fernandes da Silva,Nycolle,49
+ci,ext_raqusil,2025-09-19,Raquel Meneses Fernandes da Silva,Nycolle,5
+ci,ext_raqusil,2025-09-20,Raquel Meneses Fernandes da Silva,Nycolle,2
+ci,ext_raqusil,2025-09-22,Raquel Meneses Fernandes da Silva,Nycolle,39
+ci,ext_raqusil,2025-09-23,Raquel Meneses Fernandes da Silva,Nycolle,8
+ci,ext_raqusil,2025-09-24,Raquel Meneses Fernandes da Silva,Nycolle,4
+ci,ext_riasilv,2025-09-15,MARIA CLARA PEREIRA DA SILVA ,Klaus,251
+ci,ext_riasilv,2025-09-16,MARIA CLARA PEREIRA DA SILVA ,Klaus,4
+ci,ext_riasilv,2025-09-17,MARIA CLARA PEREIRA DA SILVA ,Klaus,35
+ci,ext_riasilv,2025-09-18,MARIA CLARA PEREIRA DA SILVA ,Klaus,27
+ci,ext_riasilv,2025-09-19,MARIA CLARA PEREIRA DA SILVA ,Klaus,5
+ci,ext_riasilv,2025-09-20,MARIA CLARA PEREIRA DA SILVA ,Klaus,3
+ci,ext_riasilv,2025-09-22,MARIA CLARA PEREIRA DA SILVA ,Klaus,25
+ci,ext_riasilv,2025-09-23,MARIA CLARA PEREIRA DA SILVA ,Klaus,7
+ci,ext_riasilv,2025-09-24,MARIA CLARA PEREIRA DA SILVA ,Klaus,9
+ci,ext_rosoluan,2025-09-15,Luan Rodrigues De Sousa,Nycolle,464
+ci,ext_rosoluan,2025-09-16,Luan Rodrigues De Sousa,Nycolle,50
+ci,ext_rosoluan,2025-09-17,Luan Rodrigues De Sousa,Nycolle,67
+ci,ext_rosoluan,2025-09-18,Luan Rodrigues De Sousa,Nycolle,64
+ci,ext_rosoluan,2025-09-19,Luan Rodrigues De Sousa,Nycolle,7
+ci,ext_rosoluan,2025-09-20,Luan Rodrigues De Sousa,Nycolle,3
+ci,ext_rosoluan,2025-09-22,Luan Rodrigues De Sousa,Nycolle,61
+ci,ext_rosoluan,2025-09-23,Luan Rodrigues De Sousa,Nycolle,9
+ci,ext_rosoluan,2025-09-24,Luan Rodrigues De Sousa,Nycolle,1
+ci,ext_ruticarv,2025-09-17,Rutiele Sousa Carvalho,Cinthya,2
+ci,ext_ruticarv,2025-09-18,Rutiele Sousa Carvalho,Cinthya,8
+ci,ext_ruticarv,2025-09-22,Rutiele Sousa Carvalho,Cinthya,1
+ci,ext_ruticarv,2025-09-23,Rutiele Sousa Carvalho,Cinthya,2
+ci,ext_sanrubia,2025-09-15,Rubia Andreia Dos Santos,Cinthya,65
+ci,ext_sanrubia,2025-09-16,Rubia Andreia Dos Santos,Cinthya,2
+ci,ext_sanrubia,2025-09-17,Rubia Andreia Dos Santos,Cinthya,1
+ci,ext_sanrubia,2025-09-22,Rubia Andreia Dos Santos,Cinthya,18
+ci,ext_sanrubia,2025-09-23,Rubia Andreia Dos Santos,Cinthya,1
+ci,ext_santdi,2025-09-15,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,199
+ci,ext_santdi,2025-09-16,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,4
+ci,ext_santdi,2025-09-18,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,34
+ci,ext_santdi,2025-09-19,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,2
+ci,ext_santdi,2025-09-22,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,2
+ci,ext_santdi,2025-09-25,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,1
+ci,ext_santle,2025-09-15,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,164
+ci,ext_santle,2025-09-16,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,6
+ci,ext_santle,2025-09-17,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,11
+ci,ext_santle,2025-09-18,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,6
+ci,ext_santle,2025-09-19,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,4
+ci,ext_santle,2025-09-20,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,2
+ci,ext_santle,2025-09-22,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,13
+ci,ext_santle,2025-09-23,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,11
+ci,ext_santle,2025-09-24,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,1
+ci,ext_sarao,2025-09-15,Sarah Cristina Costa de Oliveira,Klaus,78
+ci,ext_sarao,2025-09-17,Sarah Cristina Costa de Oliveira,Klaus,13
+ci,ext_sarao,2025-09-18,Sarah Cristina Costa de Oliveira,Klaus,16
+ci,ext_sarao,2025-09-19,Sarah Cristina Costa de Oliveira,Klaus,4
+ci,ext_sarao,2025-09-22,Sarah Cristina Costa de Oliveira,Klaus,17
+ci,ext_sarao,2025-09-23,Sarah Cristina Costa de Oliveira,Klaus,5
+ci,ext_sathi,2025-09-15,Thiago Oliveira Santos,Chayene,3
+ci,ext_sathi,2025-09-16,Thiago Oliveira Santos,Chayene,2
+ci,ext_sathi,2025-09-17,Thiago Oliveira Santos,Chayene,12
+ci,ext_sathi,2025-09-18,Thiago Oliveira Santos,Chayene,4
+ci,ext_sathi,2025-09-19,Thiago Oliveira Santos,Chayene,3
+ci,ext_sathi,2025-09-22,Thiago Oliveira Santos,Chayene,8
+ci,ext_sathi,2025-09-23,Thiago Oliveira Santos,Chayene,8
+ci,ext_sathi,2025-09-24,Thiago Oliveira Santos,Chayene,1
+ci,ext_sidavyd,2025-09-15,DAVYD LUKAS DA CONCEIÇÃO SILVA,Nycolle,161
+ci,ext_sidavyd,2025-09-16,DAVYD LUKAS DA CONCEIÇÃO SILVA,Nycolle,9
+ci,ext_sidavyd,2025-09-17,DAVYD LUKAS DA CONCEIÇÃO SILVA,Nycolle,6
+ci,ext_sidavyd,2025-09-18,DAVYD LUKAS DA CONCEIÇÃO SILVA,Nycolle,7
+ci,ext_sidavyd,2025-09-22,DAVYD LUKAS DA CONCEIÇÃO SILVA,Nycolle,19
+ci,ext_silelien,2025-09-15,Eliene Souza Da Silva,Cinthya,183
+ci,ext_silelien,2025-09-16,Eliene Souza Da Silva,Cinthya,11
+ci,ext_silelien,2025-09-17,Eliene Souza Da Silva,Cinthya,13
+ci,ext_silelien,2025-09-18,Eliene Souza Da Silva,Cinthya,7
+ci,ext_silelien,2025-09-19,Eliene Souza Da Silva,Cinthya,5
+ci,ext_silelien,2025-09-20,Eliene Souza Da Silva,Cinthya,1
+ci,ext_silelien,2025-09-22,Eliene Souza Da Silva,Cinthya,5
+ci,ext_silelien,2025-09-23,Eliene Souza Da Silva,Cinthya,4
+ci,ext_silet,2025-09-15,LETICIA SANTANA DA SILVA ,Chayene,3
+ci,ext_silet,2025-09-18,LETICIA SANTANA DA SILVA ,Chayene,22
+ci,ext_silet,2025-09-22,LETICIA SANTANA DA SILVA ,Chayene,21
+ci,ext_silet,2025-09-23,LETICIA SANTANA DA SILVA ,Chayene,12
+ci,ext_silpinto,2025-09-15,Silvana Fernandes Pinto ,Chayene,7
+ci,ext_silpinto,2025-09-16,Silvana Fernandes Pinto ,Chayene,2
+ci,ext_silpinto,2025-09-17,Silvana Fernandes Pinto ,Chayene,1
+ci,ext_silpinto,2025-09-18,Silvana Fernandes Pinto ,Chayene,1
+ci,ext_silsilv,2025-09-15,Maria Eduarda Campos da Silva,Klaus,103
+ci,ext_silsilv,2025-09-16,Maria Eduarda Campos da Silva,Klaus,6
+ci,ext_silsilv,2025-09-17,Maria Eduarda Campos da Silva,Klaus,21
+ci,ext_silsilv,2025-09-18,Maria Eduarda Campos da Silva,Klaus,12
+ci,ext_silsilv,2025-09-19,Maria Eduarda Campos da Silva,Klaus,1
+ci,ext_silsilv,2025-09-22,Maria Eduarda Campos da Silva,Klaus,13
+ci,ext_silsilv,2025-09-23,Maria Eduarda Campos da Silva,Klaus,3
+ci,ext_silsilv,2025-09-24,Maria Eduarda Campos da Silva,Klaus,1
+ci,ext_silvizab,2025-09-15,Izabella Pereira Da Silva,Cinthya,118
+ci,ext_silvizab,2025-09-16,Izabella Pereira Da Silva,Cinthya,23
+ci,ext_silvizab,2025-09-17,Izabella Pereira Da Silva,Cinthya,35
+ci,ext_silvizab,2025-09-18,Izabella Pereira Da Silva,Cinthya,32
+ci,ext_silvizab,2025-09-22,Izabella Pereira Da Silva,Cinthya,26
+ci,ext_silvizab,2025-09-23,Izabella Pereira Da Silva,Cinthya,10
+ci,ext_silvizab,2025-09-24,Izabella Pereira Da Silva,Cinthya,3
+ci,ext_soaguiar,2025-09-15,LUCAS SOUSA AGUIAR ,Adriana,286
+ci,ext_soaraiss,2025-09-15,Raissa Vitoria Rodrigues Feitosa,Nycolle,122
+ci,ext_soaraiss,2025-09-16,Raissa Vitoria Rodrigues Feitosa,Nycolle,4
+ci,ext_soaraiss,2025-09-18,Raissa Vitoria Rodrigues Feitosa,Nycolle,31
+ci,ext_soaraiss,2025-09-22,Raissa Vitoria Rodrigues Feitosa,Nycolle,9
+ci,ext_soaraiss,2025-09-24,Raissa Vitoria Rodrigues Feitosa,Nycolle,3
+ci,ext_sothalyt,2025-09-17,THALYTA GABRIELA FERNANDES DE SOUZA ,Chayene,3
+ci,ext_sothalyt,2025-09-18,THALYTA GABRIELA FERNANDES DE SOUZA ,Chayene,2
+ci,ext_sothalyt,2025-09-19,THALYTA GABRIELA FERNANDES DE SOUZA ,Chayene,5
+ci,ext_sothalyt,2025-09-22,THALYTA GABRIELA FERNANDES DE SOUZA ,Chayene,3
+ci,ext_sothalyt,2025-09-23,THALYTA GABRIELA FERNANDES DE SOUZA ,Chayene,1
+ci,ext_stelasou,2025-09-18,Stela Bezerra De Souza,Chayene,1
+ci,ext_stelasou,2025-09-22,Stela Bezerra De Souza,Chayene,2
+ci,ext_stelasou,2025-09-23,Stela Bezerra De Souza,Chayene,7
+ci,ext_stelasou,2025-09-24,Stela Bezerra De Souza,Chayene,3
+ci,ext_stelasou,2025-09-25,Stela Bezerra De Souza,Chayene,2
+ci,ext_stephas,2025-09-15,STEPHANE SOPHIA GONZAGA DA SILVA,Cinthya,442
+ci,ext_stephas,2025-09-16,STEPHANE SOPHIA GONZAGA DA SILVA,Cinthya,16
+ci,ext_stephas,2025-09-17,STEPHANE SOPHIA GONZAGA DA SILVA,Cinthya,34
+ci,ext_stephas,2025-09-18,STEPHANE SOPHIA GONZAGA DA SILVA,Cinthya,25
+ci,ext_stephas,2025-09-19,STEPHANE SOPHIA GONZAGA DA SILVA,Cinthya,1
+ci,ext_talits,2025-09-15,TALITA GABRIELA CORDEIRO SANTANA,Adriana,216
+ci,ext_talits,2025-09-16,TALITA GABRIELA CORDEIRO SANTANA,Adriana,25
+ci,ext_talits,2025-09-17,TALITA GABRIELA CORDEIRO SANTANA,Adriana,16
+ci,ext_talits,2025-09-18,TALITA GABRIELA CORDEIRO SANTANA,Adriana,1
+ci,ext_talits,2025-09-19,TALITA GABRIELA CORDEIRO SANTANA,Adriana,2
+ci,ext_talits,2025-09-20,TALITA GABRIELA CORDEIRO SANTANA,Adriana,2
+ci,ext_talits,2025-09-22,TALITA GABRIELA CORDEIRO SANTANA,Adriana,26
+ci,ext_talits,2025-09-23,TALITA GABRIELA CORDEIRO SANTANA,Adriana,5
+ci,ext_talits,2025-09-24,TALITA GABRIELA CORDEIRO SANTANA,Adriana,4
+ci,ext_talits,2025-09-25,TALITA GABRIELA CORDEIRO SANTANA,Adriana,1
+ci,ext_tava,2025-09-18,ANA LUISA GUEDES TAVARES ,Cinthya,1
+ci,ext_tava,2025-09-19,ANA LUISA GUEDES TAVARES ,Cinthya,2
+ci,ext_theferre,2025-09-15,Therlys Alencar Ferreira,Klaus,108
+ci,ext_theferre,2025-09-16,Therlys Alencar Ferreira,Klaus,6
+ci,ext_theferre,2025-09-17,Therlys Alencar Ferreira,Klaus,8
+ci,ext_theferre,2025-09-18,Therlys Alencar Ferreira,Klaus,2
+ci,ext_theferre,2025-09-20,Therlys Alencar Ferreira,Klaus,3
+ci,ext_theferre,2025-09-22,Therlys Alencar Ferreira,Klaus,11
+ci,ext_theferre,2025-09-23,Therlys Alencar Ferreira,Klaus,10
+ci,ext_thimaia,2025-09-19,THIAGO ALEXANDRE MAIA,Adriana,1
+ci,ext_thimaia,2025-09-20,THIAGO ALEXANDRE MAIA,Adriana,1
+ci,ext_valqucar,2025-09-15,Valquiria Alves Ferreira de Carvalho,Klaus,152
+ci,ext_valqucar,2025-09-16,Valquiria Alves Ferreira de Carvalho,Klaus,15
+ci,ext_valqucar,2025-09-17,Valquiria Alves Ferreira de Carvalho,Klaus,13
+ci,ext_valqucar,2025-09-18,Valquiria Alves Ferreira de Carvalho,Klaus,15
+ci,ext_valqucar,2025-09-19,Valquiria Alves Ferreira de Carvalho,Klaus,2
+ci,ext_valqucar,2025-09-20,Valquiria Alves Ferreira de Carvalho,Klaus,3
+ci,ext_valqucar,2025-09-22,Valquiria Alves Ferreira de Carvalho,Klaus,15
+ci,ext_valqucar,2025-09-23,Valquiria Alves Ferreira de Carvalho,Klaus,1
+ci,ext_valqucar,2025-09-24,Valquiria Alves Ferreira de Carvalho,Klaus,3
+ci,ext_valqucar,2025-09-25,Valquiria Alves Ferreira de Carvalho,Klaus,1
+ci,ext_vanec,2025-09-15,Vanessa da Silva Costa,Klaus,116
+ci,ext_vanec,2025-09-16,Vanessa da Silva Costa,Klaus,5
+ci,ext_vanec,2025-09-22,Vanessa da Silva Costa,Klaus,10
+ci,ext_vanec,2025-09-23,Vanessa da Silva Costa,Klaus,2
+ci,ext_vanec,2025-09-24,Vanessa da Silva Costa,Klaus,3
+ci,ext_vigmarco,2025-09-17,Marcos Vinicius Goncalves Da Silva,Chayene,2
+ci,ext_vitomati,2025-09-15,VITOR MORAES MATIAS ,Nycolle,3
+ci,ext_vitomati,2025-09-16,VITOR MORAES MATIAS ,Nycolle,9
+ci,ext_vitomati,2025-09-17,VITOR MORAES MATIAS ,Nycolle,3
+ci,ext_vitomati,2025-09-18,VITOR MORAES MATIAS ,Nycolle,7
+ci,ext_vitomati,2025-09-19,VITOR MORAES MATIAS ,Nycolle,3
+ci,ext_vitomati,2025-09-22,VITOR MORAES MATIAS ,Nycolle,7
+ci,ext_vitomati,2025-09-23,VITOR MORAES MATIAS ,Nycolle,3
+ci,ext_vitomati,2025-09-24,VITOR MORAES MATIAS ,Nycolle,1
+ci,ext_yasms,2025-09-15,YASMIN ALVES DE SOUSA,Cinthya,161
+ci,ext_yasms,2025-09-16,YASMIN ALVES DE SOUSA,Cinthya,29
+ci,ext_yasms,2025-09-17,YASMIN ALVES DE SOUSA,Cinthya,47
+ci,ext_yasms,2025-09-18,YASMIN ALVES DE SOUSA,Cinthya,38
+ci,ext_yasms,2025-09-19,YASMIN ALVES DE SOUSA,Cinthya,6
+ci,ext_yasms,2025-09-20,YASMIN ALVES DE SOUSA,Cinthya,4
+ci,ext_yasms,2025-09-22,YASMIN ALVES DE SOUSA,Cinthya,44
+ci,ext_yasms,2025-09-23,YASMIN ALVES DE SOUSA,Cinthya,5
+ci,ext_yasms,2025-09-24,YASMIN ALVES DE SOUSA,Cinthya,5
+ci,ext_yasms,2025-09-25,YASMIN ALVES DE SOUSA,Cinthya,1
+nct,ext_adrsilv,2025-09-15,Adriana Queiroz Da Silva,-,11
+nct,ext_aguisouz,2025-09-15,Aguida Manoela Pereira de Souza,Adriana,329
+nct,ext_aguisouz,2025-09-16,Aguida Manoela Pereira de Souza,Adriana,97
+nct,ext_aguisouz,2025-09-17,Aguida Manoela Pereira de Souza,Adriana,101
+nct,ext_aguisouz,2025-09-22,Aguida Manoela Pereira de Souza,Adriana,88
+nct,ext_aguisouz,2025-09-23,Aguida Manoela Pereira de Souza,Adriana,152
+nct,ext_aguisouz,2025-09-24,Aguida Manoela Pereira de Souza,Adriana,45
+nct,ext_alesr,2025-09-15,Alessandro Ferreira Rodrigues,Cinthya,703
+nct,ext_alesr,2025-09-16,Alessandro Ferreira Rodrigues,Cinthya,74
+nct,ext_alesr,2025-09-17,Alessandro Ferreira Rodrigues,Cinthya,63
+nct,ext_alesr,2025-09-18,Alessandro Ferreira Rodrigues,Cinthya,53
+nct,ext_alesr,2025-09-19,Alessandro Ferreira Rodrigues,Cinthya,10
+nct,ext_alesr,2025-09-22,Alessandro Ferreira Rodrigues,Cinthya,13
+nct,ext_alesr,2025-09-23,Alessandro Ferreira Rodrigues,Cinthya,119
+nct,ext_alesr,2025-09-24,Alessandro Ferreira Rodrigues,Cinthya,28
+nct,ext_almester,2025-09-19,ESTER MARTINS DE ALMEIDA,Nycolle,40
+nct,ext_almester,2025-09-20,ESTER MARTINS DE ALMEIDA,Nycolle,40
+nct,ext_almester,2025-09-22,ESTER MARTINS DE ALMEIDA,Nycolle,66
+nct,ext_almester,2025-09-23,ESTER MARTINS DE ALMEIDA,Nycolle,32
+nct,ext_almester,2025-09-24,ESTER MARTINS DE ALMEIDA,Nycolle,48
+nct,ext_alycarva,2025-09-19,ALYSSON KAUA ROCHA DE CARVALHO,Chayene,1
+nct,ext_alycarva,2025-09-20,ALYSSON KAUA ROCHA DE CARVALHO,Chayene,5
+nct,ext_alycarva,2025-09-22,ALYSSON KAUA ROCHA DE CARVALHO,Chayene,5
+nct,ext_alycarva,2025-09-23,ALYSSON KAUA ROCHA DE CARVALHO,Chayene,16
+nct,ext_alycarva,2025-09-24,ALYSSON KAUA ROCHA DE CARVALHO,Chayene,11
+nct,ext_alycarva,2025-09-25,ALYSSON KAUA ROCHA DE CARVALHO,Chayene,4
+nct,ext_amaca,2025-09-15,Amanda Soares Cardoso,Chayene,1
+nct,ext_amaca,2025-09-22,Amanda Soares Cardoso,Chayene,1
+nct,ext_amanmace,2025-09-15,Amanda Macedo Santos,Thiago,3
+nct,ext_amanmace,2025-09-23,Amanda Macedo Santos,Thiago,6
+nct,ext_anatos,2025-09-15,Ana Beatriz Araujo Dos Santos,Cinthya,2
+nct,ext_anderoc,2025-09-15,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,29
+nct,ext_anderoc,2025-09-16,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,21
+nct,ext_anderoc,2025-09-17,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,25
+nct,ext_anderoc,2025-09-18,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,32
+nct,ext_anderoc,2025-09-19,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,10
+nct,ext_anderoc,2025-09-20,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,11
+nct,ext_anderoc,2025-09-22,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,8
+nct,ext_anderoc,2025-09-23,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,11
+nct,ext_anderoc,2025-09-24,ANDERSON JORGE DUARTE DA ROCHA ,Cinthya,1
+nct,ext_anflpere,2025-09-17,Ana Flavia Peres Pereira,Cinthya,1
+nct,ext_anflpere,2025-09-18,Ana Flavia Peres Pereira,Cinthya,2
+nct,ext_anflpere,2025-09-22,Ana Flavia Peres Pereira,Cinthya,1
+nct,ext_anflpere,2025-09-23,Ana Flavia Peres Pereira,Cinthya,1
+nct,ext_anivo,2025-09-15,Ana Clara Dos Santos Ivo,Cinthya,674
+nct,ext_anivo,2025-09-16,Ana Clara Dos Santos Ivo,Cinthya,28
+nct,ext_anivo,2025-09-17,Ana Clara Dos Santos Ivo,Cinthya,41
+nct,ext_anivo,2025-09-18,Ana Clara Dos Santos Ivo,Cinthya,12
+nct,ext_anivo,2025-09-19,Ana Clara Dos Santos Ivo,Cinthya,2
+nct,ext_anivo,2025-09-22,Ana Clara Dos Santos Ivo,Cinthya,39
+nct,ext_anivo,2025-09-23,Ana Clara Dos Santos Ivo,Cinthya,54
+nct,ext_anivo,2025-09-24,Ana Clara Dos Santos Ivo,Cinthya,16
+nct,ext_anivo,2025-09-25,Ana Clara Dos Santos Ivo,Cinthya,19
+nct,ext_anmart,2025-09-15,Andreia Torres Rocha Martins,Klaus,649
+nct,ext_anmart,2025-09-16,Andreia Torres Rocha Martins,Klaus,63
+nct,ext_anmart,2025-09-17,Andreia Torres Rocha Martins,Klaus,54
+nct,ext_anmart,2025-09-18,Andreia Torres Rocha Martins,Klaus,47
+nct,ext_anmart,2025-09-19,Andreia Torres Rocha Martins,Klaus,33
+nct,ext_anmart,2025-09-20,Andreia Torres Rocha Martins,Klaus,138
+nct,ext_anmart,2025-09-22,Andreia Torres Rocha Martins,Klaus,80
+nct,ext_anmart,2025-09-23,Andreia Torres Rocha Martins,Klaus,91
+nct,ext_anmart,2025-09-24,Andreia Torres Rocha Martins,Klaus,29
+nct,ext_anmart,2025-09-25,Andreia Torres Rocha Martins,Klaus,3
+nct,ext_annicost,2025-09-19,ANNIARA OLGA MARINHO COSTA,Klaus,65
+nct,ext_annicost,2025-09-20,ANNIARA OLGA MARINHO COSTA,Klaus,54
+nct,ext_annicost,2025-09-22,ANNIARA OLGA MARINHO COSTA,Klaus,57
+nct,ext_annicost,2025-09-23,ANNIARA OLGA MARINHO COSTA,Klaus,69
+nct,ext_annicost,2025-09-24,ANNIARA OLGA MARINHO COSTA,Klaus,49
+nct,ext_annl,2025-09-17,ANNA LUIZA RIBEIRO COSTA ,Chayene,31
+nct,ext_annl,2025-09-18,ANNA LUIZA RIBEIRO COSTA ,Chayene,11
+nct,ext_annl,2025-09-19,ANNA LUIZA RIBEIRO COSTA ,Chayene,38
+nct,ext_annl,2025-09-23,ANNA LUIZA RIBEIRO COSTA ,Chayene,35
+nct,ext_anvinhal,2025-09-15,Ana Carolina Silva Vinhal,Cinthya,294
+nct,ext_anvinhal,2025-09-16,Ana Carolina Silva Vinhal,Cinthya,16
+nct,ext_anvinhal,2025-09-17,Ana Carolina Silva Vinhal,Cinthya,19
+nct,ext_asilv,2025-09-15,ANA CAROLINA DOS SANTOS SILVA,Adriana,491
+nct,ext_asilv,2025-09-16,ANA CAROLINA DOS SANTOS SILVA,Adriana,20
+nct,ext_asilv,2025-09-17,ANA CAROLINA DOS SANTOS SILVA,Adriana,33
+nct,ext_asilv,2025-09-18,ANA CAROLINA DOS SANTOS SILVA,Adriana,60
+nct,ext_asilv,2025-09-19,ANA CAROLINA DOS SANTOS SILVA,Adriana,42
+nct,ext_asilv,2025-09-20,ANA CAROLINA DOS SANTOS SILVA,Adriana,138
+nct,ext_asilv,2025-09-22,ANA CAROLINA DOS SANTOS SILVA,Adriana,67
+nct,ext_asilv,2025-09-23,ANA CAROLINA DOS SANTOS SILVA,Adriana,68
+nct,ext_asilv,2025-09-24,ANA CAROLINA DOS SANTOS SILVA,Adriana,16
+nct,ext_ayxavier,2025-09-15,AYLA MIRANDA XAVIER,Adriana,505
+nct,ext_ayxavier,2025-09-16,AYLA MIRANDA XAVIER,Adriana,19
+nct,ext_ayxavier,2025-09-17,AYLA MIRANDA XAVIER,Adriana,72
+nct,ext_ayxavier,2025-09-18,AYLA MIRANDA XAVIER,Adriana,41
+nct,ext_ayxavier,2025-09-19,AYLA MIRANDA XAVIER,Adriana,12
+nct,ext_ayxavier,2025-09-20,AYLA MIRANDA XAVIER,Adriana,130
+nct,ext_ayxavier,2025-09-22,AYLA MIRANDA XAVIER,Adriana,15
+nct,ext_ayxavier,2025-09-23,AYLA MIRANDA XAVIER,Adriana,39
+nct,ext_ayxavier,2025-09-24,AYLA MIRANDA XAVIER,Adriana,7
+nct,ext_ayxavier,2025-09-25,AYLA MIRANDA XAVIER,Adriana,3
+nct,ext_barvaler,2025-09-20,VALERIA DE PAULA BARBOSA,Chayene,45
+nct,ext_barvaler,2025-09-22,VALERIA DE PAULA BARBOSA,Chayene,44
+nct,ext_barvaler,2025-09-23,VALERIA DE PAULA BARBOSA,Chayene,32
+nct,ext_barvaler,2025-09-24,VALERIA DE PAULA BARBOSA,Chayene,48
+nct,ext_barvaler,2025-09-25,VALERIA DE PAULA BARBOSA,Chayene,13
+nct,ext_beatraze,2025-09-15,Beatriz Saraiva de Azevedo,Nycolle,760
+nct,ext_beatraze,2025-09-16,Beatriz Saraiva de Azevedo,Nycolle,22
+nct,ext_beatraze,2025-09-18,Beatriz Saraiva de Azevedo,Nycolle,57
+nct,ext_beatraze,2025-09-19,Beatriz Saraiva de Azevedo,Nycolle,14
+nct,ext_beatraze,2025-09-20,Beatriz Saraiva de Azevedo,Nycolle,34
+nct,ext_beatraze,2025-09-22,Beatriz Saraiva de Azevedo,Nycolle,43
+nct,ext_beatraze,2025-09-23,Beatriz Saraiva de Azevedo,Nycolle,40
+nct,ext_besilv,2025-09-15,Beatriz Soares Da Silva,Cinthya,362
+nct,ext_besilv,2025-09-16,Beatriz Soares Da Silva,Cinthya,13
+nct,ext_besilv,2025-09-17,Beatriz Soares Da Silva,Cinthya,17
+nct,ext_besilv,2025-09-18,Beatriz Soares Da Silva,Cinthya,29
+nct,ext_besilv,2025-09-19,Beatriz Soares Da Silva,Cinthya,2
+nct,ext_besilv,2025-09-20,Beatriz Soares Da Silva,Cinthya,27
+nct,ext_besilv,2025-09-22,Beatriz Soares Da Silva,Cinthya,17
+nct,ext_besilv,2025-09-23,Beatriz Soares Da Silva,Cinthya,17
+nct,ext_bev,2025-09-17,BEATRIZ NEIVA SOUZA VIEIRA ,Adriana,65
+nct,ext_bev,2025-09-18,BEATRIZ NEIVA SOUZA VIEIRA ,Adriana,53
+nct,ext_bev,2025-09-19,BEATRIZ NEIVA SOUZA VIEIRA ,Adriana,86
+nct,ext_bev,2025-09-22,BEATRIZ NEIVA SOUZA VIEIRA ,Adriana,47
+nct,ext_bev,2025-09-23,BEATRIZ NEIVA SOUZA VIEIRA ,Adriana,36
+nct,ext_bev,2025-09-24,BEATRIZ NEIVA SOUZA VIEIRA ,Adriana,43
+nct,ext_brebrito,2025-09-15,Brenda Gabrielle Lima Brito,Cinthya,215
+nct,ext_brebrito,2025-09-16,Brenda Gabrielle Lima Brito,Cinthya,87
+nct,ext_brebrito,2025-09-17,Brenda Gabrielle Lima Brito,Cinthya,104
+nct,ext_brebrito,2025-09-18,Brenda Gabrielle Lima Brito,Cinthya,100
+nct,ext_brebrito,2025-09-19,Brenda Gabrielle Lima Brito,Cinthya,51
+nct,ext_brebrito,2025-09-23,Brenda Gabrielle Lima Brito,Cinthya,142
+nct,ext_brebrito,2025-09-24,Brenda Gabrielle Lima Brito,Cinthya,75
+nct,ext_brenndna,2025-09-15,Brennda Yasmin Alves Do Nascimento,Adriana,595
+nct,ext_brenndna,2025-09-16,Brennda Yasmin Alves Do Nascimento,Adriana,84
+nct,ext_brenndna,2025-09-17,Brennda Yasmin Alves Do Nascimento,Adriana,102
+nct,ext_brenndna,2025-09-18,Brennda Yasmin Alves Do Nascimento,Adriana,69
+nct,ext_brenndna,2025-09-19,Brennda Yasmin Alves Do Nascimento,Adriana,45
+nct,ext_brenndna,2025-09-20,Brennda Yasmin Alves Do Nascimento,Adriana,224
+nct,ext_brenndna,2025-09-23,Brennda Yasmin Alves Do Nascimento,Adriana,112
+nct,ext_brenndna,2025-09-24,Brennda Yasmin Alves Do Nascimento,Adriana,33
+nct,ext_brenndna,2025-09-25,Brennda Yasmin Alves Do Nascimento,Adriana,5
+nct,ext_cail,2025-09-15,Caio Victor Mazieiro de Lima,Cinthya,913
+nct,ext_cail,2025-09-16,Caio Victor Mazieiro de Lima,Cinthya,135
+nct,ext_cail,2025-09-17,Caio Victor Mazieiro de Lima,Cinthya,92
+nct,ext_cail,2025-09-18,Caio Victor Mazieiro de Lima,Cinthya,62
+nct,ext_cail,2025-09-19,Caio Victor Mazieiro de Lima,Cinthya,65
+nct,ext_cail,2025-09-20,Caio Victor Mazieiro de Lima,Cinthya,178
+nct,ext_cail,2025-09-22,Caio Victor Mazieiro de Lima,Cinthya,90
+nct,ext_cail,2025-09-23,Caio Victor Mazieiro de Lima,Cinthya,120
+nct,ext_cail,2025-09-24,Caio Victor Mazieiro de Lima,Cinthya,83
+nct,ext_cail,2025-09-25,Caio Victor Mazieiro de Lima,Cinthya,17
+nct,ext_caljulia,2025-09-15,JULIANO RIBEIRO CALDAS,Nycolle,17
+nct,ext_caljulia,2025-09-16,JULIANO RIBEIRO CALDAS,Nycolle,1
+nct,ext_caljulia,2025-09-17,JULIANO RIBEIRO CALDAS,Nycolle,68
+nct,ext_caljulia,2025-09-18,JULIANO RIBEIRO CALDAS,Nycolle,10
+nct,ext_caljulia,2025-09-19,JULIANO RIBEIRO CALDAS,Nycolle,34
+nct,ext_caljulia,2025-09-22,JULIANO RIBEIRO CALDAS,Nycolle,92
+nct,ext_caljulia,2025-09-23,JULIANO RIBEIRO CALDAS,Nycolle,6
+nct,ext_cardclar,2025-09-15,CLARA DE SOUSA CARDOSO ,Klaus,65
+nct,ext_cardclar,2025-09-16,CLARA DE SOUSA CARDOSO ,Klaus,96
+nct,ext_cardclar,2025-09-17,CLARA DE SOUSA CARDOSO ,Klaus,62
+nct,ext_cardclar,2025-09-19,CLARA DE SOUSA CARDOSO ,Klaus,91
+nct,ext_cardclar,2025-09-22,CLARA DE SOUSA CARDOSO ,Klaus,115
+nct,ext_cardclar,2025-09-23,CLARA DE SOUSA CARDOSO ,Klaus,79
+nct,ext_cardclar,2025-09-24,CLARA DE SOUSA CARDOSO ,Klaus,124
+nct,ext_carvsara,2025-09-15,Sarah Ataides Carvalho,Klaus,316
+nct,ext_cealenca,2025-09-15,CESAR FELLIPE LUCENA DE ALENCAR,Nycolle,1431
+nct,ext_cealenca,2025-09-16,CESAR FELLIPE LUCENA DE ALENCAR,Nycolle,161
+nct,ext_cealenca,2025-09-17,CESAR FELLIPE LUCENA DE ALENCAR,Nycolle,139
+nct,ext_cealenca,2025-09-22,CESAR FELLIPE LUCENA DE ALENCAR,Nycolle,234
+nct,ext_cealenca,2025-09-24,CESAR FELLIPE LUCENA DE ALENCAR,Nycolle,68
+nct,ext_chraiol,2025-09-15,Chayane Silveira Raiol,Cinthya,738
+nct,ext_chraiol,2025-09-16,Chayane Silveira Raiol,Cinthya,165
+nct,ext_chraiol,2025-09-17,Chayane Silveira Raiol,Cinthya,163
+nct,ext_chraiol,2025-09-18,Chayane Silveira Raiol,Cinthya,115
+nct,ext_chraiol,2025-09-19,Chayane Silveira Raiol,Cinthya,132
+nct,ext_chraiol,2025-09-20,Chayane Silveira Raiol,Cinthya,200
+nct,ext_chraiol,2025-09-22,Chayane Silveira Raiol,Cinthya,159
+nct,ext_chraiol,2025-09-23,Chayane Silveira Raiol,Cinthya,244
+nct,ext_chraiol,2025-09-24,Chayane Silveira Raiol,Cinthya,134
+nct,ext_chraiol,2025-09-25,Chayane Silveira Raiol,Cinthya,30
+nct,ext_cinthype,2025-09-15,Cinthya Pereira E Silva,-,8
+nct,ext_correhen,2025-09-15,Henrique Oliveira Correa,Cinthya,12
+nct,ext_correhen,2025-09-20,Henrique Oliveira Correa,Cinthya,1
+nct,ext_correhen,2025-09-23,Henrique Oliveira Correa,Cinthya,2
+nct,ext_crislaij,2025-09-15,Crislainy Serafim de Jesus,Nycolle,847
+nct,ext_crislaij,2025-09-17,Crislainy Serafim de Jesus,Nycolle,58
+nct,ext_crislaij,2025-09-18,Crislainy Serafim de Jesus,Nycolle,36
+nct,ext_crislaij,2025-09-19,Crislainy Serafim de Jesus,Nycolle,44
+nct,ext_crislaij,2025-09-20,Crislainy Serafim de Jesus,Nycolle,175
+nct,ext_crislaij,2025-09-23,Crislainy Serafim de Jesus,Nycolle,103
+nct,ext_crislaij,2025-09-24,Crislainy Serafim de Jesus,Nycolle,63
+nct,ext_crislaij,2025-09-25,Crislainy Serafim de Jesus,Nycolle,12
+nct,ext_danieb,2025-09-15,DANIEL LIMA BARBOSA,Klaus,1152
+nct,ext_danieb,2025-09-16,DANIEL LIMA BARBOSA,Klaus,110
+nct,ext_danieb,2025-09-17,DANIEL LIMA BARBOSA,Klaus,40
+nct,ext_danieb,2025-09-18,DANIEL LIMA BARBOSA,Klaus,86
+nct,ext_danieb,2025-09-19,DANIEL LIMA BARBOSA,Klaus,12
+nct,ext_danieb,2025-09-22,DANIEL LIMA BARBOSA,Klaus,105
+nct,ext_danieb,2025-09-23,DANIEL LIMA BARBOSA,Klaus,109
+nct,ext_danieb,2025-09-24,DANIEL LIMA BARBOSA,Klaus,23
+nct,ext_diviguim,2025-09-23,DIVINA CRISTINA RODRIGUES GUIMARAES ,Cinthya,1
+nct,ext_dousa,2025-09-15,DOUGLAS OLIVEIRA DOS SANTOS ,Klaus,58
+nct,ext_dousa,2025-09-16,DOUGLAS OLIVEIRA DOS SANTOS ,Klaus,60
+nct,ext_dousa,2025-09-17,DOUGLAS OLIVEIRA DOS SANTOS ,Klaus,86
+nct,ext_dousa,2025-09-18,DOUGLAS OLIVEIRA DOS SANTOS ,Klaus,73
+nct,ext_dousa,2025-09-19,DOUGLAS OLIVEIRA DOS SANTOS ,Klaus,92
+nct,ext_dousa,2025-09-22,DOUGLAS OLIVEIRA DOS SANTOS ,Klaus,96
+nct,ext_dousa,2025-09-24,DOUGLAS OLIVEIRA DOS SANTOS ,Klaus,107
+nct,ext_edisjuni,2025-09-15,EDISON GALDINO JUNIOR ,Chayene,17
+nct,ext_edisjuni,2025-09-16,EDISON GALDINO JUNIOR ,Chayene,9
+nct,ext_edisjuni,2025-09-17,EDISON GALDINO JUNIOR ,Chayene,27
+nct,ext_edisjuni,2025-09-18,EDISON GALDINO JUNIOR ,Chayene,25
+nct,ext_edisjuni,2025-09-19,EDISON GALDINO JUNIOR ,Chayene,43
+nct,ext_edisjuni,2025-09-20,EDISON GALDINO JUNIOR ,Chayene,44
+nct,ext_edisjuni,2025-09-22,EDISON GALDINO JUNIOR ,Chayene,59
+nct,ext_edisjuni,2025-09-23,EDISON GALDINO JUNIOR ,Chayene,48
+nct,ext_edisjuni,2025-09-24,EDISON GALDINO JUNIOR ,Chayene,46
+nct,ext_emills,2025-09-15,Emilly Neves Da Silva,Chayene,26
+nct,ext_emo,2025-09-15,EMILLY GABRIELLY ALMEIDA DE OLIVEIRA ,Cinthya,5
+nct,ext_emo,2025-09-16,EMILLY GABRIELLY ALMEIDA DE OLIVEIRA ,Cinthya,4
+nct,ext_emo,2025-09-17,EMILLY GABRIELLY ALMEIDA DE OLIVEIRA ,Cinthya,15
+nct,ext_emo,2025-09-18,EMILLY GABRIELLY ALMEIDA DE OLIVEIRA ,Cinthya,8
+nct,ext_emo,2025-09-19,EMILLY GABRIELLY ALMEIDA DE OLIVEIRA ,Cinthya,7
+nct,ext_emo,2025-09-20,EMILLY GABRIELLY ALMEIDA DE OLIVEIRA ,Cinthya,3
+nct,ext_emo,2025-09-22,EMILLY GABRIELLY ALMEIDA DE OLIVEIRA ,Cinthya,7
+nct,ext_emo,2025-09-23,EMILLY GABRIELLY ALMEIDA DE OLIVEIRA ,Cinthya,9
+nct,ext_erickrio,2025-09-15,Erick Fernando Da Conceicao Rios,Cinthya,589
+nct,ext_erickrio,2025-09-16,Erick Fernando Da Conceicao Rios,Cinthya,43
+nct,ext_erickrio,2025-09-17,Erick Fernando Da Conceicao Rios,Cinthya,17
+nct,ext_erickrio,2025-09-18,Erick Fernando Da Conceicao Rios,Cinthya,23
+nct,ext_erickrio,2025-09-19,Erick Fernando Da Conceicao Rios,Cinthya,20
+nct,ext_erickrio,2025-09-22,Erick Fernando Da Conceicao Rios,Cinthya,34
+nct,ext_erickrio,2025-09-23,Erick Fernando Da Conceicao Rios,Cinthya,82
+nct,ext_erickrio,2025-09-24,Erick Fernando Da Conceicao Rios,Cinthya,12
+nct,ext_fekaic,2025-09-15,Kaic Miguel da Silva Ferreira,Klaus,923
+nct,ext_fekaic,2025-09-16,Kaic Miguel da Silva Ferreira,Klaus,68
+nct,ext_fekaic,2025-09-17,Kaic Miguel da Silva Ferreira,Klaus,47
+nct,ext_fekaic,2025-09-18,Kaic Miguel da Silva Ferreira,Klaus,37
+nct,ext_fekaic,2025-09-19,Kaic Miguel da Silva Ferreira,Klaus,16
+nct,ext_fekaic,2025-09-20,Kaic Miguel da Silva Ferreira,Klaus,147
+nct,ext_fekaic,2025-09-22,Kaic Miguel da Silva Ferreira,Klaus,64
+nct,ext_fekaic,2025-09-23,Kaic Miguel da Silva Ferreira,Klaus,104
+nct,ext_fekaic,2025-09-24,Kaic Miguel da Silva Ferreira,Klaus,10
+nct,ext_fekaic,2025-09-25,Kaic Miguel da Silva Ferreira,Klaus,7
+nct,ext_gabrlibe,2025-09-15,Gabriel Ferreira Liberato,Adriana,702
+nct,ext_gabrlibe,2025-09-16,Gabriel Ferreira Liberato,Adriana,87
+nct,ext_gabrlibe,2025-09-17,Gabriel Ferreira Liberato,Adriana,112
+nct,ext_gabrlibe,2025-09-18,Gabriel Ferreira Liberato,Adriana,128
+nct,ext_gabrlibe,2025-09-19,Gabriel Ferreira Liberato,Adriana,19
+nct,ext_gabrlibe,2025-09-22,Gabriel Ferreira Liberato,Adriana,57
+nct,ext_gabrlibe,2025-09-23,Gabriel Ferreira Liberato,Adriana,75
+nct,ext_gabrlibe,2025-09-24,Gabriel Ferreira Liberato,Adriana,48
+nct,ext_gbilpere,2025-09-15,Gabriel Rodrigues Pereira ,Klaus,264
+nct,ext_gbilpere,2025-09-16,Gabriel Rodrigues Pereira ,Klaus,65
+nct,ext_gbilpere,2025-09-17,Gabriel Rodrigues Pereira ,Klaus,14
+nct,ext_gbilpere,2025-09-18,Gabriel Rodrigues Pereira ,Klaus,13
+nct,ext_gbilpere,2025-09-20,Gabriel Rodrigues Pereira ,Klaus,98
+nct,ext_gbilpere,2025-09-22,Gabriel Rodrigues Pereira ,Klaus,54
+nct,ext_gbilpere,2025-09-23,Gabriel Rodrigues Pereira ,Klaus,65
+nct,ext_gbilpere,2025-09-25,Gabriel Rodrigues Pereira ,Klaus,8
+nct,ext_gianmend,2025-09-15,Giana Gisely de Sousa Mendes,Nycolle,1318
+nct,ext_gianmend,2025-09-16,Giana Gisely de Sousa Mendes,Nycolle,174
+nct,ext_gianmend,2025-09-17,Giana Gisely de Sousa Mendes,Nycolle,123
+nct,ext_gianmend,2025-09-18,Giana Gisely de Sousa Mendes,Nycolle,164
+nct,ext_gianmend,2025-09-19,Giana Gisely de Sousa Mendes,Nycolle,99
+nct,ext_gianmend,2025-09-22,Giana Gisely de Sousa Mendes,Nycolle,211
+nct,ext_gianmend,2025-09-23,Giana Gisely de Sousa Mendes,Nycolle,178
+nct,ext_gianmend,2025-09-24,Giana Gisely de Sousa Mendes,Nycolle,79
+nct,ext_gianmend,2025-09-25,Giana Gisely de Sousa Mendes,Nycolle,29
+nct,ext_giog,2025-09-15,Giovanna Soares Araújo Gonçalves,Klaus,849
+nct,ext_giog,2025-09-16,Giovanna Soares Araújo Gonçalves,Klaus,97
+nct,ext_giog,2025-09-17,Giovanna Soares Araújo Gonçalves,Klaus,124
+nct,ext_giog,2025-09-18,Giovanna Soares Araújo Gonçalves,Klaus,78
+nct,ext_giog,2025-09-19,Giovanna Soares Araújo Gonçalves,Klaus,68
+nct,ext_giog,2025-09-20,Giovanna Soares Araújo Gonçalves,Klaus,182
+nct,ext_giog,2025-09-22,Giovanna Soares Araújo Gonçalves,Klaus,6
+nct,ext_giog,2025-09-23,Giovanna Soares Araújo Gonçalves,Klaus,178
+nct,ext_giog,2025-09-24,Giovanna Soares Araújo Gonçalves,Klaus,111
+nct,ext_giso,2025-09-15,Geovani Lucio Soares,Klaus,1323
+nct,ext_giso,2025-09-16,Geovani Lucio Soares,Klaus,91
+nct,ext_giso,2025-09-17,Geovani Lucio Soares,Klaus,53
+nct,ext_giso,2025-09-18,Geovani Lucio Soares,Klaus,38
+nct,ext_giso,2025-09-20,Geovani Lucio Soares,Klaus,56
+nct,ext_giso,2025-09-22,Geovani Lucio Soares,Klaus,59
+nct,ext_giso,2025-09-23,Geovani Lucio Soares,Klaus,68
+nct,ext_gomesj,2025-09-15,JOÃO VITOR DOS SANTOS GOMES,Nycolle,250
+nct,ext_grazielg,2025-09-15,Maria Graziella Oliveira Gomes,Nycolle,747
+nct,ext_grazielg,2025-09-16,Maria Graziella Oliveira Gomes,Nycolle,65
+nct,ext_grazielg,2025-09-17,Maria Graziella Oliveira Gomes,Nycolle,73
+nct,ext_grazielg,2025-09-18,Maria Graziella Oliveira Gomes,Nycolle,112
+nct,ext_grazielg,2025-09-19,Maria Graziella Oliveira Gomes,Nycolle,63
+nct,ext_grazielg,2025-09-23,Maria Graziella Oliveira Gomes,Nycolle,119
+nct,ext_grazielg,2025-09-24,Maria Graziella Oliveira Gomes,Nycolle,39
+nct,ext_guilhec,2025-09-15,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,535
+nct,ext_guilhec,2025-09-17,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,72
+nct,ext_guilhec,2025-09-18,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,97
+nct,ext_guilhec,2025-09-19,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,62
+nct,ext_guilhec,2025-09-20,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,236
+nct,ext_guilhec,2025-09-22,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,112
+nct,ext_guilhec,2025-09-23,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,161
+nct,ext_guilhec,2025-09-24,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,60
+nct,ext_guilhec,2025-09-25,GUILHERME DANIEL GARCIA DA COSTA,Nycolle,2
+nct,ext_hajunior,2025-09-15,HASENCLEVER GUIMARAES DE FREITAS LIMA JUNIOR ,Nycolle,867
+nct,ext_hajunior,2025-09-16,HASENCLEVER GUIMARAES DE FREITAS LIMA JUNIOR ,Nycolle,225
+nct,ext_hajunior,2025-09-18,HASENCLEVER GUIMARAES DE FREITAS LIMA JUNIOR ,Nycolle,163
+nct,ext_hajunior,2025-09-19,HASENCLEVER GUIMARAES DE FREITAS LIMA JUNIOR ,Nycolle,89
+nct,ext_hajunior,2025-09-22,HASENCLEVER GUIMARAES DE FREITAS LIMA JUNIOR ,Nycolle,187
+nct,ext_hajunior,2025-09-23,HASENCLEVER GUIMARAES DE FREITAS LIMA JUNIOR ,Nycolle,178
+nct,ext_hajunior,2025-09-24,HASENCLEVER GUIMARAES DE FREITAS LIMA JUNIOR ,Nycolle,98
+nct,ext_hajunior,2025-09-25,HASENCLEVER GUIMARAES DE FREITAS LIMA JUNIOR ,Nycolle,35
+nct,ext_hiavieir,2025-09-15,Hiago Victor De Souza Vieira,Chayene,42
+nct,ext_hiavieir,2025-09-16,Hiago Victor De Souza Vieira,Chayene,33
+nct,ext_hiavieir,2025-09-17,Hiago Victor De Souza Vieira,Chayene,66
+nct,ext_hiavieir,2025-09-18,Hiago Victor De Souza Vieira,Chayene,12
+nct,ext_hiavieir,2025-09-24,Hiago Victor De Souza Vieira,Chayene,78
+nct,ext_hubotelh,2025-09-19,HUGO ALMEIDA BOTELHO,Chayene,42
+nct,ext_hubotelh,2025-09-20,HUGO ALMEIDA BOTELHO,Chayene,35
+nct,ext_hubotelh,2025-09-22,HUGO ALMEIDA BOTELHO,Chayene,49
+nct,ext_hubotelh,2025-09-23,HUGO ALMEIDA BOTELHO,Chayene,37
+nct,ext_hubotelh,2025-09-24,HUGO ALMEIDA BOTELHO,Chayene,61
+nct,ext_igso,2025-09-15,IGOR DE ARAUJO SOUSA,Nycolle,426
+nct,ext_igso,2025-09-16,IGOR DE ARAUJO SOUSA,Nycolle,23
+nct,ext_igso,2025-09-17,IGOR DE ARAUJO SOUSA,Nycolle,40
+nct,ext_igso,2025-09-20,IGOR DE ARAUJO SOUSA,Nycolle,156
+nct,ext_igso,2025-09-22,IGOR DE ARAUJO SOUSA,Nycolle,70
+nct,ext_igso,2025-09-23,IGOR DE ARAUJO SOUSA,Nycolle,65
+nct,ext_igso,2025-09-24,IGOR DE ARAUJO SOUSA,Nycolle,21
+nct,ext_igso,2025-09-25,IGOR DE ARAUJO SOUSA,Nycolle,14
+nct,ext_incardoz,2025-09-15,INGRID SIQUEIRA CARDOZO,Nycolle,775
+nct,ext_incardoz,2025-09-16,INGRID SIQUEIRA CARDOZO,Nycolle,63
+nct,ext_incardoz,2025-09-17,INGRID SIQUEIRA CARDOZO,Nycolle,58
+nct,ext_incardoz,2025-09-18,INGRID SIQUEIRA CARDOZO,Nycolle,76
+nct,ext_incardoz,2025-09-19,INGRID SIQUEIRA CARDOZO,Nycolle,18
+nct,ext_incardoz,2025-09-20,INGRID SIQUEIRA CARDOZO,Nycolle,189
+nct,ext_incardoz,2025-09-22,INGRID SIQUEIRA CARDOZO,Nycolle,78
+nct,ext_incardoz,2025-09-23,INGRID SIQUEIRA CARDOZO,Nycolle,89
+nct,ext_incardoz,2025-09-24,INGRID SIQUEIRA CARDOZO,Nycolle,61
+nct,ext_iosousa,2025-09-15,Ione Daina De Sousa,Cinthya,269
+nct,ext_iosousa,2025-09-16,Ione Daina De Sousa,Cinthya,31
+nct,ext_iosousa,2025-09-19,Ione Daina De Sousa,Cinthya,10
+nct,ext_iosousa,2025-09-22,Ione Daina De Sousa,Cinthya,27
+nct,ext_iosousa,2025-09-23,Ione Daina De Sousa,Cinthya,51
+nct,ext_isabesa,2025-09-15,Isabella Eyshila Vitoriano Dos Santos,Adriana,143
+nct,ext_isabesa,2025-09-16,Isabella Eyshila Vitoriano Dos Santos,Adriana,9
+nct,ext_isabesa,2025-09-18,Isabella Eyshila Vitoriano Dos Santos,Adriana,10
+nct,ext_isabesa,2025-09-22,Isabella Eyshila Vitoriano Dos Santos,Adriana,12
+nct,ext_isabesa,2025-09-23,Isabella Eyshila Vitoriano Dos Santos,Adriana,19
+nct,ext_issanto,2025-09-15,ISABELA MENEZES DOS SANTOS,Nycolle,950
+nct,ext_issanto,2025-09-16,ISABELA MENEZES DOS SANTOS,Nycolle,61
+nct,ext_issanto,2025-09-17,ISABELA MENEZES DOS SANTOS,Nycolle,93
+nct,ext_issanto,2025-09-18,ISABELA MENEZES DOS SANTOS,Nycolle,88
+nct,ext_issanto,2025-09-19,ISABELA MENEZES DOS SANTOS,Nycolle,51
+nct,ext_issanto,2025-09-20,ISABELA MENEZES DOS SANTOS,Nycolle,257
+nct,ext_issanto,2025-09-22,ISABELA MENEZES DOS SANTOS,Nycolle,83
+nct,ext_issanto,2025-09-23,ISABELA MENEZES DOS SANTOS,Nycolle,62
+nct,ext_issanto,2025-09-24,ISABELA MENEZES DOS SANTOS,Nycolle,57
+nct,ext_italconc,2025-09-17,Italo Carvalho Da Conceição,Chayene,1
+nct,ext_italconc,2025-09-19,Italo Carvalho Da Conceição,Chayene,20
+nct,ext_italconc,2025-09-22,Italo Carvalho Da Conceição,Chayene,2
+nct,ext_italconc,2025-09-23,Italo Carvalho Da Conceição,Chayene,3
+nct,ext_italconc,2025-09-24,Italo Carvalho Da Conceição,Chayene,7
+nct,ext_its,2025-09-15,Italo Rian Alves da Silva,Cinthya,546
+nct,ext_its,2025-09-16,Italo Rian Alves da Silva,Cinthya,35
+nct,ext_its,2025-09-18,Italo Rian Alves da Silva,Cinthya,44
+nct,ext_its,2025-09-19,Italo Rian Alves da Silva,Cinthya,26
+nct,ext_its,2025-09-20,Italo Rian Alves da Silva,Cinthya,133
+nct,ext_its,2025-09-22,Italo Rian Alves da Silva,Cinthya,60
+nct,ext_its,2025-09-24,Italo Rian Alves da Silva,Cinthya,34
+nct,ext_janaguia,2025-09-19,JANAINA DA SILVA AGUIAR,Klaus,21
+nct,ext_janaguia,2025-09-20,JANAINA DA SILVA AGUIAR,Klaus,37
+nct,ext_janaguia,2025-09-22,JANAINA DA SILVA AGUIAR,Klaus,18
+nct,ext_janaguia,2025-09-23,JANAINA DA SILVA AGUIAR,Klaus,34
+nct,ext_janaguia,2025-09-24,JANAINA DA SILVA AGUIAR,Klaus,23
+nct,ext_jeff,2025-09-15,Jefferson Rodrigues Fernandes,Klaus,771
+nct,ext_jeff,2025-09-16,Jefferson Rodrigues Fernandes,Klaus,112
+nct,ext_jeff,2025-09-17,Jefferson Rodrigues Fernandes,Klaus,127
+nct,ext_jeff,2025-09-18,Jefferson Rodrigues Fernandes,Klaus,96
+nct,ext_jeff,2025-09-22,Jefferson Rodrigues Fernandes,Klaus,101
+nct,ext_jeff,2025-09-23,Jefferson Rodrigues Fernandes,Klaus,123
+nct,ext_jhenifso,2025-09-15,JHENIFFER ALVES DE SOUSA,Adriana,1231
+nct,ext_jhenifso,2025-09-17,JHENIFFER ALVES DE SOUSA,Adriana,143
+nct,ext_jhenifso,2025-09-18,JHENIFFER ALVES DE SOUSA,Adriana,176
+nct,ext_jhenifso,2025-09-19,JHENIFFER ALVES DE SOUSA,Adriana,92
+nct,ext_jhenifso,2025-09-23,JHENIFFER ALVES DE SOUSA,Adriana,150
+nct,ext_jhenifso,2025-09-24,JHENIFFER ALVES DE SOUSA,Adriana,70
+nct,ext_jhenifso,2025-09-25,JHENIFFER ALVES DE SOUSA,Adriana,12
+nct,ext_jhonngom,2025-09-15,Jhonnys Junior Gomes De Sousa,Adriana,969
+nct,ext_jhonngom,2025-09-16,Jhonnys Junior Gomes De Sousa,Adriana,147
+nct,ext_jhonngom,2025-09-17,Jhonnys Junior Gomes De Sousa,Adriana,180
+nct,ext_jhonngom,2025-09-18,Jhonnys Junior Gomes De Sousa,Adriana,145
+nct,ext_jhonngom,2025-09-19,Jhonnys Junior Gomes De Sousa,Adriana,76
+nct,ext_jhonngom,2025-09-22,Jhonnys Junior Gomes De Sousa,Adriana,129
+nct,ext_jhonngom,2025-09-23,Jhonnys Junior Gomes De Sousa,Adriana,172
+nct,ext_jhonngom,2025-09-24,Jhonnys Junior Gomes De Sousa,Adriana,86
+nct,ext_joafe,2025-09-15,JOAO PAULO RODRIGUES FERNANDES,Nycolle,227
+nct,ext_joafe,2025-09-16,JOAO PAULO RODRIGUES FERNANDES,Nycolle,67
+nct,ext_joafe,2025-09-20,JOAO PAULO RODRIGUES FERNANDES,Nycolle,180
+nct,ext_joafe,2025-09-24,JOAO PAULO RODRIGUES FERNANDES,Nycolle,31
+nct,ext_joigoula,2025-09-15,JOICE COSTA GOULART,Adriana,42
+nct,ext_joigoula,2025-09-16,JOICE COSTA GOULART,Adriana,37
+nct,ext_joigoula,2025-09-17,JOICE COSTA GOULART,Adriana,35
+nct,ext_joigoula,2025-09-18,JOICE COSTA GOULART,Adriana,23
+nct,ext_joigoula,2025-09-19,JOICE COSTA GOULART,Adriana,33
+nct,ext_joigoula,2025-09-20,JOICE COSTA GOULART,Adriana,46
+nct,ext_joigoula,2025-09-22,JOICE COSTA GOULART,Adriana,43
+nct,ext_joigoula,2025-09-23,JOICE COSTA GOULART,Adriana,43
+nct,ext_joigoula,2025-09-24,JOICE COSTA GOULART,Adriana,45
+nct,ext_joigoula,2025-09-25,JOICE COSTA GOULART,Adriana,11
+nct,ext_josiaand,2025-09-15,Joseane de Andrade Rego,Adriana,785
+nct,ext_josiaand,2025-09-16,Joseane de Andrade Rego,Adriana,102
+nct,ext_josiaand,2025-09-17,Joseane de Andrade Rego,Adriana,102
+nct,ext_josiaand,2025-09-18,Joseane de Andrade Rego,Adriana,77
+nct,ext_josiaand,2025-09-19,Joseane de Andrade Rego,Adriana,16
+nct,ext_josiaand,2025-09-20,Joseane de Andrade Rego,Adriana,183
+nct,ext_josiaand,2025-09-22,Joseane de Andrade Rego,Adriana,90
+nct,ext_josiaand,2025-09-23,Joseane de Andrade Rego,Adriana,127
+nct,ext_josiaand,2025-09-24,Joseane de Andrade Rego,Adriana,66
+nct,ext_josiaand,2025-09-25,Joseane de Andrade Rego,Adriana,4
+nct,ext_julgraca,2025-09-15,Julia Oliveira da Graça,Adriana,968
+nct,ext_julgraca,2025-09-16,Julia Oliveira da Graça,Adriana,148
+nct,ext_julgraca,2025-09-17,Julia Oliveira da Graça,Adriana,140
+nct,ext_julgraca,2025-09-18,Julia Oliveira da Graça,Adriana,146
+nct,ext_julgraca,2025-09-19,Julia Oliveira da Graça,Adriana,46
+nct,ext_julgraca,2025-09-22,Julia Oliveira da Graça,Adriana,86
+nct,ext_julgraca,2025-09-23,Julia Oliveira da Graça,Adriana,141
+nct,ext_julgraca,2025-09-25,Julia Oliveira da Graça,Adriana,17
+nct,ext_juligoul,2025-09-23,JULIA COSTA GOULART ,Chayene,49
+nct,ext_karicsil,2025-09-15,Karoline Rodrigues da Silva,Klaus,244
+nct,ext_karicsil,2025-09-16,Karoline Rodrigues da Silva,Klaus,13
+nct,ext_karicsil,2025-09-17,Karoline Rodrigues da Silva,Klaus,27
+nct,ext_karicsil,2025-09-18,Karoline Rodrigues da Silva,Klaus,26
+nct,ext_karicsil,2025-09-20,Karoline Rodrigues da Silva,Klaus,143
+nct,ext_karicsil,2025-09-23,Karoline Rodrigues da Silva,Klaus,97
+nct,ext_karicsil,2025-09-24,Karoline Rodrigues da Silva,Klaus,2
+nct,ext_kasmarqu,2025-09-15,Kassia Nathalia Marques De Matos,Adriana,22
+nct,ext_kasmarqu,2025-09-16,Kassia Nathalia Marques De Matos,Adriana,44
+nct,ext_kasmarqu,2025-09-18,Kassia Nathalia Marques De Matos,Adriana,23
+nct,ext_kasmarqu,2025-09-22,Kassia Nathalia Marques De Matos,Adriana,40
+nct,ext_kasmarqu,2025-09-23,Kassia Nathalia Marques De Matos,Adriana,19
+nct,ext_kasmarqu,2025-09-24,Kassia Nathalia Marques De Matos,Adriana,10
+nct,ext_kasmarqu,2025-09-25,Kassia Nathalia Marques De Matos,Adriana,26
+nct,ext_kaymateu,2025-09-18,Kayro Mateus Mendes Ribeiro,Cinthya,1
+nct,ext_kevebarb,2025-09-16,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,2
+nct,ext_kevebarb,2025-09-17,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,22
+nct,ext_kevebarb,2025-09-18,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,35
+nct,ext_kevebarb,2025-09-19,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,37
+nct,ext_kevebarb,2025-09-20,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,51
+nct,ext_kevebarb,2025-09-22,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,46
+nct,ext_kevebarb,2025-09-23,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,65
+nct,ext_kevebarb,2025-09-24,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,45
+nct,ext_kevebarb,2025-09-25,KEVEN SAMUEL SOUSA BARBOSA ,Adriana,5
+nct,ext_klaferna,2025-09-22,Klaus Ferreira Fernandes,-,1
+nct,ext_lauramac,2025-09-15,LAURA VICENTE MACIEL,Klaus,838
+nct,ext_lauramac,2025-09-16,LAURA VICENTE MACIEL,Klaus,39
+nct,ext_lauramac,2025-09-17,LAURA VICENTE MACIEL,Klaus,32
+nct,ext_lauramac,2025-09-18,LAURA VICENTE MACIEL,Klaus,31
+nct,ext_lauramac,2025-09-19,LAURA VICENTE MACIEL,Klaus,21
+nct,ext_lauramac,2025-09-20,LAURA VICENTE MACIEL,Klaus,53
+nct,ext_lauramac,2025-09-22,LAURA VICENTE MACIEL,Klaus,80
+nct,ext_lauramac,2025-09-24,LAURA VICENTE MACIEL,Klaus,29
+nct,ext_lauramac,2025-09-25,LAURA VICENTE MACIEL,Klaus,13
+nct,ext_leroc,2025-09-15,LEONARDO DOS SANTOS ROCHA ,Chayene,8
+nct,ext_leroc,2025-09-16,LEONARDO DOS SANTOS ROCHA ,Chayene,6
+nct,ext_leroc,2025-09-17,LEONARDO DOS SANTOS ROCHA ,Chayene,37
+nct,ext_leroc,2025-09-18,LEONARDO DOS SANTOS ROCHA ,Chayene,47
+nct,ext_leroc,2025-09-19,LEONARDO DOS SANTOS ROCHA ,Chayene,40
+nct,ext_leroc,2025-09-22,LEONARDO DOS SANTOS ROCHA ,Chayene,44
+nct,ext_leroc,2025-09-23,LEONARDO DOS SANTOS ROCHA ,Chayene,46
+nct,ext_leroc,2025-09-24,LEONARDO DOS SANTOS ROCHA ,Chayene,56
+nct,ext_letico,2025-09-15,Leticia Mirella Carvalho De Oliveira,Klaus,521
+nct,ext_letico,2025-09-16,Leticia Mirella Carvalho De Oliveira,Klaus,111
+nct,ext_letico,2025-09-17,Leticia Mirella Carvalho De Oliveira,Klaus,48
+nct,ext_letico,2025-09-18,Leticia Mirella Carvalho De Oliveira,Klaus,108
+nct,ext_letico,2025-09-19,Leticia Mirella Carvalho De Oliveira,Klaus,62
+nct,ext_letico,2025-09-22,Leticia Mirella Carvalho De Oliveira,Klaus,120
+nct,ext_letico,2025-09-23,Leticia Mirella Carvalho De Oliveira,Klaus,171
+nct,ext_letico,2025-09-24,Leticia Mirella Carvalho De Oliveira,Klaus,58
+nct,ext_letico,2025-09-25,Leticia Mirella Carvalho De Oliveira,Klaus,9
+nct,ext_lig,2025-09-15,Gabrielly Brito Lima,Cinthya,55
+nct,ext_lig,2025-09-20,Gabrielly Brito Lima,Cinthya,1
+nct,ext_lig,2025-09-22,Gabrielly Brito Lima,Cinthya,1
+nct,ext_lig,2025-09-23,Gabrielly Brito Lima,Cinthya,3
+nct,ext_lilaisa,2025-09-15,LAISA VIANA LIMA ,Klaus,27
+nct,ext_lilaisa,2025-09-16,LAISA VIANA LIMA ,Klaus,38
+nct,ext_lilaisa,2025-09-17,LAISA VIANA LIMA ,Klaus,49
+nct,ext_lilaisa,2025-09-18,LAISA VIANA LIMA ,Klaus,36
+nct,ext_lilaisa,2025-09-19,LAISA VIANA LIMA ,Klaus,39
+nct,ext_lilaisa,2025-09-20,LAISA VIANA LIMA ,Klaus,53
+nct,ext_lilaisa,2025-09-22,LAISA VIANA LIMA ,Klaus,72
+nct,ext_lilaisa,2025-09-23,LAISA VIANA LIMA ,Klaus,61
+nct,ext_lilaisa,2025-09-24,LAISA VIANA LIMA ,Klaus,49
+nct,ext_lofreire,2025-09-15,Lorenne Araujo Freire ,Nycolle,471
+nct,ext_lofreire,2025-09-16,Lorenne Araujo Freire ,Nycolle,34
+nct,ext_lofreire,2025-09-17,Lorenne Araujo Freire ,Nycolle,65
+nct,ext_lofreire,2025-09-18,Lorenne Araujo Freire ,Nycolle,96
+nct,ext_lofreire,2025-09-19,Lorenne Araujo Freire ,Nycolle,12
+nct,ext_lofreire,2025-09-22,Lorenne Araujo Freire ,Nycolle,58
+nct,ext_lofreire,2025-09-23,Lorenne Araujo Freire ,Nycolle,67
+nct,ext_lofreire,2025-09-24,Lorenne Araujo Freire ,Nycolle,24
+nct,ext_lofreire,2025-09-25,Lorenne Araujo Freire ,Nycolle,3
+nct,ext_luavaran,2025-09-19,LUANA DE OLIVEIRA VARANDA,Nycolle,19
+nct,ext_luavaran,2025-09-20,LUANA DE OLIVEIRA VARANDA,Nycolle,29
+nct,ext_luavaran,2025-09-22,LUANA DE OLIVEIRA VARANDA,Nycolle,70
+nct,ext_luavaran,2025-09-23,LUANA DE OLIVEIRA VARANDA,Nycolle,14
+nct,ext_luavaran,2025-09-24,LUANA DE OLIVEIRA VARANDA,Nycolle,28
+nct,ext_lucmat,2025-09-15,Lucas Oliveira Matos,Cinthya,642
+nct,ext_lucmat,2025-09-16,Lucas Oliveira Matos,Cinthya,48
+nct,ext_lucmat,2025-09-17,Lucas Oliveira Matos,Cinthya,47
+nct,ext_lucmat,2025-09-19,Lucas Oliveira Matos,Cinthya,9
+nct,ext_lucmat,2025-09-20,Lucas Oliveira Matos,Cinthya,33
+nct,ext_lucmat,2025-09-22,Lucas Oliveira Matos,Cinthya,53
+nct,ext_lucmat,2025-09-23,Lucas Oliveira Matos,Cinthya,41
+nct,ext_lucmor,2025-09-15,Lucas Pires Moreira,Adriana,1697
+nct,ext_lucmor,2025-09-16,Lucas Pires Moreira,Adriana,112
+nct,ext_lucmor,2025-09-17,Lucas Pires Moreira,Adriana,108
+nct,ext_lucmor,2025-09-19,Lucas Pires Moreira,Adriana,8
+nct,ext_lucmor,2025-09-20,Lucas Pires Moreira,Adriana,125
+nct,ext_lucmor,2025-09-22,Lucas Pires Moreira,Adriana,7
+nct,ext_luin,2025-09-15,Luiz Gustavo Nascimento,Cinthya,4
+nct,ext_luin,2025-09-17,Luiz Gustavo Nascimento,Cinthya,2
+nct,ext_luin,2025-09-20,Luiz Gustavo Nascimento,Cinthya,1
+nct,ext_luizn,2025-09-15,Luiz Eduardo de Souza Nascimento,Klaus,1380
+nct,ext_luizn,2025-09-16,Luiz Eduardo de Souza Nascimento,Klaus,84
+nct,ext_luizn,2025-09-17,Luiz Eduardo de Souza Nascimento,Klaus,99
+nct,ext_luizn,2025-09-18,Luiz Eduardo de Souza Nascimento,Klaus,128
+nct,ext_luizn,2025-09-20,Luiz Eduardo de Souza Nascimento,Klaus,190
+nct,ext_luizn,2025-09-22,Luiz Eduardo de Souza Nascimento,Klaus,136
+nct,ext_luizn,2025-09-23,Luiz Eduardo de Souza Nascimento,Klaus,156
+nct,ext_luizn,2025-09-24,Luiz Eduardo de Souza Nascimento,Klaus,37
+nct,ext_machavei,2025-09-15,MANUELLE LUIZA GOVEIA CHAVEIRO ,Chayene,6
+nct,ext_machavei,2025-09-18,MANUELLE LUIZA GOVEIA CHAVEIRO ,Chayene,21
+nct,ext_machavei,2025-09-22,MANUELLE LUIZA GOVEIA CHAVEIRO ,Chayene,44
+nct,ext_machavei,2025-09-24,MANUELLE LUIZA GOVEIA CHAVEIRO ,Chayene,41
+nct,ext_malodani,2025-09-15,Daniel Martins Lopes,Klaus,1258
+nct,ext_malodani,2025-09-16,Daniel Martins Lopes,Klaus,148
+nct,ext_malodani,2025-09-22,Daniel Martins Lopes,Klaus,119
+nct,ext_malodani,2025-09-25,Daniel Martins Lopes,Klaus,17
+nct,ext_mapi,2025-09-15,Maria Clara Da Silva Pinheiro,Cinthya,258
+nct,ext_mapi,2025-09-16,Maria Clara Da Silva Pinheiro,Cinthya,22
+nct,ext_mapi,2025-09-17,Maria Clara Da Silva Pinheiro,Cinthya,24
+nct,ext_mapi,2025-09-18,Maria Clara Da Silva Pinheiro,Cinthya,40
+nct,ext_mapi,2025-09-20,Maria Clara Da Silva Pinheiro,Cinthya,32
+nct,ext_mapi,2025-09-22,Maria Clara Da Silva Pinheiro,Cinthya,26
+nct,ext_mapi,2025-09-23,Maria Clara Da Silva Pinheiro,Cinthya,44
+nct,ext_maranna,2025-09-15,Anna Carolina Dantas Martins,Cinthya,557
+nct,ext_maranna,2025-09-17,Anna Carolina Dantas Martins,Cinthya,71
+nct,ext_maranna,2025-09-18,Anna Carolina Dantas Martins,Cinthya,56
+nct,ext_maranna,2025-09-19,Anna Carolina Dantas Martins,Cinthya,49
+nct,ext_maranna,2025-09-22,Anna Carolina Dantas Martins,Cinthya,116
+nct,ext_maranna,2025-09-23,Anna Carolina Dantas Martins,Cinthya,155
+nct,ext_maranna,2025-09-24,Anna Carolina Dantas Martins,Cinthya,97
+nct,ext_maranna,2025-09-25,Anna Carolina Dantas Martins,Cinthya,13
+nct,ext_marcuama,2025-09-15,MARCUS HYAN DE JESUS AMADO,Klaus,1031
+nct,ext_marcuama,2025-09-16,MARCUS HYAN DE JESUS AMADO,Klaus,85
+nct,ext_marcuama,2025-09-17,MARCUS HYAN DE JESUS AMADO,Klaus,95
+nct,ext_marcuama,2025-09-18,MARCUS HYAN DE JESUS AMADO,Klaus,105
+nct,ext_marcuama,2025-09-19,MARCUS HYAN DE JESUS AMADO,Klaus,76
+nct,ext_marcuama,2025-09-22,MARCUS HYAN DE JESUS AMADO,Klaus,94
+nct,ext_marcuama,2025-09-23,MARCUS HYAN DE JESUS AMADO,Klaus,155
+nct,ext_marcuama,2025-09-24,MARCUS HYAN DE JESUS AMADO,Klaus,73
+nct,ext_mardeus,2025-09-15,MARIA RITA MEDEIROS DE DEUS ,Chayene,3
+nct,ext_mardeus,2025-09-16,MARIA RITA MEDEIROS DE DEUS ,Chayene,2
+nct,ext_mardeus,2025-09-17,MARIA RITA MEDEIROS DE DEUS ,Chayene,26
+nct,ext_mardeus,2025-09-18,MARIA RITA MEDEIROS DE DEUS ,Chayene,37
+nct,ext_mardeus,2025-09-19,MARIA RITA MEDEIROS DE DEUS ,Chayene,29
+nct,ext_mardeus,2025-09-22,MARIA RITA MEDEIROS DE DEUS ,Chayene,29
+nct,ext_mardeus,2025-09-23,MARIA RITA MEDEIROS DE DEUS ,Chayene,23
+nct,ext_mardeus,2025-09-24,MARIA RITA MEDEIROS DE DEUS ,Chayene,51
+nct,ext_maridi,2025-09-19,MARIA EDUARDA SANTOS DIAS,Nycolle,56
+nct,ext_maridi,2025-09-20,MARIA EDUARDA SANTOS DIAS,Nycolle,63
+nct,ext_maridi,2025-09-22,MARIA EDUARDA SANTOS DIAS,Nycolle,36
+nct,ext_maridi,2025-09-23,MARIA EDUARDA SANTOS DIAS,Nycolle,45
+nct,ext_maridi,2025-09-24,MARIA EDUARDA SANTOS DIAS,Nycolle,35
+nct,ext_maridi,2025-09-25,MARIA EDUARDA SANTOS DIAS,Nycolle,8
+nct,ext_marienro,2025-09-15,Mariene Vitoria Rodrigues Do O,Cinthya,569
+nct,ext_marienro,2025-09-16,Mariene Vitoria Rodrigues Do O,Cinthya,49
+nct,ext_marienro,2025-09-17,Mariene Vitoria Rodrigues Do O,Cinthya,77
+nct,ext_marienro,2025-09-18,Mariene Vitoria Rodrigues Do O,Cinthya,31
+nct,ext_marienro,2025-09-19,Mariene Vitoria Rodrigues Do O,Cinthya,4
+nct,ext_marienro,2025-09-20,Mariene Vitoria Rodrigues Do O,Cinthya,33
+nct,ext_marienro,2025-09-23,Mariene Vitoria Rodrigues Do O,Cinthya,39
+nct,ext_marifr,2025-09-15,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,604
+nct,ext_marifr,2025-09-16,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,66
+nct,ext_marifr,2025-09-17,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,78
+nct,ext_marifr,2025-09-18,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,116
+nct,ext_marifr,2025-09-19,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,88
+nct,ext_marifr,2025-09-20,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,293
+nct,ext_marifr,2025-09-22,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,125
+nct,ext_marifr,2025-09-23,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,190
+nct,ext_marifr,2025-09-24,MARIA EDUARDA DOS SANTOS FREITAS ,Nycolle,107
+nct,ext_marisnaa,2025-09-15,MARIA ISABELA PEREIRA SANTANA,Nycolle,12
+nct,ext_marisnaa,2025-09-16,MARIA ISABELA PEREIRA SANTANA,Nycolle,17
+nct,ext_marisnaa,2025-09-17,MARIA ISABELA PEREIRA SANTANA,Nycolle,9
+nct,ext_marisnaa,2025-09-18,MARIA ISABELA PEREIRA SANTANA,Nycolle,44
+nct,ext_marisnaa,2025-09-19,MARIA ISABELA PEREIRA SANTANA,Nycolle,24
+nct,ext_marisnaa,2025-09-22,MARIA ISABELA PEREIRA SANTANA,Nycolle,9
+nct,ext_marisnaa,2025-09-23,MARIA ISABELA PEREIRA SANTANA,Nycolle,32
+nct,ext_marisnaa,2025-09-25,MARIA ISABELA PEREIRA SANTANA,Nycolle,1
+nct,ext_marqj,2025-09-15,Joao Pedro Reis Marques de Oliveira,Adriana,78
+nct,ext_marqj,2025-09-16,Joao Pedro Reis Marques de Oliveira,Adriana,2
+nct,ext_marqj,2025-09-17,Joao Pedro Reis Marques de Oliveira,Adriana,8
+nct,ext_marqj,2025-09-18,Joao Pedro Reis Marques de Oliveira,Adriana,5
+nct,ext_marqj,2025-09-19,Joao Pedro Reis Marques de Oliveira,Adriana,6
+nct,ext_marqj,2025-09-22,Joao Pedro Reis Marques de Oliveira,Adriana,11
+nct,ext_marqj,2025-09-23,Joao Pedro Reis Marques de Oliveira,Adriana,12
+nct,ext_marqj,2025-09-24,Joao Pedro Reis Marques de Oliveira,Adriana,7
+nct,ext_matosfra,2025-09-17,Francisco Leonardo Vieira Matos,Cinthya,1
+nct,ext_matosfra,2025-09-18,Francisco Leonardo Vieira Matos,Cinthya,1
+nct,ext_matosfra,2025-09-19,Francisco Leonardo Vieira Matos,Cinthya,3
+nct,ext_matosfra,2025-09-20,Francisco Leonardo Vieira Matos,Cinthya,1
+nct,ext_matosfra,2025-09-22,Francisco Leonardo Vieira Matos,Cinthya,2
+nct,ext_mattimot,2025-09-15,Matheus Henrique Souza Timoteo,Nycolle,870
+nct,ext_mattimot,2025-09-16,Matheus Henrique Souza Timoteo,Nycolle,92
+nct,ext_mattimot,2025-09-18,Matheus Henrique Souza Timoteo,Nycolle,102
+nct,ext_mattimot,2025-09-19,Matheus Henrique Souza Timoteo,Nycolle,18
+nct,ext_mattimot,2025-09-22,Matheus Henrique Souza Timoteo,Nycolle,95
+nct,ext_mattimot,2025-09-23,Matheus Henrique Souza Timoteo,Nycolle,118
+nct,ext_mattimot,2025-09-24,Matheus Henrique Souza Timoteo,Nycolle,12
+nct,ext_mattimot,2025-09-25,Matheus Henrique Souza Timoteo,Nycolle,2
+nct,ext_maylrodr,2025-09-15,MAYLA SILVA RODRIGUES ,Cinthya,432
+nct,ext_maylrodr,2025-09-16,MAYLA SILVA RODRIGUES ,Cinthya,50
+nct,ext_maylrodr,2025-09-17,MAYLA SILVA RODRIGUES ,Cinthya,30
+nct,ext_maylrodr,2025-09-18,MAYLA SILVA RODRIGUES ,Cinthya,41
+nct,ext_maylrodr,2025-09-19,MAYLA SILVA RODRIGUES ,Cinthya,19
+nct,ext_maylrodr,2025-09-20,MAYLA SILVA RODRIGUES ,Cinthya,34
+nct,ext_maylrodr,2025-09-22,MAYLA SILVA RODRIGUES ,Cinthya,31
+nct,ext_maylrodr,2025-09-23,MAYLA SILVA RODRIGUES ,Cinthya,51
+nct,ext_melqalve,2025-09-15,Melquiana Alves De Deus Lisboa,Cinthya,329
+nct,ext_melqalve,2025-09-16,Melquiana Alves De Deus Lisboa,Cinthya,50
+nct,ext_melqalve,2025-09-17,Melquiana Alves De Deus Lisboa,Cinthya,67
+nct,ext_melqalve,2025-09-18,Melquiana Alves De Deus Lisboa,Cinthya,53
+nct,ext_melqalve,2025-09-19,Melquiana Alves De Deus Lisboa,Cinthya,49
+nct,ext_melqalve,2025-09-20,Melquiana Alves De Deus Lisboa,Cinthya,53
+nct,ext_melqalve,2025-09-22,Melquiana Alves De Deus Lisboa,Cinthya,69
+nct,ext_melqalve,2025-09-23,Melquiana Alves De Deus Lisboa,Cinthya,53
+nct,ext_miguearc,2025-09-15,Miguel Arcanjo Pereira Da Silva,Nycolle,1599
+nct,ext_miguearc,2025-09-16,Miguel Arcanjo Pereira Da Silva,Nycolle,132
+nct,ext_miguearc,2025-09-17,Miguel Arcanjo Pereira Da Silva,Nycolle,147
+nct,ext_miguearc,2025-09-18,Miguel Arcanjo Pereira Da Silva,Nycolle,136
+nct,ext_miguearc,2025-09-19,Miguel Arcanjo Pereira Da Silva,Nycolle,45
+nct,ext_miguearc,2025-09-22,Miguel Arcanjo Pereira Da Silva,Nycolle,221
+nct,ext_miguearc,2025-09-23,Miguel Arcanjo Pereira Da Silva,Nycolle,45
+nct,ext_miguearc,2025-09-24,Miguel Arcanjo Pereira Da Silva,Nycolle,107
+nct,ext_miguearc,2025-09-25,Miguel Arcanjo Pereira Da Silva,Nycolle,16
+nct,ext_moa,2025-09-15,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,446
+nct,ext_moa,2025-09-16,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,28
+nct,ext_moa,2025-09-17,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,35
+nct,ext_moa,2025-09-18,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,40
+nct,ext_moa,2025-09-19,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,31
+nct,ext_moa,2025-09-22,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,56
+nct,ext_moa,2025-09-23,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,101
+nct,ext_moa,2025-09-24,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,50
+nct,ext_moa,2025-09-25,ANA JULIA OLIVEIRA DE MORAIS ,Klaus,7
+nct,ext_mroso,2025-09-15,MARCO ANTONIO GOMES DE SOUZA,Chayene,8
+nct,ext_mroso,2025-09-17,MARCO ANTONIO GOMES DE SOUZA,Chayene,29
+nct,ext_mroso,2025-09-18,MARCO ANTONIO GOMES DE SOUZA,Chayene,29
+nct,ext_mroso,2025-09-19,MARCO ANTONIO GOMES DE SOUZA,Chayene,20
+nct,ext_mroso,2025-09-22,MARCO ANTONIO GOMES DE SOUZA,Chayene,27
+nct,ext_mroso,2025-09-23,MARCO ANTONIO GOMES DE SOUZA,Chayene,27
+nct,ext_mroso,2025-09-24,MARCO ANTONIO GOMES DE SOUZA,Chayene,35
+nct,ext_mroso,2025-09-25,MARCO ANTONIO GOMES DE SOUZA,Chayene,11
+nct,ext_mycbezer,2025-09-15,Myckaelly Eduarda Da Silva Bezerra,Nycolle,1010
+nct,ext_mycbezer,2025-09-16,Myckaelly Eduarda Da Silva Bezerra,Nycolle,74
+nct,ext_mycbezer,2025-09-17,Myckaelly Eduarda Da Silva Bezerra,Nycolle,109
+nct,ext_mycbezer,2025-09-18,Myckaelly Eduarda Da Silva Bezerra,Nycolle,78
+nct,ext_mycbezer,2025-09-19,Myckaelly Eduarda Da Silva Bezerra,Nycolle,14
+nct,ext_mycbezer,2025-09-22,Myckaelly Eduarda Da Silva Bezerra,Nycolle,74
+nct,ext_mycbezer,2025-09-23,Myckaelly Eduarda Da Silva Bezerra,Nycolle,63
+nct,ext_mycbezer,2025-09-24,Myckaelly Eduarda Da Silva Bezerra,Nycolle,8
+nct,ext_naslaura,2025-09-15,Laura Nicole Ferreira Do Nascimento,Cinthya,301
+nct,ext_naslaura,2025-09-16,Laura Nicole Ferreira Do Nascimento,Cinthya,19
+nct,ext_naslaura,2025-09-17,Laura Nicole Ferreira Do Nascimento,Cinthya,30
+nct,ext_naslaura,2025-09-18,Laura Nicole Ferreira Do Nascimento,Cinthya,27
+nct,ext_naslaura,2025-09-19,Laura Nicole Ferreira Do Nascimento,Cinthya,9
+nct,ext_naslaura,2025-09-22,Laura Nicole Ferreira Do Nascimento,Cinthya,25
+nct,ext_naslaura,2025-09-23,Laura Nicole Ferreira Do Nascimento,Cinthya,25
+nct,ext_naudias,2025-09-15,Nauany Dias Da Silva,Cinthya,294
+nct,ext_naudias,2025-09-16,Nauany Dias Da Silva,Cinthya,16
+nct,ext_naudias,2025-09-17,Nauany Dias Da Silva,Cinthya,25
+nct,ext_naudias,2025-09-20,Nauany Dias Da Silva,Cinthya,30
+nct,ext_naudias,2025-09-22,Nauany Dias Da Silva,Cinthya,1
+nct,ext_nawribei,2025-09-15,Nawhan da Silva Ribeiro,Cinthya,354
+nct,ext_nevitor,2025-09-15,Vitor Gabriel Batista Neves,Cinthya,335
+nct,ext_nevitor,2025-09-16,Vitor Gabriel Batista Neves,Cinthya,24
+nct,ext_nevitor,2025-09-17,Vitor Gabriel Batista Neves,Cinthya,29
+nct,ext_nevitor,2025-09-18,Vitor Gabriel Batista Neves,Cinthya,58
+nct,ext_nevitor,2025-09-19,Vitor Gabriel Batista Neves,Cinthya,15
+nct,ext_nevitor,2025-09-22,Vitor Gabriel Batista Neves,Cinthya,39
+nct,ext_nevitor,2025-09-23,Vitor Gabriel Batista Neves,Cinthya,40
+nct,ext_nimeira,2025-09-15,NICKOLAS MENDES MEIRA,Klaus,1321
+nct,ext_nimeira,2025-09-16,NICKOLAS MENDES MEIRA,Klaus,77
+nct,ext_nimeira,2025-09-17,NICKOLAS MENDES MEIRA,Klaus,76
+nct,ext_nimeira,2025-09-18,NICKOLAS MENDES MEIRA,Klaus,72
+nct,ext_nimeira,2025-09-19,NICKOLAS MENDES MEIRA,Klaus,27
+nct,ext_nimeira,2025-09-20,NICKOLAS MENDES MEIRA,Klaus,164
+nct,ext_nimeira,2025-09-22,NICKOLAS MENDES MEIRA,Klaus,73
+nct,ext_nimeira,2025-09-23,NICKOLAS MENDES MEIRA,Klaus,120
+nct,ext_nimeira,2025-09-24,NICKOLAS MENDES MEIRA,Klaus,61
+nct,ext_nimeira,2025-09-25,NICKOLAS MENDES MEIRA,Klaus,12
+nct,ext_nubiansi,2025-09-15,NUBIANE PEREIRA DA SILVA,Nycolle,343
+nct,ext_nubiansi,2025-09-16,NUBIANE PEREIRA DA SILVA,Nycolle,20
+nct,ext_nubiansi,2025-09-17,NUBIANE PEREIRA DA SILVA,Nycolle,16
+nct,ext_nubiansi,2025-09-18,NUBIANE PEREIRA DA SILVA,Nycolle,9
+nct,ext_nubiansi,2025-09-20,NUBIANE PEREIRA DA SILVA,Nycolle,108
+nct,ext_nubiansi,2025-09-22,NUBIANE PEREIRA DA SILVA,Nycolle,18
+nct,ext_nubiansi,2025-09-23,NUBIANE PEREIRA DA SILVA,Nycolle,38
+nct,ext_oliveray,2025-09-15,RAYSSA FALCAO DE MACEDO ,Adriana,932
+nct,ext_oliveray,2025-09-16,RAYSSA FALCAO DE MACEDO ,Adriana,70
+nct,ext_oliveray,2025-09-17,RAYSSA FALCAO DE MACEDO ,Adriana,40
+nct,ext_oliveray,2025-09-18,RAYSSA FALCAO DE MACEDO ,Adriana,61
+nct,ext_oliveray,2025-09-22,RAYSSA FALCAO DE MACEDO ,Adriana,65
+nct,ext_oliveray,2025-09-23,RAYSSA FALCAO DE MACEDO ,Adriana,102
+nct,ext_oliveray,2025-09-24,RAYSSA FALCAO DE MACEDO ,Adriana,14
+nct,ext_oliveray,2025-09-25,RAYSSA FALCAO DE MACEDO ,Adriana,2
+nct,ext_pabgama,2025-09-15,Pablo Henrique Torres Gama,Klaus,1255
+nct,ext_pabgama,2025-09-16,Pablo Henrique Torres Gama,Klaus,88
+nct,ext_pabgama,2025-09-17,Pablo Henrique Torres Gama,Klaus,77
+nct,ext_pabgama,2025-09-18,Pablo Henrique Torres Gama,Klaus,76
+nct,ext_pabgama,2025-09-19,Pablo Henrique Torres Gama,Klaus,13
+nct,ext_pabgama,2025-09-20,Pablo Henrique Torres Gama,Klaus,113
+nct,ext_pabgama,2025-09-22,Pablo Henrique Torres Gama,Klaus,91
+nct,ext_pabgama,2025-09-23,Pablo Henrique Torres Gama,Klaus,62
+nct,ext_pabgama,2025-09-24,Pablo Henrique Torres Gama,Klaus,12
+nct,ext_pabgama,2025-09-25,Pablo Henrique Torres Gama,Klaus,3
+nct,ext_paulassu,2025-09-15,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,1699
+nct,ext_paulassu,2025-09-16,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,160
+nct,ext_paulassu,2025-09-17,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,173
+nct,ext_paulassu,2025-09-18,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,171
+nct,ext_paulassu,2025-09-19,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,31
+nct,ext_paulassu,2025-09-20,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,148
+nct,ext_paulassu,2025-09-22,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,161
+nct,ext_paulassu,2025-09-23,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,136
+nct,ext_paulassu,2025-09-24,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,44
+nct,ext_paulassu,2025-09-25,Paulo Ricardo Pereira De Asuncao Grangeiro,Nycolle,12
+nct,ext_pedb,2025-09-19,PEDRO HENRIQUE ALBUQUERQUE BARBOSA,Adriana,45
+nct,ext_pedb,2025-09-20,PEDRO HENRIQUE ALBUQUERQUE BARBOSA,Adriana,8
+nct,ext_pedb,2025-09-22,PEDRO HENRIQUE ALBUQUERQUE BARBOSA,Adriana,7
+nct,ext_pedb,2025-09-23,PEDRO HENRIQUE ALBUQUERQUE BARBOSA,Adriana,6
+nct,ext_pedb,2025-09-24,PEDRO HENRIQUE ALBUQUERQUE BARBOSA,Adriana,8
+nct,ext_pedro,2025-09-18,PEDRO HENRIQUE SILVA DE OLIVEIRA ,Klaus,32
+nct,ext_pedro,2025-09-19,PEDRO HENRIQUE SILVA DE OLIVEIRA ,Klaus,23
+nct,ext_pedro,2025-09-20,PEDRO HENRIQUE SILVA DE OLIVEIRA ,Klaus,13
+nct,ext_pedro,2025-09-24,PEDRO HENRIQUE SILVA DE OLIVEIRA ,Klaus,29
+nct,ext_pedro,2025-09-25,PEDRO HENRIQUE SILVA DE OLIVEIRA ,Klaus,2
+nct,ext_peemeric,2025-09-15,Pedro Augusto Costa Emerick,Klaus,1108
+nct,ext_peemeric,2025-09-16,Pedro Augusto Costa Emerick,Klaus,136
+nct,ext_peemeric,2025-09-18,Pedro Augusto Costa Emerick,Klaus,143
+nct,ext_peemeric,2025-09-19,Pedro Augusto Costa Emerick,Klaus,2
+nct,ext_peemeric,2025-09-23,Pedro Augusto Costa Emerick,Klaus,143
+nct,ext_peemeric,2025-09-24,Pedro Augusto Costa Emerick,Klaus,29
+nct,ext_peresuel,2025-09-15,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,4
+nct,ext_peresuel,2025-09-16,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,8
+nct,ext_peresuel,2025-09-17,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,7
+nct,ext_peresuel,2025-09-18,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,21
+nct,ext_peresuel,2025-09-19,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,34
+nct,ext_peresuel,2025-09-20,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,47
+nct,ext_peresuel,2025-09-22,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,30
+nct,ext_peresuel,2025-09-23,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,72
+nct,ext_peresuel,2025-09-24,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,55
+nct,ext_peresuel,2025-09-25,SUELEN POLLIANA SANTOS PEREIRA ,Klaus,15
+nct,ext_qua,2025-09-15,Ana Carolina Batista De Queiroz,Cinthya,12
+nct,ext_qua,2025-09-16,Ana Carolina Batista De Queiroz,Cinthya,1
+nct,ext_qua,2025-09-17,Ana Carolina Batista De Queiroz,Cinthya,2
+nct,ext_qua,2025-09-20,Ana Carolina Batista De Queiroz,Cinthya,2
+nct,ext_qua,2025-09-22,Ana Carolina Batista De Queiroz,Cinthya,4
+nct,ext_qua,2025-09-23,Ana Carolina Batista De Queiroz,Cinthya,2
+nct,ext_quelmart,2025-09-15,Quele Alves Martins,Klaus,1282
+nct,ext_quelmart,2025-09-16,Quele Alves Martins,Klaus,73
+nct,ext_quelmart,2025-09-17,Quele Alves Martins,Klaus,112
+nct,ext_quelmart,2025-09-18,Quele Alves Martins,Klaus,118
+nct,ext_quelmart,2025-09-19,Quele Alves Martins,Klaus,13
+nct,ext_quelmart,2025-09-20,Quele Alves Martins,Klaus,180
+nct,ext_quelmart,2025-09-22,Quele Alves Martins,Klaus,99
+nct,ext_quelmart,2025-09-23,Quele Alves Martins,Klaus,133
+nct,ext_quelmart,2025-09-24,Quele Alves Martins,Klaus,56
+nct,ext_quereis,2025-09-17,QUEZIA EMANUELA SILVA REIS ,Adriana,3
+nct,ext_raitavar,2025-09-15,Raissa Regina Da Silva Tavares,Cinthya,127
+nct,ext_raitavar,2025-09-19,Raissa Regina Da Silva Tavares,Cinthya,4
+nct,ext_raitavar,2025-09-23,Raissa Regina Da Silva Tavares,Cinthya,30
+nct,ext_raqusil,2025-09-15,Raquel Meneses Fernandes da Silva,Nycolle,457
+nct,ext_raqusil,2025-09-16,Raquel Meneses Fernandes da Silva,Nycolle,66
+nct,ext_raqusil,2025-09-17,Raquel Meneses Fernandes da Silva,Nycolle,50
+nct,ext_raqusil,2025-09-18,Raquel Meneses Fernandes da Silva,Nycolle,93
+nct,ext_raqusil,2025-09-19,Raquel Meneses Fernandes da Silva,Nycolle,64
+nct,ext_raqusil,2025-09-20,Raquel Meneses Fernandes da Silva,Nycolle,223
+nct,ext_raqusil,2025-09-22,Raquel Meneses Fernandes da Silva,Nycolle,76
+nct,ext_raqusil,2025-09-23,Raquel Meneses Fernandes da Silva,Nycolle,116
+nct,ext_raqusil,2025-09-24,Raquel Meneses Fernandes da Silva,Nycolle,67
+nct,ext_raqusil,2025-09-25,Raquel Meneses Fernandes da Silva,Nycolle,13
+nct,ext_riasilv,2025-09-15,MARIA CLARA PEREIRA DA SILVA ,Klaus,535
+nct,ext_riasilv,2025-09-16,MARIA CLARA PEREIRA DA SILVA ,Klaus,27
+nct,ext_riasilv,2025-09-17,MARIA CLARA PEREIRA DA SILVA ,Klaus,87
+nct,ext_riasilv,2025-09-18,MARIA CLARA PEREIRA DA SILVA ,Klaus,42
+nct,ext_riasilv,2025-09-19,MARIA CLARA PEREIRA DA SILVA ,Klaus,32
+nct,ext_riasilv,2025-09-20,MARIA CLARA PEREIRA DA SILVA ,Klaus,108
+nct,ext_riasilv,2025-09-22,MARIA CLARA PEREIRA DA SILVA ,Klaus,74
+nct,ext_riasilv,2025-09-23,MARIA CLARA PEREIRA DA SILVA ,Klaus,139
+nct,ext_riasilv,2025-09-24,MARIA CLARA PEREIRA DA SILVA ,Klaus,85
+nct,ext_riasilv,2025-09-25,MARIA CLARA PEREIRA DA SILVA ,Klaus,19
+nct,ext_rosoluan,2025-09-15,Luan Rodrigues De Sousa,Nycolle,598
+nct,ext_rosoluan,2025-09-16,Luan Rodrigues De Sousa,Nycolle,179
+nct,ext_rosoluan,2025-09-17,Luan Rodrigues De Sousa,Nycolle,180
+nct,ext_rosoluan,2025-09-18,Luan Rodrigues De Sousa,Nycolle,182
+nct,ext_rosoluan,2025-09-19,Luan Rodrigues De Sousa,Nycolle,122
+nct,ext_rosoluan,2025-09-20,Luan Rodrigues De Sousa,Nycolle,279
+nct,ext_rosoluan,2025-09-22,Luan Rodrigues De Sousa,Nycolle,187
+nct,ext_rosoluan,2025-09-23,Luan Rodrigues De Sousa,Nycolle,239
+nct,ext_rosoluan,2025-09-24,Luan Rodrigues De Sousa,Nycolle,154
+nct,ext_ruticarv,2025-09-17,Rutiele Sousa Carvalho,Cinthya,8
+nct,ext_ruticarv,2025-09-18,Rutiele Sousa Carvalho,Cinthya,2
+nct,ext_ruticarv,2025-09-19,Rutiele Sousa Carvalho,Cinthya,5
+nct,ext_ruticarv,2025-09-22,Rutiele Sousa Carvalho,Cinthya,2
+nct,ext_ruticarv,2025-09-23,Rutiele Sousa Carvalho,Cinthya,3
+nct,ext_sanrubia,2025-09-15,Rubia Andreia Dos Santos,Cinthya,702
+nct,ext_sanrubia,2025-09-16,Rubia Andreia Dos Santos,Cinthya,83
+nct,ext_sanrubia,2025-09-17,Rubia Andreia Dos Santos,Cinthya,70
+nct,ext_sanrubia,2025-09-18,Rubia Andreia Dos Santos,Cinthya,61
+nct,ext_sanrubia,2025-09-19,Rubia Andreia Dos Santos,Cinthya,1
+nct,ext_sanrubia,2025-09-20,Rubia Andreia Dos Santos,Cinthya,105
+nct,ext_sanrubia,2025-09-22,Rubia Andreia Dos Santos,Cinthya,49
+nct,ext_sanrubia,2025-09-23,Rubia Andreia Dos Santos,Cinthya,66
+nct,ext_sanrubia,2025-09-24,Rubia Andreia Dos Santos,Cinthya,21
+nct,ext_santdi,2025-09-15,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,74
+nct,ext_santdi,2025-09-16,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,6
+nct,ext_santdi,2025-09-17,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,30
+nct,ext_santdi,2025-09-18,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,49
+nct,ext_santdi,2025-09-19,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,41
+nct,ext_santdi,2025-09-20,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,102
+nct,ext_santdi,2025-09-22,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,17
+nct,ext_santdi,2025-09-23,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,43
+nct,ext_santdi,2025-09-24,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,37
+nct,ext_santdi,2025-09-25,DIEGO VICTOR CARNEIRO DE SANTANA,Adriana,6
+nct,ext_santle,2025-09-15,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,469
+nct,ext_santle,2025-09-16,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,31
+nct,ext_santle,2025-09-17,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,22
+nct,ext_santle,2025-09-18,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,30
+nct,ext_santle,2025-09-19,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,4
+nct,ext_santle,2025-09-20,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,148
+nct,ext_santle,2025-09-22,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,36
+nct,ext_santle,2025-09-23,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,28
+nct,ext_santle,2025-09-24,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,7
+nct,ext_santle,2025-09-25,LEANDRO BRITO PEREIRA DOS SANTOS,Klaus,4
+nct,ext_sarao,2025-09-15,Sarah Cristina Costa de Oliveira,Klaus,497
+nct,ext_sarao,2025-09-17,Sarah Cristina Costa de Oliveira,Klaus,99
+nct,ext_sarao,2025-09-18,Sarah Cristina Costa de Oliveira,Klaus,76
+nct,ext_sarao,2025-09-19,Sarah Cristina Costa de Oliveira,Klaus,23
+nct,ext_sarao,2025-09-22,Sarah Cristina Costa de Oliveira,Klaus,86
+nct,ext_sarao,2025-09-23,Sarah Cristina Costa de Oliveira,Klaus,99
+nct,ext_sathi,2025-09-15,Thiago Oliveira Santos,Chayene,23
+nct,ext_sathi,2025-09-16,Thiago Oliveira Santos,Chayene,38
+nct,ext_sathi,2025-09-17,Thiago Oliveira Santos,Chayene,73
+nct,ext_sathi,2025-09-18,Thiago Oliveira Santos,Chayene,35
+nct,ext_sathi,2025-09-19,Thiago Oliveira Santos,Chayene,33
+nct,ext_sathi,2025-09-22,Thiago Oliveira Santos,Chayene,72
+nct,ext_sathi,2025-09-23,Thiago Oliveira Santos,Chayene,76
+nct,ext_sathi,2025-09-24,Thiago Oliveira Santos,Chayene,51
+nct,ext_sidavyd,2025-09-15,DAVYD LUKAS DA CONCEIÇÃO SILVA,Nycolle,527
+nct,ext_sidavyd,2025-09-16,DAVYD LUKAS DA CONCEIÇÃO SILVA,Nycolle,34
+nct,ext_sidavyd,2025-09-17,DAVYD LUKAS DA CONCEIÇÃO SILVA,Nycolle,36
+nct,ext_sidavyd,2025-09-18,DAVYD LUKAS DA CONCEIÇÃO SILVA,Nycolle,37
+nct,ext_sidavyd,2025-09-19,DAVYD LUKAS DA CONCEIÇÃO SILVA,Nycolle,46
+nct,ext_sidavyd,2025-09-22,DAVYD LUKAS DA CONCEIÇÃO SILVA,Nycolle,41
+nct,ext_sidavyd,2025-09-23,DAVYD LUKAS DA CONCEIÇÃO SILVA,Nycolle,30
+nct,ext_sidavyd,2025-09-24,DAVYD LUKAS DA CONCEIÇÃO SILVA,Nycolle,23
+nct,ext_silelien,2025-09-15,Eliene Souza Da Silva,Cinthya,378
+nct,ext_silelien,2025-09-16,Eliene Souza Da Silva,Cinthya,11
+nct,ext_silelien,2025-09-17,Eliene Souza Da Silva,Cinthya,10
+nct,ext_silelien,2025-09-18,Eliene Souza Da Silva,Cinthya,11
+nct,ext_silelien,2025-09-19,Eliene Souza Da Silva,Cinthya,13
+nct,ext_silelien,2025-09-20,Eliene Souza Da Silva,Cinthya,18
+nct,ext_silelien,2025-09-22,Eliene Souza Da Silva,Cinthya,11
+nct,ext_silelien,2025-09-23,Eliene Souza Da Silva,Cinthya,17
+nct,ext_silet,2025-09-15,LETICIA SANTANA DA SILVA ,Chayene,63
+nct,ext_silet,2025-09-18,LETICIA SANTANA DA SILVA ,Chayene,71
+nct,ext_silet,2025-09-22,LETICIA SANTANA DA SILVA ,Chayene,79
+nct,ext_silet,2025-09-23,LETICIA SANTANA DA SILVA ,Chayene,20
+nct,ext_silpinto,2025-09-15,Silvana Fernandes Pinto ,Chayene,11
+nct,ext_silpinto,2025-09-17,Silvana Fernandes Pinto ,Chayene,1
+nct,ext_silsilv,2025-09-15,Maria Eduarda Campos da Silva,Klaus,1125
+nct,ext_silsilv,2025-09-16,Maria Eduarda Campos da Silva,Klaus,102
+nct,ext_silsilv,2025-09-17,Maria Eduarda Campos da Silva,Klaus,88
+nct,ext_silsilv,2025-09-18,Maria Eduarda Campos da Silva,Klaus,72
+nct,ext_silsilv,2025-09-19,Maria Eduarda Campos da Silva,Klaus,47
+nct,ext_silsilv,2025-09-22,Maria Eduarda Campos da Silva,Klaus,117
+nct,ext_silsilv,2025-09-23,Maria Eduarda Campos da Silva,Klaus,140
+nct,ext_silsilv,2025-09-24,Maria Eduarda Campos da Silva,Klaus,82
+nct,ext_silvizab,2025-09-15,Izabella Pereira Da Silva,Cinthya,292
+nct,ext_silvizab,2025-09-16,Izabella Pereira Da Silva,Cinthya,107
+nct,ext_silvizab,2025-09-17,Izabella Pereira Da Silva,Cinthya,102
+nct,ext_silvizab,2025-09-18,Izabella Pereira Da Silva,Cinthya,106
+nct,ext_silvizab,2025-09-22,Izabella Pereira Da Silva,Cinthya,119
+nct,ext_silvizab,2025-09-23,Izabella Pereira Da Silva,Cinthya,144
+nct,ext_silvizab,2025-09-24,Izabella Pereira Da Silva,Cinthya,54
+nct,ext_soaguiar,2025-09-15,LUCAS SOUSA AGUIAR ,Adriana,322
+nct,ext_soaraiss,2025-09-15,Raissa Vitoria Rodrigues Feitosa,Nycolle,797
+nct,ext_soaraiss,2025-09-16,Raissa Vitoria Rodrigues Feitosa,Nycolle,127
+nct,ext_soaraiss,2025-09-18,Raissa Vitoria Rodrigues Feitosa,Nycolle,129
+nct,ext_soaraiss,2025-09-22,Raissa Vitoria Rodrigues Feitosa,Nycolle,154
+nct,ext_soaraiss,2025-09-24,Raissa Vitoria Rodrigues Feitosa,Nycolle,59
+nct,ext_sothalyt,2025-09-15,THALYTA GABRIELA FERNANDES DE SOUZA ,Chayene,5
+nct,ext_sothalyt,2025-09-16,THALYTA GABRIELA FERNANDES DE SOUZA ,Chayene,3
+nct,ext_sothalyt,2025-09-17,THALYTA GABRIELA FERNANDES DE SOUZA ,Chayene,54
+nct,ext_sothalyt,2025-09-18,THALYTA GABRIELA FERNANDES DE SOUZA ,Chayene,37
+nct,ext_sothalyt,2025-09-19,THALYTA GABRIELA FERNANDES DE SOUZA ,Chayene,29
+nct,ext_sothalyt,2025-09-22,THALYTA GABRIELA FERNANDES DE SOUZA ,Chayene,26
+nct,ext_sothalyt,2025-09-23,THALYTA GABRIELA FERNANDES DE SOUZA ,Chayene,28
+nct,ext_sothalyt,2025-09-24,THALYTA GABRIELA FERNANDES DE SOUZA ,Chayene,48
+nct,ext_stelasou,2025-09-16,Stela Bezerra De Souza,Chayene,3
+nct,ext_stelasou,2025-09-17,Stela Bezerra De Souza,Chayene,2
+nct,ext_stelasou,2025-09-18,Stela Bezerra De Souza,Chayene,16
+nct,ext_stelasou,2025-09-19,Stela Bezerra De Souza,Chayene,36
+nct,ext_stelasou,2025-09-22,Stela Bezerra De Souza,Chayene,33
+nct,ext_stelasou,2025-09-23,Stela Bezerra De Souza,Chayene,36
+nct,ext_stelasou,2025-09-24,Stela Bezerra De Souza,Chayene,24
+nct,ext_stelasou,2025-09-25,Stela Bezerra De Souza,Chayene,6
+nct,ext_stephas,2025-09-15,STEPHANE SOPHIA GONZAGA DA SILVA,Cinthya,391
+nct,ext_stephas,2025-09-16,STEPHANE SOPHIA GONZAGA DA SILVA,Cinthya,28
+nct,ext_stephas,2025-09-17,STEPHANE SOPHIA GONZAGA DA SILVA,Cinthya,32
+nct,ext_stephas,2025-09-18,STEPHANE SOPHIA GONZAGA DA SILVA,Cinthya,46
+nct,ext_stephas,2025-09-19,STEPHANE SOPHIA GONZAGA DA SILVA,Cinthya,18
+nct,ext_stephas,2025-09-23,STEPHANE SOPHIA GONZAGA DA SILVA,Cinthya,55
+nct,ext_talits,2025-09-15,TALITA GABRIELA CORDEIRO SANTANA,Adriana,1117
+nct,ext_talits,2025-09-16,TALITA GABRIELA CORDEIRO SANTANA,Adriana,48
+nct,ext_talits,2025-09-17,TALITA GABRIELA CORDEIRO SANTANA,Adriana,64
+nct,ext_talits,2025-09-18,TALITA GABRIELA CORDEIRO SANTANA,Adriana,85
+nct,ext_talits,2025-09-19,TALITA GABRIELA CORDEIRO SANTANA,Adriana,36
+nct,ext_talits,2025-09-20,TALITA GABRIELA CORDEIRO SANTANA,Adriana,165
+nct,ext_talits,2025-09-22,TALITA GABRIELA CORDEIRO SANTANA,Adriana,86
+nct,ext_talits,2025-09-23,TALITA GABRIELA CORDEIRO SANTANA,Adriana,58
+nct,ext_talits,2025-09-24,TALITA GABRIELA CORDEIRO SANTANA,Adriana,19
+nct,ext_talits,2025-09-25,TALITA GABRIELA CORDEIRO SANTANA,Adriana,3
+nct,ext_tava,2025-09-17,ANA LUISA GUEDES TAVARES ,Cinthya,1
+nct,ext_tava,2025-09-18,ANA LUISA GUEDES TAVARES ,Cinthya,3
+nct,ext_tava,2025-09-19,ANA LUISA GUEDES TAVARES ,Cinthya,17
+nct,ext_tava,2025-09-22,ANA LUISA GUEDES TAVARES ,Cinthya,1
+nct,ext_tava,2025-09-23,ANA LUISA GUEDES TAVARES ,Cinthya,2
+nct,ext_theferre,2025-09-15,Therlys Alencar Ferreira,Klaus,821
+nct,ext_theferre,2025-09-16,Therlys Alencar Ferreira,Klaus,78
+nct,ext_theferre,2025-09-17,Therlys Alencar Ferreira,Klaus,23
+nct,ext_theferre,2025-09-18,Therlys Alencar Ferreira,Klaus,66
+nct,ext_theferre,2025-09-19,Therlys Alencar Ferreira,Klaus,43
+nct,ext_theferre,2025-09-20,Therlys Alencar Ferreira,Klaus,161
+nct,ext_theferre,2025-09-22,Therlys Alencar Ferreira,Klaus,59
+nct,ext_theferre,2025-09-23,Therlys Alencar Ferreira,Klaus,170
+nct,ext_theferre,2025-09-24,Therlys Alencar Ferreira,Klaus,46
+nct,ext_theferre,2025-09-25,Therlys Alencar Ferreira,Klaus,6
+nct,ext_thimaia,2025-09-19,THIAGO ALEXANDRE MAIA,Adriana,61
+nct,ext_thimaia,2025-09-20,THIAGO ALEXANDRE MAIA,Adriana,30
+nct,ext_thimaia,2025-09-22,THIAGO ALEXANDRE MAIA,Adriana,23
+nct,ext_thimaia,2025-09-23,THIAGO ALEXANDRE MAIA,Adriana,7
+nct,ext_thimaia,2025-09-24,THIAGO ALEXANDRE MAIA,Adriana,15
+nct,ext_valqucar,2025-09-15,Valquiria Alves Ferreira de Carvalho,Klaus,541
+nct,ext_valqucar,2025-09-16,Valquiria Alves Ferreira de Carvalho,Klaus,109
+nct,ext_valqucar,2025-09-17,Valquiria Alves Ferreira de Carvalho,Klaus,98
+nct,ext_valqucar,2025-09-18,Valquiria Alves Ferreira de Carvalho,Klaus,87
+nct,ext_valqucar,2025-09-19,Valquiria Alves Ferreira de Carvalho,Klaus,62
+nct,ext_valqucar,2025-09-20,Valquiria Alves Ferreira de Carvalho,Klaus,227
+nct,ext_valqucar,2025-09-22,Valquiria Alves Ferreira de Carvalho,Klaus,106
+nct,ext_valqucar,2025-09-23,Valquiria Alves Ferreira de Carvalho,Klaus,149
+nct,ext_valqucar,2025-09-24,Valquiria Alves Ferreira de Carvalho,Klaus,71
+nct,ext_valqucar,2025-09-25,Valquiria Alves Ferreira de Carvalho,Klaus,10
+nct,ext_vanec,2025-09-15,Vanessa da Silva Costa,Klaus,910
+nct,ext_vanec,2025-09-16,Vanessa da Silva Costa,Klaus,129
+nct,ext_vanec,2025-09-22,Vanessa da Silva Costa,Klaus,94
+nct,ext_vanec,2025-09-23,Vanessa da Silva Costa,Klaus,123
+nct,ext_vanec,2025-09-24,Vanessa da Silva Costa,Klaus,70
+nct,ext_vigmarco,2025-09-15,Marcos Vinicius Goncalves Da Silva,Chayene,115
+nct,ext_vigmarco,2025-09-16,Marcos Vinicius Goncalves Da Silva,Chayene,6
+nct,ext_vigmarco,2025-09-17,Marcos Vinicius Goncalves Da Silva,Chayene,16
+nct,ext_vigmarco,2025-09-18,Marcos Vinicius Goncalves Da Silva,Chayene,12
+nct,ext_vigmarco,2025-09-22,Marcos Vinicius Goncalves Da Silva,Chayene,1
+nct,ext_vitomati,2025-09-15,VITOR MORAES MATIAS ,Nycolle,31
+nct,ext_vitomati,2025-09-16,VITOR MORAES MATIAS ,Nycolle,41
+nct,ext_vitomati,2025-09-17,VITOR MORAES MATIAS ,Nycolle,62
+nct,ext_vitomati,2025-09-18,VITOR MORAES MATIAS ,Nycolle,80
+nct,ext_vitomati,2025-09-19,VITOR MORAES MATIAS ,Nycolle,96
+nct,ext_vitomati,2025-09-22,VITOR MORAES MATIAS ,Nycolle,64
+nct,ext_vitomati,2025-09-23,VITOR MORAES MATIAS ,Nycolle,74
+nct,ext_vitomati,2025-09-24,VITOR MORAES MATIAS ,Nycolle,70
+nct,ext_yasdamas,2025-09-19,YASMIN PEREIRA DAMASIO,Adriana,6
+nct,ext_yasdamas,2025-09-20,YASMIN PEREIRA DAMASIO,Adriana,2
+nct,ext_yasdamas,2025-09-22,YASMIN PEREIRA DAMASIO,Adriana,1
+nct,ext_yasdamas,2025-09-23,YASMIN PEREIRA DAMASIO,Adriana,1
+nct,ext_yasms,2025-09-15,YASMIN ALVES DE SOUSA,Cinthya,267
+nct,ext_yasms,2025-09-16,YASMIN ALVES DE SOUSA,Cinthya,66
+nct,ext_yasms,2025-09-17,YASMIN ALVES DE SOUSA,Cinthya,65
+nct,ext_yasms,2025-09-18,YASMIN ALVES DE SOUSA,Cinthya,58
+nct,ext_yasms,2025-09-19,YASMIN ALVES DE SOUSA,Cinthya,47
+nct,ext_yasms,2025-09-20,YASMIN ALVES DE SOUSA,Cinthya,114
+nct,ext_yasms,2025-09-22,YASMIN ALVES DE SOUSA,Cinthya,91
+nct,ext_yasms,2025-09-23,YASMIN ALVES DE SOUSA,Cinthya,94
+nct,ext_yasms,2025-09-24,YASMIN ALVES DE SOUSA,Cinthya,43
+nct,ext_yasms,2025-09-25,YASMIN ALVES DE SOUSA,Cinthya,17
